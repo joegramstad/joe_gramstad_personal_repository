@@ -1,6 +1,9 @@
 import csv
 import sys
 import os
+import requests
+import json
+import Expense
 
 def main():
     while True:
@@ -12,7 +15,9 @@ def main():
             return
         elif command == "add expense":
             print("add expense\n")
-            save_data = Expense.add_expense(argv[1])
+            arguments = open_csv(sys.argv[1], 'r')
+            for line in arguments:
+                save_data.append(Expense.add_expense(line))
             save_status(save_data)
         elif command == "add sale":
             print("add sale\n")
