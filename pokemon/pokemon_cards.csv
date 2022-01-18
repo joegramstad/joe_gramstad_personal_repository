@@ -1,0 +1,2005 @@
+series,code,,set_name,supertype,rarity,card_number,card_title,pokemon,release_date,normal_price,holo_price,rev_holo_price,price
+XY,,xy12-1,Evolutions,Pokémon,Rare Holo EX,1,Venusaur-EX,3,11/2/2016,,3.06,,3.06
+XY,,xy12-2,Evolutions,Pokémon,Rare Holo EX,2,M Venusaur-EX,3,11/2/2016,,5.76,,5.76
+XY,,xy12-3,Evolutions,Pokémon,Common,3,Caterpie,10,11/2/2016,0.07,,0.41,0.41
+XY,,xy12-4,Evolutions,Pokémon,Uncommon,4,Metapod,11,11/2/2016,0.09,,0.33,0.33
+XY,,xy12-5,Evolutions,Pokémon,Common,5,Weedle,13,11/2/2016,0.05,,0.36,0.36
+XY,,xy12-6,Evolutions,Pokémon,Uncommon,6,Kakuna,14,11/2/2016,0.08,,0.35,0.35
+XY,,xy12-7,Evolutions,Pokémon,Rare,7,Beedrill,15,11/2/2016,0.16,,1.3,1.3
+XY,,xy12-8,Evolutions,Pokémon,Common,8,Tangela,114,11/2/2016,0.08,,0.35,0.35
+XY,,xy12-9,Evolutions,Pokémon,Common,9,Charmander,4,11/2/2016,0.16,,1.23,1.23
+XY,,xy12-10,Evolutions,Pokémon,Uncommon,10,Charmeleon,5,11/2/2016,0.15,,1.11,1.11
+XY,,xy12-11,Evolutions,Pokémon,Rare Holo,11,Charizard,6,11/2/2016,,54.95,48.18,54.95
+XY,,xy12-12,Evolutions,Pokémon,Rare Holo EX,12,Charizard-EX,6,11/2/2016,,9.21,,9.21
+XY,,xy12-13,Evolutions,Pokémon,Rare Holo EX,13,M Charizard-EX,6,11/2/2016,,25.46,,25.46
+XY,,xy12-14,Evolutions,Pokémon,Common,14,Vulpix,37,11/2/2016,0.07,,0.56,0.56
+XY,,xy12-15,Evolutions,Pokémon,Rare Holo,15,Ninetales,38,11/2/2016,,3.14,2.47,3.14
+XY,,xy12-16,Evolutions,Pokémon,Rare BREAK,16,Ninetales BREAK,38,11/2/2016,,1.46,,1.46
+XY,,xy12-17,Evolutions,Pokémon,Common,17,Growlithe,58,11/2/2016,0.09,,0.42,0.42
+XY,,xy12-18,Evolutions,Pokémon,Rare,18,Arcanine,59,11/2/2016,0.25,,1.71,1.71
+XY,,xy12-19,Evolutions,Pokémon,Common,19,Ponyta,77,11/2/2016,0.06,,0.34,0.34
+XY,,xy12-20,Evolutions,Pokémon,Uncommon,20,Magmar,126,11/2/2016,0.12,,0.41,0.41
+XY,,xy12-21,Evolutions,Pokémon,Rare Holo EX,21,Blastoise-EX,9,11/2/2016,,3.62,,3.62
+XY,,xy12-22,Evolutions,Pokémon,Rare Holo EX,22,M Blastoise-EX,9,11/2/2016,,8.75,,8.75
+XY,,xy12-23,Evolutions,Pokémon,Common,23,Poliwag,60,11/2/2016,0.07,,0.43,0.43
+XY,,xy12-24,Evolutions,Pokémon,Uncommon,24,Poliwhirl,61,11/2/2016,0.12,,0.48,0.48
+XY,,xy12-25,Evolutions,Pokémon,Rare Holo,25,Poliwrath,62,11/2/2016,,1.83,1.83,1.83
+XY,,xy12-26,Evolutions,Pokémon,Rare Holo EX,26,Slowbro-EX,80,11/2/2016,,1.62,,1.62
+XY,,xy12-27,Evolutions,Pokémon,Rare Holo EX,27,M Slowbro-EX,80,11/2/2016,,4.21,,4.21
+XY,,xy12-28,Evolutions,Pokémon,Common,28,Seel,86,11/2/2016,0.06,,0.38,0.38
+XY,,xy12-29,Evolutions,Pokémon,Rare,29,Dewgong,87,11/2/2016,0.2,,0.99,0.99
+XY,,xy12-30,Evolutions,Pokémon,Common,30,Staryu,120,11/2/2016,0.06,,0.35,0.35
+XY,,xy12-31,Evolutions,Pokémon,Rare,31,Starmie,121,11/2/2016,0.19,,1.24,1.24
+XY,,xy12-32,Evolutions,Pokémon,Rare BREAK,32,Starmie BREAK,121,11/2/2016,,1.39,,1.39
+XY,,xy12-33,Evolutions,Pokémon,Common,33,Magikarp,129,11/2/2016,0.09,,0.55,0.55
+XY,,xy12-34,Evolutions,Pokémon,Rare Holo,34,Gyarados,130,11/2/2016,,2.91,2.92,2.92
+XY,,xy12-35,Evolutions,Pokémon,Common,35,Pikachu,25,11/2/2016,0.19,,1.38,1.38
+XY,,xy12-36,Evolutions,Pokémon,Rare Holo,36,Raichu,26,11/2/2016,,3.65,3.33,3.65
+XY,,xy12-37,Evolutions,Pokémon,Common,37,Magnemite,81,11/2/2016,0.07,,0.36,0.36
+XY,,xy12-38,Evolutions,Pokémon,Rare Holo,38,Magneton,82,11/2/2016,,1.52,1.37,1.52
+XY,,xy12-39,Evolutions,Pokémon,Common,39,Voltorb,100,11/2/2016,0.06,,0.38,0.38
+XY,,xy12-40,Evolutions,Pokémon,Rare,40,Electrode,101,11/2/2016,0.16,,1.16,1.16
+XY,,xy12-41,Evolutions,Pokémon,Common,41,Electabuzz,125,11/2/2016,0.13,,0.33,0.33
+XY,,xy12-42,Evolutions,Pokémon,Rare Holo,42,Zapdos,145,11/2/2016,,2.89,3.01,3.01
+XY,,xy12-43,Evolutions,Pokémon,Common,43,Nidoran ♂,32,11/2/2016,0.08,,0.29,0.29
+XY,,xy12-44,Evolutions,Pokémon,Uncommon,44,Nidorino,33,11/2/2016,0.1,,0.39,0.39
+XY,,xy12-45,Evolutions,Pokémon,Rare Holo,45,Nidoking,34,11/2/2016,,3.03,2.12,3.03
+XY,,xy12-46,Evolutions,Pokémon,Rare BREAK,46,Nidoking BREAK,34,11/2/2016,,1.55,,1.55
+XY,,xy12-47,Evolutions,Pokémon,Common,47,Gastly,92,11/2/2016,0.08,,0.4,0.4
+XY,,xy12-48,Evolutions,Pokémon,Uncommon,48,Haunter,93,11/2/2016,0.1,,0.34,0.34
+XY,,xy12-49,Evolutions,Pokémon,Common,49,Drowzee,96,11/2/2016,0.07,,0.36,0.36
+XY,,xy12-50,Evolutions,Pokémon,Uncommon,50,Koffing,109,11/2/2016,0.09,,0.33,0.33
+XY,,xy12-51,Evolutions,Pokémon,Rare,51,Mewtwo,150,11/2/2016,0.86,,3.04,3.04
+XY,,xy12-52,Evolutions,Pokémon,Rare Holo EX,52,Mewtwo-EX,150,11/2/2016,,4.04,,4.04
+XY,,xy12-53,Evolutions,Pokémon,Rare Holo,53,Mew,151,11/2/2016,,5.48,4.99,5.48
+XY,,xy12-54,Evolutions,Pokémon,Common,54,Sandshrew,27,11/2/2016,0.07,,0.4,0.4
+XY,,xy12-55,Evolutions,Pokémon,Common,55,Diglett,50,11/2/2016,0.04,,0.35,0.35
+XY,,xy12-56,Evolutions,Pokémon,Rare,56,Dugtrio,51,11/2/2016,0.14,,1.22,1.22
+XY,,xy12-57,Evolutions,Pokémon,Common,57,Machop,66,11/2/2016,0.07,,0.41,0.41
+XY,,xy12-58,Evolutions,Pokémon,Uncommon,58,Machoke,67,11/2/2016,0.14,,0.35,0.35
+XY,,xy12-59,Evolutions,Pokémon,Rare Holo,59,Machamp,68,11/2/2016,,2.75,2.13,2.75
+XY,,xy12-60,Evolutions,Pokémon,Rare BREAK,60,Machamp BREAK,68,11/2/2016,,1.65,,1.65
+XY,,xy12-61,Evolutions,Pokémon,Common,61,Onix,95,11/2/2016,0.08,,0.3,0.3
+XY,,xy12-62,Evolutions,Pokémon,Rare Holo,62,Hitmonchan,107,11/2/2016,,1.58,1.45,1.58
+XY,,xy12-63,Evolutions,Pokémon,Rare Holo,63,Clefairy,35,11/2/2016,,1.28,1.31,1.31
+XY,,xy12-64,Evolutions,Pokémon,Rare Holo EX,64,Pidgeot-EX,18,11/2/2016,,1.68,,1.68
+XY,,xy12-65,Evolutions,Pokémon,Rare Holo EX,65,M Pidgeot-EX,18,11/2/2016,,2.6,,2.6
+XY,,xy12-66,Evolutions,Pokémon,Common,66,Rattata,19,11/2/2016,0.09,,0.31,0.31
+XY,,xy12-67,Evolutions,Pokémon,Rare,67,Raticate,20,11/2/2016,0.16,,1,1
+XY,,xy12-68,Evolutions,Pokémon,Rare,68,Farfetch'd,83,11/2/2016,0.17,,1.16,1.16
+XY,,xy12-69,Evolutions,Pokémon,Common,69,Doduo,84,11/2/2016,0.06,,0.31,0.31
+XY,,xy12-70,Evolutions,Pokémon,Rare Holo,70,Chansey,113,11/2/2016,,1.55,1.89,1.89
+XY,,xy12-71,Evolutions,Pokémon,Uncommon,71,Porygon,137,11/2/2016,0.09,,0.34,0.34
+XY,,xy12-72,Evolutions,Pokémon,Rare Holo EX,72,Dragonite-EX,149,11/2/2016,,2.9,,2.9
+XY,,xy12-73,Evolutions,Trainer,Uncommon,73,Blastoise Spirit Link,,11/2/2016,0.08,,1.17,1.17
+XY,,xy12-74,Evolutions,Trainer,Uncommon,74,Brock's Grit,,11/2/2016,0.11,,0.33,0.33
+XY,,xy12-75,Evolutions,Trainer,Uncommon,75,Charizard Spirit Link,,11/2/2016,0.15,,2.19,2.19
+XY,,xy12-76,Evolutions,Trainer,Uncommon,76,Devolution Spray,,11/2/2016,0.08,,1.14,1.14
+XY,,xy12-77,Evolutions,Trainer,Uncommon,77,Energy Retrieval,,11/2/2016,0.1,,1.17,1.17
+XY,,xy12-78,Evolutions,Trainer,Uncommon,78,Full Heal,,11/2/2016,0.09,,0.96,0.96
+XY,,xy12-79,Evolutions,Trainer,Uncommon,79,Maintenance,,11/2/2016,0.09,,1.33,1.33
+XY,,xy12-80,Evolutions,Trainer,Uncommon,80,Misty's Determination,,11/2/2016,0.09,,0.34,0.34
+XY,,xy12-81,Evolutions,Trainer,Uncommon,81,Pidgeot Spirit Link,,11/2/2016,0.1,,1.39,1.39
+XY,,xy12-82,Evolutions,Trainer,Uncommon,82,Pokédex,,11/2/2016,0.08,,1.06,1.06
+XY,,xy12-83,Evolutions,Trainer,Uncommon,83,Potion,,11/2/2016,0.09,,1.55,1.55
+XY,,xy12-84,Evolutions,Trainer,Uncommon,84,Professor Oak's Hint,,11/2/2016,0.11,,0.28,0.28
+XY,,xy12-85,Evolutions,Trainer,Uncommon,85,Revive,,11/2/2016,0.09,,1.17,1.17
+XY,,xy12-86,Evolutions,Trainer,Uncommon,86,Slowbro Spirit Link,,11/2/2016,0.09,,1.69,1.69
+XY,,xy12-87,Evolutions,Trainer,Uncommon,87,Super Potion,,11/2/2016,0.09,,1.37,1.37
+XY,,xy12-88,Evolutions,Trainer,Uncommon,88,Switch,,11/2/2016,0.2,,0.51,0.51
+XY,,xy12-89,Evolutions,Trainer,Uncommon,89,Venusaur Spirit Link,,11/2/2016,0.1,,1.41,1.41
+XY,,xy12-90,Evolutions,Energy,Uncommon,90,Double Colorless Energy,,11/2/2016,0.33,,1.66,1.66
+XY,,xy12-91,Evolutions,Energy,Common,91,Grass Energy,,11/2/2016,0.24,,1.43,1.43
+XY,,xy12-92,Evolutions,Energy,Common,92,Fire Energy,,11/2/2016,0.28,,2.22,2.22
+XY,,xy12-93,Evolutions,Energy,Common,93,Water Energy,,11/2/2016,0.26,,2.61,2.61
+XY,,xy12-94,Evolutions,Energy,Common,94,Lightning Energy,,11/2/2016,0.2,,2.26,2.26
+XY,,xy12-95,Evolutions,Energy,Common,95,Psychic Energy,,11/2/2016,0.25,,2.46,2.46
+XY,,xy12-96,Evolutions,Energy,Common,96,Fighting Energy,,11/2/2016,0.17,,1.59,1.59
+XY,,xy12-97,Evolutions,Energy,Common,97,Darkness Energy,,11/2/2016,0.41,,2.91,2.91
+XY,,xy12-98,Evolutions,Energy,Common,98,Metal Energy,,11/2/2016,0.31,,2.3,2.3
+XY,,xy12-99,Evolutions,Energy,Common,99,Fairy Energy,,11/2/2016,0.34,,2.04,2.04
+XY,,xy12-100,Evolutions,Pokémon,Rare Ultra,100,M Venusaur-EX,3,11/2/2016,,12.04,,12.04
+XY,,xy12-101,Evolutions,Pokémon,Rare Ultra,101,M Charizard-EX,6,11/2/2016,,40.47,,40.47
+XY,,xy12-102,Evolutions,Pokémon,Rare Ultra,102,M Blastoise-EX,9,11/2/2016,,13.9,,13.9
+XY,,xy12-103,Evolutions,Pokémon,Rare Ultra,103,Mewtwo-EX,150,11/2/2016,,12.42,,12.42
+XY,,xy12-104,Evolutions,Pokémon,Rare Ultra,104,Pidgeot-EX,18,11/2/2016,,3.92,,3.92
+XY,,xy12-105,Evolutions,Pokémon,Rare Ultra,105,M Pidgeot-EX,18,11/2/2016,,4.81,,4.81
+XY,,xy12-106,Evolutions,Pokémon,Rare Ultra,106,Dragonite-EX,149,11/2/2016,,13.16,,13.16
+XY,,xy12-107,Evolutions,Trainer,Rare Ultra,107,Brock's Grit,,11/2/2016,,4.52,,4.52
+XY,,xy12-108,Evolutions,Trainer,Rare Ultra,108,Misty's Determination,,11/2/2016,,10.65,,10.65
+XY,,xy12-109,Evolutions,Pokémon,Rare Secret,109,ナッシー[Exeggutor],103,11/2/2016,0.86,,,0.86
+XY,,xy12-110,Evolutions,Pokémon,Rare Secret,110,Flying Pikachu,25,11/2/2016,2.22,,,2.22
+XY,,xy12-111,Evolutions,Pokémon,Rare Secret,111,Surfing Pikachu,25,11/2/2016,2.29,,,2.29
+XY,,xy12-112,Evolutions,Pokémon,Rare Secret,112,Imakuni?'s Doduo,84,11/2/2016,0.87,,,0.87
+XY,,xy12-113,Evolutions,Trainer,Rare Secret,113,Here Comes Team Rocket!,,11/2/2016,0.71,,,0.71
+Sun & Moon,,sm1-1,Sun & Moon,Pokémon,Common,1,Caterpie,10,2/3/2017,0.05,,0.2,0.2
+Sun & Moon,,sm1-2,Sun & Moon,Pokémon,Uncommon,2,Metapod,11,2/3/2017,0.06,,0.21,0.21
+Sun & Moon,,sm1-3,Sun & Moon,Pokémon,Rare,3,Butterfree,12,2/3/2017,0.16,,0.33,0.33
+Sun & Moon,,sm1-4,Sun & Moon,Pokémon,Common,4,Paras,46,2/3/2017,0.05,,0.18,0.18
+Sun & Moon,,sm1-5,Sun & Moon,Pokémon,Rare,5,Parasect,47,2/3/2017,0.12,,0.25,0.25
+Sun & Moon,,sm1-6,Sun & Moon,Pokémon,Uncommon,6,Pinsir,127,2/3/2017,0.09,,0.28,0.28
+Sun & Moon,,sm1-7,Sun & Moon,Pokémon,Common,7,Surskit,283,2/3/2017,0.04,,0.17,0.17
+Sun & Moon,,sm1-8,Sun & Moon,Pokémon,Rare,8,Masquerain,284,2/3/2017,0.11,,0.16,0.16
+Sun & Moon,,sm1-9,Sun & Moon,Pokémon,Common,9,Rowlet,722,2/3/2017,0.06,,0.35,0.35
+Sun & Moon,,sm1-10,Sun & Moon,Pokémon,Uncommon,10,Dartrix,723,2/3/2017,0.08,,0.23,0.23
+Sun & Moon,,sm1-11,Sun & Moon,Pokémon,Rare,11,Decidueye,724,2/3/2017,0.14,,0.26,0.26
+Sun & Moon,,sm1-12,Sun & Moon,Pokémon,Rare Holo GX,12,Decidueye-GX,724,2/3/2017,,2.03,,2.03
+Sun & Moon,,sm1-13,Sun & Moon,Pokémon,Common,13,Grubbin,736,2/3/2017,0.06,,0.24,0.24
+Sun & Moon,,sm1-14,Sun & Moon,Pokémon,Common,14,Fomantis,753,2/3/2017,0.06,,0.23,0.23
+Sun & Moon,,sm1-15,Sun & Moon,Pokémon,Rare Holo GX,15,Lurantis-GX,754,2/3/2017,,1.64,,1.64
+Sun & Moon,,sm1-16,Sun & Moon,Pokémon,Common,16,Morelull,755,2/3/2017,0.05,,0.17,0.17
+Sun & Moon,,sm1-17,Sun & Moon,Pokémon,Rare Holo,17,Shiinotic,756,2/3/2017,,0.5,0.63,0.63
+Sun & Moon,,sm1-18,Sun & Moon,Pokémon,Common,18,Bounsweet,761,2/3/2017,0.04,,0.19,0.19
+Sun & Moon,,sm1-19,Sun & Moon,Pokémon,Uncommon,19,Steenee,762,2/3/2017,0.06,,0.26,0.26
+Sun & Moon,,sm1-20,Sun & Moon,Pokémon,Rare Holo,20,Tsareena,763,2/3/2017,,0.37,0.51,0.51
+Sun & Moon,,sm1-21,Sun & Moon,Pokémon,Common,21,Growlithe,58,2/3/2017,0.08,,0.28,0.28
+Sun & Moon,,sm1-22,Sun & Moon,Pokémon,Rare Holo,22,Arcanine,59,2/3/2017,,0.82,0.88,0.88
+Sun & Moon,,sm1-23,Sun & Moon,Pokémon,Common,23,Torkoal,324,2/3/2017,0.06,,0.19,0.19
+Sun & Moon,,sm1-24,Sun & Moon,Pokémon,Common,24,Litten,725,2/3/2017,0.05,,0.22,0.22
+Sun & Moon,,sm1-25,Sun & Moon,Pokémon,Uncommon,25,Torracat,726,2/3/2017,0.14,,0.25,0.25
+Sun & Moon,,sm1-26,Sun & Moon,Pokémon,Rare,26,Incineroar,727,2/3/2017,0.22,,0.26,0.26
+Sun & Moon,,sm1-27,Sun & Moon,Pokémon,Rare Holo GX,27,Incineroar-GX,727,2/3/2017,,4.04,,4.04
+Sun & Moon,,sm1-28,Sun & Moon,Pokémon,Common,28,Psyduck,54,2/3/2017,0.09,,0.33,0.33
+Sun & Moon,,sm1-29,Sun & Moon,Pokémon,Rare,29,Golduck,55,2/3/2017,0.12,,0.29,0.29
+Sun & Moon,,sm1-30,Sun & Moon,Pokémon,Common,30,Poliwag,60,2/3/2017,0.11,,0.22,0.22
+Sun & Moon,,sm1-31,Sun & Moon,Pokémon,Uncommon,31,Poliwhirl,61,2/3/2017,0.09,,0.28,0.28
+Sun & Moon,,sm1-32,Sun & Moon,Pokémon,Rare Holo,32,Poliwrath,62,2/3/2017,,0.49,0.71,0.71
+Sun & Moon,,sm1-33,Sun & Moon,Pokémon,Common,33,Shellder,90,2/3/2017,0.06,,0.2,0.2
+Sun & Moon,,sm1-34,Sun & Moon,Pokémon,Rare,34,Cloyster,91,2/3/2017,0.12,,0.32,0.32
+Sun & Moon,,sm1-35,Sun & Moon,Pokémon,Rare Holo GX,35,Lapras-GX,131,2/3/2017,,1.75,,1.75
+Sun & Moon,,sm1-36,Sun & Moon,Pokémon,Uncommon,36,Corsola,222,2/3/2017,0.06,,0.17,0.17
+Sun & Moon,,sm1-37,Sun & Moon,Pokémon,Common,37,Wingull,278,2/3/2017,0.04,,0.17,0.17
+Sun & Moon,,sm1-38,Sun & Moon,Pokémon,Uncommon,38,Pelipper,279,2/3/2017,0.07,,0.18,0.18
+Sun & Moon,,sm1-39,Sun & Moon,Pokémon,Common,39,Popplio,728,2/3/2017,0.06,,0.25,0.25
+Sun & Moon,,sm1-40,Sun & Moon,Pokémon,Uncommon,40,Brionne,729,2/3/2017,0.11,,0.25,0.25
+Sun & Moon,,sm1-41,Sun & Moon,Pokémon,Rare,41,Primarina,730,2/3/2017,0.15,,0.26,0.26
+Sun & Moon,,sm1-42,Sun & Moon,Pokémon,Rare Holo GX,42,Primarina-GX,730,2/3/2017,,2.08,,2.08
+Sun & Moon,,sm1-43,Sun & Moon,Pokémon,Rare,43,Crabominable,740,2/3/2017,0.1,,0.28,0.28
+Sun & Moon,,sm1-44,Sun & Moon,Pokémon,Uncommon,44,Wishiwashi,746,2/3/2017,0.06,,0.23,0.23
+Sun & Moon,,sm1-45,Sun & Moon,Pokémon,Common,45,Dewpider,751,2/3/2017,0.06,,0.2,0.2
+Sun & Moon,,sm1-46,Sun & Moon,Pokémon,Uncommon,46,Araquanid,752,2/3/2017,0.07,,0.2,0.2
+Sun & Moon,,sm1-47,Sun & Moon,Pokémon,Uncommon,47,Pyukumuku,771,2/3/2017,0.08,,0.27,0.27
+Sun & Moon,,sm1-48,Sun & Moon,Pokémon,Rare,48,Bruxish,779,2/3/2017,0.11,,0.26,0.26
+Sun & Moon,,sm1-49,Sun & Moon,Pokémon,Common,49,Chinchou,170,2/3/2017,0.04,,0.2,0.2
+Sun & Moon,,sm1-50,Sun & Moon,Pokémon,Rare,50,Lanturn,171,2/3/2017,0.09,,0.21,0.21
+Sun & Moon,,sm1-51,Sun & Moon,Pokémon,Uncommon,51,Charjabug,737,2/3/2017,0.07,,0.17,0.17
+Sun & Moon,,sm1-52,Sun & Moon,Pokémon,Rare Holo,52,Vikavolt,738,2/3/2017,,0.38,0.69,0.69
+Sun & Moon,,sm1-53,Sun & Moon,Pokémon,Common,53,Togedemaru,777,2/3/2017,0.06,,0.2,0.2
+Sun & Moon,,sm1-54,Sun & Moon,Pokémon,Common,54,Zubat,41,2/3/2017,0.07,,0.18,0.18
+Sun & Moon,,sm1-55,Sun & Moon,Pokémon,Uncommon,55,Golbat,42,2/3/2017,0.08,,0.19,0.19
+Sun & Moon,,sm1-56,Sun & Moon,Pokémon,Rare Holo,56,Crobat,169,2/3/2017,,0.43,0.6,0.6
+Sun & Moon,,sm1-57,Sun & Moon,Pokémon,Common,57,Alolan Grimer,88,2/3/2017,0.07,,0.24,0.24
+Sun & Moon,,sm1-58,Sun & Moon,Pokémon,Rare Holo,58,Alolan Muk,89,2/3/2017,,0.76,0.64,0.76
+Sun & Moon,,sm1-59,Sun & Moon,Pokémon,Common,59,Drowzee,96,2/3/2017,0.05,,0.25,0.25
+Sun & Moon,,sm1-60,Sun & Moon,Pokémon,Uncommon,60,Hypno,97,2/3/2017,0.1,,0.19,0.19
+Sun & Moon,,sm1-61,Sun & Moon,Pokémon,Rare Holo GX,61,Espeon-GX,196,2/3/2017,,2.24,,2.24
+Sun & Moon,,sm1-62,Sun & Moon,Pokémon,Common,62,Mareanie,747,2/3/2017,0.07,,0.25,0.25
+Sun & Moon,,sm1-63,Sun & Moon,Pokémon,Rare Holo,63,Toxapex,748,2/3/2017,,0.45,0.67,0.67
+Sun & Moon,,sm1-64,Sun & Moon,Pokémon,Common,64,Cosmog,789,2/3/2017,0.07,,0.26,0.26
+Sun & Moon,,sm1-65,Sun & Moon,Pokémon,Rare,65,Cosmoem,790,2/3/2017,0.15,,0.28,0.28
+Sun & Moon,,sm1-66,Sun & Moon,Pokémon,Rare Holo GX,66,Lunala-GX,792,2/3/2017,,3.31,,3.31
+Sun & Moon,,sm1-67,Sun & Moon,Pokémon,Common,67,Makuhita,296,2/3/2017,0.03,,0.17,0.17
+Sun & Moon,,sm1-68,Sun & Moon,Pokémon,Rare,68,Hariyama,297,2/3/2017,0.13,,0.24,0.24
+Sun & Moon,,sm1-69,Sun & Moon,Pokémon,Common,69,Roggenrola,524,2/3/2017,0.04,,0.18,0.18
+Sun & Moon,,sm1-70,Sun & Moon,Pokémon,Uncommon,70,Boldore,525,2/3/2017,0.07,,0.21,0.21
+Sun & Moon,,sm1-71,Sun & Moon,Pokémon,Rare Holo,71,Gigalith,526,2/3/2017,,0.38,0.47,0.47
+Sun & Moon,,sm1-72,Sun & Moon,Pokémon,Common,72,Crabrawler,739,2/3/2017,0.04,,0.18,0.18
+Sun & Moon,,sm1-73,Sun & Moon,Pokémon,Uncommon,73,Passimian,766,2/3/2017,0.05,,0.18,0.18
+Sun & Moon,,sm1-74,Sun & Moon,Pokémon,Common,74,Sandygast,769,2/3/2017,0.04,,0.22,0.22
+Sun & Moon,,sm1-75,Sun & Moon,Pokémon,Rare,75,Palossand,770,2/3/2017,0.12,,0.26,0.26
+Sun & Moon,,sm1-76,Sun & Moon,Pokémon,Common,76,Alolan Rattata,19,2/3/2017,0.07,,0.24,0.24
+Sun & Moon,,sm1-77,Sun & Moon,Pokémon,Uncommon,77,Alolan Raticate,20,2/3/2017,0.1,,0.21,0.21
+Sun & Moon,,sm1-78,Sun & Moon,Pokémon,Common,78,Alolan Meowth,52,2/3/2017,0.07,,0.17,0.17
+Sun & Moon,,sm1-79,Sun & Moon,Pokémon,Uncommon,79,Alolan Persian,53,2/3/2017,0.09,,0.26,0.26
+Sun & Moon,,sm1-80,Sun & Moon,Pokémon,Rare Holo GX,80,Umbreon-GX,197,2/3/2017,,5.79,,5.79
+Sun & Moon,,sm1-81,Sun & Moon,Pokémon,Common,81,Carvanha,318,2/3/2017,0.07,,0.19,0.19
+Sun & Moon,,sm1-82,Sun & Moon,Pokémon,Rare Holo,82,Sharpedo,319,2/3/2017,,0.46,0.57,0.57
+Sun & Moon,,sm1-83,Sun & Moon,Pokémon,Common,83,Sandile,551,2/3/2017,0.06,,0.13,0.13
+Sun & Moon,,sm1-84,Sun & Moon,Pokémon,Uncommon,84,Krokorok,552,2/3/2017,0.07,,0.19,0.19
+Sun & Moon,,sm1-85,Sun & Moon,Pokémon,Rare Holo,85,Krookodile,553,2/3/2017,,0.28,0.3,0.3
+Sun & Moon,,sm1-86,Sun & Moon,Pokémon,Common,86,Alolan Diglett,50,2/3/2017,0.04,,0.26,0.26
+Sun & Moon,,sm1-87,Sun & Moon,Pokémon,Rare Holo,87,Alolan Dugtrio,51,2/3/2017,,0.42,0.37,0.42
+Sun & Moon,,sm1-88,Sun & Moon,Pokémon,Common,88,Skarmory,227,2/3/2017,0.04,,0.2,0.2
+Sun & Moon,,sm1-89,Sun & Moon,Pokémon,Rare Holo GX,89,Solgaleo-GX,791,2/3/2017,,5.19,,5.19
+Sun & Moon,,sm1-90,Sun & Moon,Pokémon,Common,90,Snubbull,209,2/3/2017,0.04,,0.19,0.19
+Sun & Moon,,sm1-91,Sun & Moon,Pokémon,Uncommon,91,Granbull,210,2/3/2017,0.08,,0.2,0.2
+Sun & Moon,,sm1-92,Sun & Moon,Pokémon,Common,92,Cutiefly,742,2/3/2017,0.05,,0.18,0.18
+Sun & Moon,,sm1-93,Sun & Moon,Pokémon,Rare Holo,93,Ribombee,743,2/3/2017,,0.29,0.37,0.37
+Sun & Moon,,sm1-94,Sun & Moon,Pokémon,Common,94,Dratini,147,2/3/2017,0.11,,0.28,0.28
+Sun & Moon,,sm1-95,Sun & Moon,Pokémon,Uncommon,95,Dragonair,148,2/3/2017,0.26,,0.37,0.37
+Sun & Moon,,sm1-96,Sun & Moon,Pokémon,Rare Holo,96,Dragonite,149,2/3/2017,,0.72,0.76,0.76
+Sun & Moon,,sm1-97,Sun & Moon,Pokémon,Common,97,Spearow,21,2/3/2017,0.04,,0.18,0.18
+Sun & Moon,,sm1-98,Sun & Moon,Pokémon,Common,98,Fearow,22,2/3/2017,0.04,,0.22,0.22
+Sun & Moon,,sm1-99,Sun & Moon,Pokémon,Rare Holo,99,Kangaskhan,115,2/3/2017,,0.3,0.26,0.3
+Sun & Moon,,sm1-100,Sun & Moon,Pokémon,Rare Holo GX,100,Tauros-GX,128,2/3/2017,,1.68,,1.68
+Sun & Moon,,sm1-101,Sun & Moon,Pokémon,Common,101,Eevee,133,2/3/2017,0.17,,0.55,0.55
+Sun & Moon,,sm1-102,Sun & Moon,Pokémon,Uncommon,102,Spinda,327,2/3/2017,0.07,,0.24,0.24
+Sun & Moon,,sm1-103,Sun & Moon,Pokémon,Common,103,Lillipup,506,2/3/2017,0.04,,0.18,0.18
+Sun & Moon,,sm1-104,Sun & Moon,Pokémon,Uncommon,104,Herdier,507,2/3/2017,0.08,,0.22,0.22
+Sun & Moon,,sm1-105,Sun & Moon,Pokémon,Rare,105,Stoutland,508,2/3/2017,0.11,,0.23,0.23
+Sun & Moon,,sm1-106,Sun & Moon,Pokémon,Common,106,Pikipek,731,2/3/2017,0.06,,0.18,0.18
+Sun & Moon,,sm1-107,Sun & Moon,Pokémon,Uncommon,107,Trumbeak,732,2/3/2017,0.06,,0.2,0.2
+Sun & Moon,,sm1-108,Sun & Moon,Pokémon,Rare,108,Toucannon,733,2/3/2017,0.11,,0.25,0.25
+Sun & Moon,,sm1-109,Sun & Moon,Pokémon,Common,109,Yungoos,734,2/3/2017,0.03,,0.18,0.18
+Sun & Moon,,sm1-110,Sun & Moon,Pokémon,Rare Holo GX,110,Gumshoos-GX,735,2/3/2017,,1.21,,1.21
+Sun & Moon,,sm1-111,Sun & Moon,Pokémon,Common,111,Stufful,759,2/3/2017,0.05,,0.22,0.22
+Sun & Moon,,sm1-112,Sun & Moon,Pokémon,Rare,112,Bewear,760,2/3/2017,0.12,,0.22,0.22
+Sun & Moon,,sm1-113,Sun & Moon,Pokémon,Rare Holo,113,Oranguru,765,2/3/2017,,0.4,0.4,0.4
+Sun & Moon,,sm1-114,Sun & Moon,Trainer,Uncommon,114,Big Malasada,,2/3/2017,0.1,,0.18,0.18
+Sun & Moon,,sm1-115,Sun & Moon,Trainer,Uncommon,115,Crushing Hammer,,2/3/2017,0.25,,0.51,0.51
+Sun & Moon,,sm1-116,Sun & Moon,Trainer,Uncommon,116,Energy Retrieval,,2/3/2017,0.12,,0.28,0.28
+Sun & Moon,,sm1-117,Sun & Moon,Trainer,Uncommon,117,Energy Switch,,2/3/2017,0.12,,0.25,0.25
+Sun & Moon,,sm1-118,Sun & Moon,Trainer,Uncommon,118,Exp. Share,,2/3/2017,0.11,,0.19,0.19
+Sun & Moon,,sm1-119,Sun & Moon,Trainer,Uncommon,119,Great Ball,,2/3/2017,0.15,,0.22,0.22
+Sun & Moon,,sm1-120,Sun & Moon,Trainer,Uncommon,120,Hau,,2/3/2017,0.16,,0.29,0.29
+Sun & Moon,,sm1-121,Sun & Moon,Trainer,Uncommon,121,Ilima,,2/3/2017,0.07,,0.21,0.21
+Sun & Moon,,sm1-122,Sun & Moon,Trainer,Uncommon,122,Lillie,,2/3/2017,0.13,,0.25,0.25
+Sun & Moon,,sm1-123,Sun & Moon,Trainer,Uncommon,123,Nest Ball,,2/3/2017,0.3,,0.44,0.44
+Sun & Moon,,sm1-124,Sun & Moon,Trainer,Uncommon,124,Poison Barb,,2/3/2017,0.16,,0.23,0.23
+Sun & Moon,,sm1-125,Sun & Moon,Trainer,Uncommon,125,Poké Ball,,2/3/2017,0.08,,0.2,0.2
+Sun & Moon,,sm1-126,Sun & Moon,Trainer,Uncommon,126,Pokémon Catcher,,2/3/2017,0.09,,0.17,0.17
+Sun & Moon,,sm1-127,Sun & Moon,Trainer,Uncommon,127,Potion,,2/3/2017,0.08,,0.23,0.23
+Sun & Moon,,sm1-128,Sun & Moon,Trainer,Uncommon,128,Professor Kukui,,2/3/2017,0.13,,0.31,0.31
+Sun & Moon,,sm1-129,Sun & Moon,Trainer,Uncommon,129,Rare Candy,,2/3/2017,0.23,,0.27,0.27
+Sun & Moon,,sm1-130,Sun & Moon,Trainer,Uncommon,130,Repel,,2/3/2017,0.08,,0.24,0.24
+Sun & Moon,,sm1-131,Sun & Moon,Trainer,Uncommon,131,Rotom Dex,,2/3/2017,0.09,,0.18,0.18
+Sun & Moon,,sm1-132,Sun & Moon,Trainer,Uncommon,132,Switch,,2/3/2017,0.16,,0.27,0.27
+Sun & Moon,,sm1-133,Sun & Moon,Trainer,Uncommon,133,Team Skull Grunt,,2/3/2017,0.1,,0.27,0.27
+Sun & Moon,,sm1-134,Sun & Moon,Trainer,Uncommon,134,Timer Ball,,2/3/2017,0.16,,0.29,0.29
+Sun & Moon,,sm1-135,Sun & Moon,Trainer,Uncommon,135,Ultra Ball,,2/3/2017,0.32,,0.44,0.44
+Sun & Moon,,sm1-136,Sun & Moon,Energy,Uncommon,136,Double Colorless Energy,,2/3/2017,0.63,,0.54,0.63
+Sun & Moon,,sm1-137,Sun & Moon,Energy,Uncommon,137,Rainbow Energy,,2/3/2017,0.2,,0.36,0.36
+Sun & Moon,,sm1-138,Sun & Moon,Pokémon,Rare Ultra,138,Lurantis-GX,754,2/3/2017,,2.08,,2.08
+Sun & Moon,,sm1-139,Sun & Moon,Pokémon,Rare Ultra,139,Lapras-GX,131,2/3/2017,,3.08,,3.08
+Sun & Moon,,sm1-140,Sun & Moon,Pokémon,Rare Ultra,140,Espeon-GX,196,2/3/2017,,7.13,,7.13
+Sun & Moon,,sm1-141,Sun & Moon,Pokémon,Rare Ultra,141,Lunala-GX,792,2/3/2017,,3.46,,3.46
+Sun & Moon,,sm1-142,Sun & Moon,Pokémon,Rare Ultra,142,Umbreon-GX,197,2/3/2017,,8.6,,8.6
+Sun & Moon,,sm1-143,Sun & Moon,Pokémon,Rare Ultra,143,Solgaleo-GX,791,2/3/2017,,5.07,,5.07
+Sun & Moon,,sm1-144,Sun & Moon,Pokémon,Rare Ultra,144,Tauros-GX,128,2/3/2017,,2.06,,2.06
+Sun & Moon,,sm1-145,Sun & Moon,Pokémon,Rare Ultra,145,Gumshoos-GX,735,2/3/2017,,2.01,,2.01
+Sun & Moon,,sm1-146,Sun & Moon,Trainer,Rare Ultra,146,Ilima,,2/3/2017,,2.59,,2.59
+Sun & Moon,,sm1-147,Sun & Moon,Trainer,Rare Ultra,147,Lillie,,2/3/2017,,22.37,,22.37
+Sun & Moon,,sm1-148,Sun & Moon,Trainer,Rare Ultra,148,Professor Kukui,,2/3/2017,,3.1,,3.1
+Sun & Moon,,sm1-149,Sun & Moon,Trainer,Rare Ultra,149,Team Skull Grunt,,2/3/2017,,3.18,,3.18
+Sun & Moon,,sm1-150,Sun & Moon,Pokémon,Rare Rainbow,150,Lurantis-GX,754,2/3/2017,,5.9,,5.9
+Sun & Moon,,sm1-151,Sun & Moon,Pokémon,Rare Rainbow,151,Lapras-GX,131,2/3/2017,,9.18,,9.18
+Sun & Moon,,sm1-152,Sun & Moon,Pokémon,Rare Rainbow,152,Espeon-GX,196,2/3/2017,,16.23,,16.23
+Sun & Moon,,sm1-153,Sun & Moon,Pokémon,Rare Rainbow,153,Lunala-GX,792,2/3/2017,,10.89,,10.89
+Sun & Moon,,sm1-154,Sun & Moon,Pokémon,Rare Rainbow,154,Umbreon-GX,197,2/3/2017,,30.32,,30.32
+Sun & Moon,,sm1-155,Sun & Moon,Pokémon,Rare Rainbow,155,Solgaleo-GX,791,2/3/2017,,21.15,,21.15
+Sun & Moon,,sm1-156,Sun & Moon,Pokémon,Rare Rainbow,156,Tauros-GX,128,2/3/2017,,5.9,,5.9
+Sun & Moon,,sm1-157,Sun & Moon,Pokémon,Rare Rainbow,157,Gumshoos-GX,735,2/3/2017,,5.15,,5.15
+Sun & Moon,,sm1-158,Sun & Moon,Trainer,Rare Secret,158,Nest Ball,,2/3/2017,,8.95,,8.95
+Sun & Moon,,sm1-159,Sun & Moon,Trainer,Rare Secret,159,Rotom Dex,,2/3/2017,,4.63,,4.63
+Sun & Moon,,sm1-160,Sun & Moon,Trainer,Rare Secret,160,Switch,,2/3/2017,,28.98,,28.98
+Sun & Moon,,sm1-161,Sun & Moon,Trainer,Rare Secret,161,Ultra Ball,,2/3/2017,,41.17,,41.17
+Sun & Moon,,sm1-162,Sun & Moon,Energy,Rare Secret,162,Psychic Energy,,2/3/2017,,16.96,,16.96
+Sun & Moon,,sm1-163,Sun & Moon,Energy,Rare Secret,163,Metal Energy,,2/3/2017,,12.26,,12.26
+Sun & Moon,,sm1-164,Sun & Moon,Energy,Common,164,Grass Energy,,2/3/2017,,,,0
+Sun & Moon,,sm1-165,Sun & Moon,Energy,Common,165,Fire Energy,,2/3/2017,,,,0
+Sun & Moon,,sm1-166,Sun & Moon,Energy,Common,166,Water Energy,,2/3/2017,,,,0
+Sun & Moon,,sm1-167,Sun & Moon,Energy,Common,167,Lightning Energy,,2/3/2017,,,,0
+Sun & Moon,,sm1-168,Sun & Moon,Energy,Common,168,Psychic Energy,,2/3/2017,,,,0
+Sun & Moon,,sm1-169,Sun & Moon,Energy,Common,169,Fighting Energy,,2/3/2017,,,,0
+Sun & Moon,,sm1-170,Sun & Moon,Energy,Common,170,Darkness Energy,,2/3/2017,,,,0
+Sun & Moon,,sm1-171,Sun & Moon,Energy,Common,171,Metal Energy,,2/3/2017,,,,0
+Sun & Moon,,sm1-172,Sun & Moon,Energy,Common,172,Fairy Energy,,2/3/2017,,,,0
+Sun & Moon,,sm1-173,Sun & Moon,Pokémon,Common,101a,Eevee,133,2/3/2017,,,,0
+Sun & Moon,,sm4-1,Crimson Invasion,Pokémon,Common,1,Weedle,13,11/3/2017,0.09,,0.2,0.2
+Sun & Moon,,sm4-2,Crimson Invasion,Pokémon,Uncommon,2,Kakuna,14,11/3/2017,0.09,,0.26,0.26
+Sun & Moon,,sm4-3,Crimson Invasion,Pokémon,Rare,3,Beedrill,15,11/3/2017,0.19,,0.24,0.24
+Sun & Moon,,sm4-4,Crimson Invasion,Pokémon,Common,4,Exeggcute,102,11/3/2017,0.06,,0.13,0.13
+Sun & Moon,,sm4-5,Crimson Invasion,Pokémon,Common,5,Cacnea,331,11/3/2017,0.09,,0.24,0.24
+Sun & Moon,,sm4-6,Crimson Invasion,Pokémon,Rare,6,Cacturne,332,11/3/2017,0.13,,0.29,0.29
+Sun & Moon,,sm4-7,Crimson Invasion,Pokémon,Common,7,Karrablast,588,11/3/2017,0.08,,0.16,0.16
+Sun & Moon,,sm4-8,Crimson Invasion,Pokémon,Common,8,Shelmet,616,11/3/2017,0.08,,0.19,0.19
+Sun & Moon,,sm4-9,Crimson Invasion,Pokémon,Uncommon,9,Accelgor,617,11/3/2017,0.08,,0.19,0.19
+Sun & Moon,,sm4-10,Crimson Invasion,Pokémon,Common,10,Skiddo,672,11/3/2017,0.06,,0.17,0.17
+Sun & Moon,,sm4-11,Crimson Invasion,Pokémon,Rare Holo,11,Gogoat,673,11/3/2017,,0.28,0.33,0.33
+Sun & Moon,,sm4-12,Crimson Invasion,Pokémon,Rare Holo,12,Alolan Marowak,105,11/3/2017,,0.71,0.98,0.98
+Sun & Moon,,sm4-13,Crimson Invasion,Pokémon,Common,13,Numel,322,11/3/2017,0.11,,0.13,0.13
+Sun & Moon,,sm4-14,Crimson Invasion,Pokémon,Rare,14,Camerupt,323,11/3/2017,0.18,,0.26,0.26
+Sun & Moon,,sm4-15,Crimson Invasion,Pokémon,Common,15,Staryu,120,11/3/2017,0.08,,0.17,0.17
+Sun & Moon,,sm4-16,Crimson Invasion,Pokémon,Rare,16,Starmie,121,11/3/2017,0.19,,0.24,0.24
+Sun & Moon,,sm4-17,Crimson Invasion,Pokémon,Common,17,Magikarp,129,11/3/2017,0.21,,0.25,0.25
+Sun & Moon,,sm4-18,Crimson Invasion,Pokémon,Rare Holo GX,18,Gyarados-GX,130,11/3/2017,,2.85,,2.85
+Sun & Moon,,sm4-19,Crimson Invasion,Pokémon,Common,19,Swinub,220,11/3/2017,0.08,,0.2,0.2
+Sun & Moon,,sm4-20,Crimson Invasion,Pokémon,Uncommon,20,Piloswine,221,11/3/2017,0.09,,0.21,0.21
+Sun & Moon,,sm4-21,Crimson Invasion,Pokémon,Rare,21,Mamoswine,473,11/3/2017,0.26,,0.25,0.26
+Sun & Moon,,sm4-22,Crimson Invasion,Pokémon,Common,22,Remoraid,223,11/3/2017,0.08,,0.14,0.14
+Sun & Moon,,sm4-23,Crimson Invasion,Pokémon,Rare,23,Octillery,224,11/3/2017,0.18,,0.3,0.3
+Sun & Moon,,sm4-24,Crimson Invasion,Pokémon,Common,24,Corphish,341,11/3/2017,0.08,,0.16,0.16
+Sun & Moon,,sm4-25,Crimson Invasion,Pokémon,Rare,25,Crawdaunt,342,11/3/2017,0.14,,0.35,0.35
+Sun & Moon,,sm4-26,Crimson Invasion,Pokémon,Common,26,Feebas,349,11/3/2017,0.07,,0.14,0.14
+Sun & Moon,,sm4-27,Crimson Invasion,Pokémon,Rare Holo,27,Milotic,350,11/3/2017,,0.36,0.38,0.38
+Sun & Moon,,sm4-28,Crimson Invasion,Pokémon,Rare Holo,28,Regice,378,11/3/2017,,0.48,0.45,0.48
+Sun & Moon,,sm4-29,Crimson Invasion,Pokémon,Common,29,Shellos,422,11/3/2017,0.07,,0.14,0.14
+Sun & Moon,,sm4-30,Crimson Invasion,Pokémon,Common,30,Pikachu,25,11/3/2017,0.31,,1.01,1.01
+Sun & Moon,,sm4-31,Crimson Invasion,Pokémon,Rare Holo,31,Alolan Raichu,26,11/3/2017,,0.86,0.76,0.86
+Sun & Moon,,sm4-32,Crimson Invasion,Pokémon,Common,32,Alolan Geodude,74,11/3/2017,0.08,,0.19,0.19
+Sun & Moon,,sm4-33,Crimson Invasion,Pokémon,Uncommon,33,Alolan Graveler,75,11/3/2017,0.11,,0.21,0.21
+Sun & Moon,,sm4-34,Crimson Invasion,Pokémon,Rare Holo GX,34,Alolan Golem-GX,76,11/3/2017,,2.12,,2.12
+Sun & Moon,,sm4-35,Crimson Invasion,Pokémon,Uncommon,35,Emolga,587,11/3/2017,0.11,,0.25,0.25
+Sun & Moon,,sm4-36,Crimson Invasion,Pokémon,Common,36,Gastly,92,11/3/2017,0.13,,0.21,0.21
+Sun & Moon,,sm4-37,Crimson Invasion,Pokémon,Uncommon,37,Haunter,93,11/3/2017,0.24,,0.38,0.38
+Sun & Moon,,sm4-38,Crimson Invasion,Pokémon,Rare Holo,38,Gengar,94,11/3/2017,,2.14,1.56,2.14
+Sun & Moon,,sm4-39,Crimson Invasion,Pokémon,Common,39,Misdreavus,200,11/3/2017,0.1,,0.2,0.2
+Sun & Moon,,sm4-40,Crimson Invasion,Pokémon,Rare,40,Mismagius,429,11/3/2017,0.21,,0.4,0.4
+Sun & Moon,,sm4-41,Crimson Invasion,Pokémon,Common,41,Spoink,325,11/3/2017,0.06,,0.21,0.21
+Sun & Moon,,sm4-42,Crimson Invasion,Pokémon,Uncommon,42,Grumpig,326,11/3/2017,0.07,,0.27,0.27
+Sun & Moon,,sm4-43,Crimson Invasion,Pokémon,Common,43,Chimecho,358,11/3/2017,0.06,,0.22,0.22
+Sun & Moon,,sm4-44,Crimson Invasion,Pokémon,Common,44,Pumpkaboo,710,11/3/2017,0.08,,0.16,0.16
+Sun & Moon,,sm4-45,Crimson Invasion,Pokémon,Rare,45,Gourgeist,711,11/3/2017,0.16,,0.27,0.27
+Sun & Moon,,sm4-46,Crimson Invasion,Pokémon,Common,46,Salandit,757,11/3/2017,0.07,,0.14,0.14
+Sun & Moon,,sm4-47,Crimson Invasion,Pokémon,Rare Holo,47,Salazzle,758,11/3/2017,,0.34,0.4,0.4
+Sun & Moon,,sm4-48,Crimson Invasion,Pokémon,Rare,48,Oranguru,765,11/3/2017,0.17,,0.32,0.32
+Sun & Moon,,sm4-49,Crimson Invasion,Pokémon,Rare Holo GX,49,Nihilego-GX,793,11/3/2017,,1.8,,1.8
+Sun & Moon,,sm4-50,Crimson Invasion,Pokémon,Common,50,Mankey,56,11/3/2017,0.05,,0.15,0.15
+Sun & Moon,,sm4-51,Crimson Invasion,Pokémon,Rare,51,Primeape,57,11/3/2017,0.22,,0.29,0.29
+Sun & Moon,,sm4-52,Crimson Invasion,Pokémon,Common,52,Cubone,104,11/3/2017,0.09,,0.18,0.18
+Sun & Moon,,sm4-53,Crimson Invasion,Pokémon,Rare,53,Regirock,377,11/3/2017,0.21,,0.33,0.33
+Sun & Moon,,sm4-54,Crimson Invasion,Pokémon,Uncommon,54,Gastrodon,423,11/3/2017,0.09,,0.23,0.23
+Sun & Moon,,sm4-55,Crimson Invasion,Pokémon,Common,55,Stufful,759,11/3/2017,0.06,,0.16,0.16
+Sun & Moon,,sm4-56,Crimson Invasion,Pokémon,Rare Holo,56,Bewear,760,11/3/2017,,0.3,0.26,0.3
+Sun & Moon,,sm4-57,Crimson Invasion,Pokémon,Rare Holo GX,57,Buzzwole-GX,794,11/3/2017,,1.92,,1.92
+Sun & Moon,,sm4-58,Crimson Invasion,Pokémon,Common,58,Houndour,228,11/3/2017,0.11,,0.19,0.19
+Sun & Moon,,sm4-59,Crimson Invasion,Pokémon,Rare,59,Houndoom,229,11/3/2017,0.43,,0.54,0.54
+Sun & Moon,,sm4-60,Crimson Invasion,Pokémon,Common,60,Deino,633,11/3/2017,0.12,,0.18,0.18
+Sun & Moon,,sm4-61,Crimson Invasion,Pokémon,Uncommon,61,Zweilous,634,11/3/2017,0.12,,0.26,0.26
+Sun & Moon,,sm4-62,Crimson Invasion,Pokémon,Rare,62,Hydreigon,635,11/3/2017,0.25,,0.41,0.41
+Sun & Moon,,sm4-63,Crimson Invasion,Pokémon,Rare Holo GX,63,Guzzlord-GX,799,11/3/2017,,2.17,,2.17
+Sun & Moon,,sm4-64,Crimson Invasion,Pokémon,Uncommon,64,Mawile,303,11/3/2017,0.1,,0.24,0.24
+Sun & Moon,,sm4-65,Crimson Invasion,Pokémon,Common,65,Aron,304,11/3/2017,0.09,,0.13,0.13
+Sun & Moon,,sm4-66,Crimson Invasion,Pokémon,Uncommon,66,Lairon,305,11/3/2017,0.08,,0.19,0.19
+Sun & Moon,,sm4-67,Crimson Invasion,Pokémon,Rare Holo,67,Aggron,306,11/3/2017,,0.41,0.49,0.49
+Sun & Moon,,sm4-68,Crimson Invasion,Pokémon,Rare,68,Registeel,379,11/3/2017,0.24,,0.52,0.52
+Sun & Moon,,sm4-69,Crimson Invasion,Pokémon,Rare,69,Escavalier,589,11/3/2017,0.17,,0.3,0.3
+Sun & Moon,,sm4-70,Crimson Invasion,Pokémon,Rare Holo GX,70,Kartana-GX,798,11/3/2017,,1.6,,1.6
+Sun & Moon,,sm4-71,Crimson Invasion,Pokémon,Common,71,Jigglypuff,39,11/3/2017,0.11,,0.24,0.24
+Sun & Moon,,sm4-72,Crimson Invasion,Pokémon,Rare,72,Wigglytuff,40,11/3/2017,0.24,,0.31,0.31
+Sun & Moon,,sm4-73,Crimson Invasion,Pokémon,Rare Holo,73,Xerneas,716,11/3/2017,,0.49,0.66,0.66
+Sun & Moon,,sm4-74,Crimson Invasion,Pokémon,Rare Holo GX,74,Alolan Exeggutor-GX,103,11/3/2017,,1.91,,1.91
+Sun & Moon,,sm4-75,Crimson Invasion,Pokémon,Common,75,Jangmo-o,782,11/3/2017,0.07,,0.15,0.15
+Sun & Moon,,sm4-76,Crimson Invasion,Pokémon,Uncommon,76,Hakamo-o,783,11/3/2017,0.11,,0.27,0.27
+Sun & Moon,,sm4-77,Crimson Invasion,Pokémon,Rare,77,Kommo-o,784,11/3/2017,0.36,,0.46,0.46
+Sun & Moon,,sm4-78,Crimson Invasion,Pokémon,Uncommon,78,Miltank,241,11/3/2017,0.14,,0.26,0.26
+Sun & Moon,,sm4-79,Crimson Invasion,Pokémon,Common,79,Swablu,333,11/3/2017,0.06,,0.13,0.13
+Sun & Moon,,sm4-80,Crimson Invasion,Pokémon,Rare,80,Altaria,334,11/3/2017,0.13,,0.3,0.3
+Sun & Moon,,sm4-81,Crimson Invasion,Pokémon,Common,81,Starly,396,11/3/2017,0.06,,0.15,0.15
+Sun & Moon,,sm4-82,Crimson Invasion,Pokémon,Uncommon,82,Staravia,397,11/3/2017,0.07,,0.4,0.4
+Sun & Moon,,sm4-83,Crimson Invasion,Pokémon,Rare,83,Staraptor,398,11/3/2017,0.15,,0.34,0.34
+Sun & Moon,,sm4-84,Crimson Invasion,Pokémon,Rare Holo,84,Regigigas,486,11/3/2017,,0.46,0.41,0.46
+Sun & Moon,,sm4-85,Crimson Invasion,Pokémon,Common,85,Minccino,572,11/3/2017,0.08,,0.16,0.16
+Sun & Moon,,sm4-86,Crimson Invasion,Pokémon,Uncommon,86,Cinccino,573,11/3/2017,0.08,,0.21,0.21
+Sun & Moon,,sm4-87,Crimson Invasion,Pokémon,Common,87,Bunnelby,659,11/3/2017,0.07,,0.13,0.13
+Sun & Moon,,sm4-88,Crimson Invasion,Pokémon,Uncommon,88,Diggersby,660,11/3/2017,0.08,,0.14,0.14
+Sun & Moon,,sm4-89,Crimson Invasion,Pokémon,Rare Holo,89,Type: Null,772,11/3/2017,,0.52,0.4,0.52
+Sun & Moon,,sm4-90,Crimson Invasion,Pokémon,Rare Holo GX,90,Silvally-GX,773,11/3/2017,,1.78,,1.78
+Sun & Moon,,sm4-91,Crimson Invasion,Trainer,Uncommon,91,Counter Catcher,,11/3/2017,0.13,,0.35,0.35
+Sun & Moon,,sm4-92,Crimson Invasion,Trainer,Uncommon,92,Dashing Pouch,,11/3/2017,0.11,,0.25,0.25
+Sun & Moon,,sm4-93,Crimson Invasion,Trainer,Uncommon,93,Devoured Field,,11/3/2017,0.09,,0.3,0.3
+Sun & Moon,,sm4-94,Crimson Invasion,Trainer,Uncommon,94,Fighting Memory,,11/3/2017,0.08,,0.34,0.34
+Sun & Moon,,sm4-95,Crimson Invasion,Trainer,Uncommon,95,Gladion,,11/3/2017,0.22,,0.33,0.33
+Sun & Moon,,sm4-96,Crimson Invasion,Trainer,Uncommon,96,Lusamine,,11/3/2017,0.19,,0.41,0.41
+Sun & Moon,,sm4-97,Crimson Invasion,Trainer,Uncommon,97,Peeking Red Card,,11/3/2017,0.1,,0.25,0.25
+Sun & Moon,,sm4-98,Crimson Invasion,Trainer,Uncommon,98,Psychic Memory,,11/3/2017,0.07,,0.25,0.25
+Sun & Moon,,sm4-99,Crimson Invasion,Trainer,Uncommon,99,Sea of Nothingness,,11/3/2017,0.09,,0.19,0.19
+Sun & Moon,,sm4-100,Crimson Invasion,Energy,Uncommon,100,Counter Energy,,11/3/2017,0.17,,0.34,0.34
+Sun & Moon,,sm4-101,Crimson Invasion,Pokémon,Rare Ultra,101,Gyarados-GX,130,11/3/2017,,7.27,,7.27
+Sun & Moon,,sm4-102,Crimson Invasion,Pokémon,Rare Ultra,102,Alolan Golem-GX,76,11/3/2017,,3.31,,3.31
+Sun & Moon,,sm4-103,Crimson Invasion,Pokémon,Rare Ultra,103,Nihilego-GX,793,11/3/2017,,3.36,,3.36
+Sun & Moon,,sm4-104,Crimson Invasion,Pokémon,Rare Ultra,104,Buzzwole-GX,794,11/3/2017,,2.65,,2.65
+Sun & Moon,,sm4-105,Crimson Invasion,Pokémon,Rare Ultra,105,Guzzlord-GX,799,11/3/2017,,2.7,,2.7
+Sun & Moon,,sm4-106,Crimson Invasion,Pokémon,Rare Ultra,106,Kartana-GX,798,11/3/2017,,2.27,,2.27
+Sun & Moon,,sm4-107,Crimson Invasion,Pokémon,Rare Ultra,107,Alolan Exeggutor-GX,103,11/3/2017,,3.09,,3.09
+Sun & Moon,,sm4-108,Crimson Invasion,Pokémon,Rare Ultra,108,Silvally-GX,773,11/3/2017,,3.06,,3.06
+Sun & Moon,,sm4-109,Crimson Invasion,Trainer,Rare Ultra,109,Gladion,,11/3/2017,,8.45,,8.45
+Sun & Moon,,sm4-110,Crimson Invasion,Trainer,Rare Ultra,110,Lusamine,,11/3/2017,,17.98,,17.98
+Sun & Moon,,sm4-111,Crimson Invasion,Trainer,Rare Ultra,111,Olivia,,11/3/2017,,13.8,,13.8
+Sun & Moon,,sm4-112,Crimson Invasion,Pokémon,Rare Rainbow,112,Gyarados-GX,130,11/3/2017,,32,,32
+Sun & Moon,,sm4-113,Crimson Invasion,Pokémon,Rare Rainbow,113,Alolan Golem-GX,76,11/3/2017,,6.96,,6.96
+Sun & Moon,,sm4-114,Crimson Invasion,Pokémon,Rare Rainbow,114,Nihilego-GX,793,11/3/2017,,6.36,,6.36
+Sun & Moon,,sm4-115,Crimson Invasion,Pokémon,Rare Rainbow,115,Buzzwole-GX,794,11/3/2017,,7.83,,7.83
+Sun & Moon,,sm4-116,Crimson Invasion,Pokémon,Rare Rainbow,116,Guzzlord-GX,799,11/3/2017,,8.4,,8.4
+Sun & Moon,,sm4-117,Crimson Invasion,Pokémon,Rare Rainbow,117,Kartana-GX,798,11/3/2017,,7.21,,7.21
+Sun & Moon,,sm4-118,Crimson Invasion,Pokémon,Rare Rainbow,118,Alolan Exeggutor-GX,103,11/3/2017,,9.6,,9.6
+Sun & Moon,,sm4-119,Crimson Invasion,Pokémon,Rare Rainbow,119,Silvally-GX,773,11/3/2017,,8.16,,8.16
+Sun & Moon,,sm4-120,Crimson Invasion,Trainer,Rare Secret,120,Counter Catcher,,11/3/2017,,2.99,,2.99
+Sun & Moon,,sm4-121,Crimson Invasion,Trainer,Rare Secret,121,Wishful Baton,,11/3/2017,,3.83,,3.83
+Sun & Moon,,sm4-122,Crimson Invasion,Energy,Rare Secret,122,Counter Energy,,11/3/2017,,5.3,,5.3
+Sun & Moon,,sm4-123,Crimson Invasion,Energy,Rare Secret,123,Warp Energy,,11/3/2017,,5.43,,5.43
+Sun & Moon,,sm4-124,Crimson Invasion,Energy,Rare Secret,124,Water Energy,,11/3/2017,,21.08,,21.08
+Sun & Moon,,sm4-125,Crimson Invasion,Pokémon,Rare Holo GX,63a,Guzzlord-GX,799,11/3/2017,,,,0
+Sun & Moon,,sm4-126,Crimson Invasion,Pokémon,Rare Holo,84a,Regigigas,486,11/3/2017,,,,0
+Sword & Shield,,swsh2-1,Rebel Clash,Pokémon,Common,1,Caterpie,10,5/1/2020,0.21,,0.34,0.34
+Sword & Shield,,swsh2-2,Rebel Clash,Pokémon,Uncommon,2,Metapod,11,5/1/2020,0.21,,0.43,0.43
+Sword & Shield,,swsh2-3,Rebel Clash,Pokémon,Rare,3,Butterfree,12,5/1/2020,0.24,0.59,0.72,0.72
+Sword & Shield,,swsh2-4,Rebel Clash,Pokémon,Common,4,Scyther,123,5/1/2020,0.12,,0.29,0.29
+Sword & Shield,,swsh2-5,Rebel Clash,Pokémon,Uncommon,5,Shuckle,213,5/1/2020,0.12,,0.27,0.27
+Sword & Shield,,swsh2-6,Rebel Clash,Pokémon,Uncommon,6,Heracross,214,5/1/2020,0.07,,0.23,0.23
+Sword & Shield,,swsh2-7,Rebel Clash,Pokémon,Common,7,Lotad,270,5/1/2020,0.08,,0.23,0.23
+Sword & Shield,,swsh2-8,Rebel Clash,Pokémon,Uncommon,8,Lombre,271,5/1/2020,0.26,,0.54,0.54
+Sword & Shield,,swsh2-9,Rebel Clash,Pokémon,Rare,9,Ludicolo,272,5/1/2020,0.25,,0.7,0.7
+Sword & Shield,,swsh2-10,Rebel Clash,Pokémon,Common,10,Surskit,283,5/1/2020,0.06,,0.18,0.18
+Sword & Shield,,swsh2-11,Rebel Clash,Pokémon,Uncommon,11,Masquerain,284,5/1/2020,0.09,,0.21,0.21
+Sword & Shield,,swsh2-12,Rebel Clash,Pokémon,Common,12,Snover,459,5/1/2020,0.05,,0.18,0.18
+Sword & Shield,,swsh2-13,Rebel Clash,Pokémon,Rare,13,Abomasnow,460,5/1/2020,0.15,,0.48,0.48
+Sword & Shield,,swsh2-14,Rebel Clash,Pokémon,Common,14,Phantump,708,5/1/2020,0.07,,0.19,0.19
+Sword & Shield,,swsh2-15,Rebel Clash,Pokémon,Rare,15,Trevenant,709,5/1/2020,0.34,,0.46,0.46
+Sword & Shield,,swsh2-16,Rebel Clash,Pokémon,Common,16,Grubbin,736,5/1/2020,0.1,,0.21,0.21
+Sword & Shield,,swsh2-17,Rebel Clash,Pokémon,Rare Holo V,17,Rillaboom V,812,5/1/2020,,1.36,,1.36
+Sword & Shield,,swsh2-18,Rebel Clash,Pokémon,Rare Holo VMAX,18,Rillaboom VMAX,812,5/1/2020,,3.97,,3.97
+Sword & Shield,,swsh2-19,Rebel Clash,Pokémon,Rare Holo V,19,Eldegoss V,830,5/1/2020,,1.14,,1.14
+Sword & Shield,,swsh2-20,Rebel Clash,Pokémon,Common,20,Applin,840,5/1/2020,0.08,,0.17,0.17
+Sword & Shield,,swsh2-21,Rebel Clash,Pokémon,Common,21,Applin,840,5/1/2020,0.07,,0.24,0.24
+Sword & Shield,,swsh2-22,Rebel Clash,Pokémon,Rare Holo,22,Flapple,841,5/1/2020,,0.51,0.71,0.71
+Sword & Shield,,swsh2-23,Rebel Clash,Pokémon,Rare Holo,23,Appletun,842,5/1/2020,,0.37,0.61,0.61
+Sword & Shield,,swsh2-24,Rebel Clash,Pokémon,Common,24,Vulpix,37,5/1/2020,0.11,,0.3,0.3
+Sword & Shield,,swsh2-25,Rebel Clash,Pokémon,Rare,25,Ninetales,38,5/1/2020,0.66,,0.91,0.91
+Sword & Shield,,swsh2-26,Rebel Clash,Pokémon,Rare Holo V,26,Ninetales V,38,5/1/2020,,2.16,,2.16
+Sword & Shield,,swsh2-27,Rebel Clash,Pokémon,Common,27,Growlithe,58,5/1/2020,0.09,,0.3,0.3
+Sword & Shield,,swsh2-28,Rebel Clash,Pokémon,Rare,28,Arcanine,59,5/1/2020,0.54,,1.29,1.29
+Sword & Shield,,swsh2-29,Rebel Clash,Pokémon,Common,29,Magmar,126,5/1/2020,0.08,,0.19,0.19
+Sword & Shield,,swsh2-30,Rebel Clash,Pokémon,Rare,30,Magmortar,467,5/1/2020,0.37,,0.62,0.62
+Sword & Shield,,swsh2-31,Rebel Clash,Pokémon,Common,31,Litwick,607,5/1/2020,0.04,,0.2,0.2
+Sword & Shield,,swsh2-32,Rebel Clash,Pokémon,Uncommon,32,Lampent,608,5/1/2020,0.09,,0.23,0.23
+Sword & Shield,,swsh2-33,Rebel Clash,Pokémon,Rare Holo,33,Chandelure,609,5/1/2020,,0.45,0.55,0.55
+Sword & Shield,,swsh2-34,Rebel Clash,Pokémon,Uncommon,34,Heatmor,631,5/1/2020,0.08,,0.18,0.18
+Sword & Shield,,swsh2-35,Rebel Clash,Pokémon,Rare Holo V,35,Cinderace V,815,5/1/2020,,1.05,,1.05
+Sword & Shield,,swsh2-36,Rebel Clash,Pokémon,Rare Holo VMAX,36,Cinderace VMAX,815,5/1/2020,,3.64,,3.64
+Sword & Shield,,swsh2-37,Rebel Clash,Pokémon,Common,37,Galarian Mr. Mime,,5/1/2020,0.06,,0.17,0.17
+Sword & Shield,,swsh2-38,Rebel Clash,Pokémon,Rare,38,Galarian Mr. Rime,,5/1/2020,0.2,,0.44,0.44
+Sword & Shield,,swsh2-39,Rebel Clash,Pokémon,Common,39,Magikarp,129,5/1/2020,0.16,,0.31,0.31
+Sword & Shield,,swsh2-40,Rebel Clash,Pokémon,Rare Holo,40,Gyarados,130,5/1/2020,,1.54,1.48,1.54
+Sword & Shield,,swsh2-41,Rebel Clash,Pokémon,Common,41,Wingull,278,5/1/2020,0.07,,0.23,0.23
+Sword & Shield,,swsh2-42,Rebel Clash,Pokémon,Uncommon,42,Pelipper,279,5/1/2020,0.09,,0.22,0.22
+Sword & Shield,,swsh2-43,Rebel Clash,Pokémon,Rare Holo V,43,Milotic V,350,5/1/2020,,2.25,,2.25
+Sword & Shield,,swsh2-44,Rebel Clash,Pokémon,Common,44,Tympole,535,5/1/2020,0.06,,0.19,0.19
+Sword & Shield,,swsh2-45,Rebel Clash,Pokémon,Uncommon,45,Palpitoad,536,5/1/2020,0.04,,0.2,0.2
+Sword & Shield,,swsh2-46,Rebel Clash,Pokémon,Rare,46,Seismitoad,537,5/1/2020,0.22,,0.4,0.4
+Sword & Shield,,swsh2-47,Rebel Clash,Pokémon,Common,47,Galarian Darumaka,554,5/1/2020,0.06,,0.2,0.2
+Sword & Shield,,swsh2-48,Rebel Clash,Pokémon,Rare,48,Galarian Darmanitan,555,5/1/2020,0.19,,0.52,0.52
+Sword & Shield,,swsh2-49,Rebel Clash,Pokémon,Rare Holo V,49,Inteleon V,818,5/1/2020,,1.25,,1.25
+Sword & Shield,,swsh2-50,Rebel Clash,Pokémon,Rare Holo VMAX,50,Inteleon VMAX,818,5/1/2020,,2.72,,2.72
+Sword & Shield,,swsh2-51,Rebel Clash,Pokémon,Rare,51,Cramorant,845,5/1/2020,0.19,,0.44,0.44
+Sword & Shield,,swsh2-52,Rebel Clash,Pokémon,Common,52,Arrokuda,846,5/1/2020,0.06,,0.21,0.21
+Sword & Shield,,swsh2-53,Rebel Clash,Pokémon,Rare,53,Barraskewda,847,5/1/2020,0.16,,0.45,0.45
+Sword & Shield,,swsh2-54,Rebel Clash,Pokémon,Rare Holo,54,Eiscue,875,5/1/2020,,0.4,0.59,0.59
+Sword & Shield,,swsh2-55,Rebel Clash,Pokémon,Rare Holo V,55,Eiscue V,875,5/1/2020,,0.98,,0.98
+Sword & Shield,,swsh2-56,Rebel Clash,Pokémon,Common,56,Voltorb,100,5/1/2020,0.07,,0.2,0.2
+Sword & Shield,,swsh2-57,Rebel Clash,Pokémon,Uncommon,57,Electrode,101,5/1/2020,0.11,,0.19,0.19
+Sword & Shield,,swsh2-58,Rebel Clash,Pokémon,Common,58,Electabuzz,125,5/1/2020,0.05,,0.18,0.18
+Sword & Shield,,swsh2-59,Rebel Clash,Pokémon,Rare,59,Electivire,466,5/1/2020,0.37,,0.78,0.78
+Sword & Shield,,swsh2-60,Rebel Clash,Pokémon,Common,60,Shinx,403,5/1/2020,0.07,,0.17,0.17
+Sword & Shield,,swsh2-61,Rebel Clash,Pokémon,Uncommon,61,Luxio,404,5/1/2020,0.07,,0.23,0.23
+Sword & Shield,,swsh2-62,Rebel Clash,Pokémon,Rare Holo,62,Luxray,405,5/1/2020,,0.42,0.54,0.54
+Sword & Shield,,swsh2-63,Rebel Clash,Pokémon,Common,63,Helioptile,694,5/1/2020,0.05,,0.2,0.2
+Sword & Shield,,swsh2-64,Rebel Clash,Pokémon,Uncommon,64,Heliolisk,695,5/1/2020,0.08,,0.21,0.21
+Sword & Shield,,swsh2-65,Rebel Clash,Pokémon,Uncommon,65,Charjabug,737,5/1/2020,0.06,,0.15,0.15
+Sword & Shield,,swsh2-66,Rebel Clash,Pokémon,Rare Holo,66,Vikavolt,738,5/1/2020,,0.45,0.57,0.57
+Sword & Shield,,swsh2-67,Rebel Clash,Pokémon,Rare Holo V,67,Boltund V,836,5/1/2020,,3.4,,3.4
+Sword & Shield,,swsh2-68,Rebel Clash,Pokémon,Common,68,Toxel,848,5/1/2020,0.06,,0.22,0.22
+Sword & Shield,,swsh2-69,Rebel Clash,Pokémon,Rare,69,Toxtricity,849,5/1/2020,0.32,,0.56,0.56
+Sword & Shield,,swsh2-70,Rebel Clash,Pokémon,Rare Holo V,70,Toxtricity V,849,5/1/2020,,1.14,,1.14
+Sword & Shield,,swsh2-71,Rebel Clash,Pokémon,Rare Holo VMAX,71,Toxtricity VMAX,849,5/1/2020,,3.89,,3.89
+Sword & Shield,,swsh2-72,Rebel Clash,Pokémon,Rare Holo V,72,Pincurchin V,871,5/1/2020,,1.11,,1.11
+Sword & Shield,,swsh2-73,Rebel Clash,Pokémon,Uncommon,73,Morpeko,877,5/1/2020,0.16,,0.25,0.25
+Sword & Shield,,swsh2-74,Rebel Clash,Pokémon,Common,74,Clefairy,35,5/1/2020,0.09,,0.22,0.22
+Sword & Shield,,swsh2-75,Rebel Clash,Pokémon,Rare Holo,75,Clefable,36,5/1/2020,,0.52,0.73,0.73
+Sword & Shield,,swsh2-76,Rebel Clash,Pokémon,Common,76,Natu,177,5/1/2020,0.05,,0.2,0.2
+Sword & Shield,,swsh2-77,Rebel Clash,Pokémon,Uncommon,77,Xatu,178,5/1/2020,0.1,,0.22,0.22
+Sword & Shield,,swsh2-78,Rebel Clash,Pokémon,Common,78,Galarian Corsola,222,5/1/2020,0.05,,0.24,0.24
+Sword & Shield,,swsh2-79,Rebel Clash,Pokémon,Rare Holo,79,Galarian Cursola,864,5/1/2020,,0.85,1.02,1.02
+Sword & Shield,,swsh2-80,Rebel Clash,Pokémon,Rare,80,Sigilyph,561,5/1/2020,0.21,,0.57,0.57
+Sword & Shield,,swsh2-81,Rebel Clash,Pokémon,Common,81,Sandygast,769,5/1/2020,0.09,,0.22,0.22
+Sword & Shield,,swsh2-82,Rebel Clash,Pokémon,Uncommon,82,Palossand,770,5/1/2020,0.06,,0.19,0.19
+Sword & Shield,,swsh2-83,Rebel Clash,Pokémon,Common,83,Hatenna,856,5/1/2020,0.05,,0.19,0.19
+Sword & Shield,,swsh2-84,Rebel Clash,Pokémon,Uncommon,84,Hattrem,857,5/1/2020,0.06,,0.24,0.24
+Sword & Shield,,swsh2-85,Rebel Clash,Pokémon,Rare Holo,85,Hatterene,858,5/1/2020,,0.42,0.63,0.63
+Sword & Shield,,swsh2-86,Rebel Clash,Pokémon,Common,86,Milcery,868,5/1/2020,0.08,,0.23,0.23
+Sword & Shield,,swsh2-87,Rebel Clash,Pokémon,Rare,87,Alcremie,869,5/1/2020,0.21,,0.54,0.54
+Sword & Shield,,swsh2-88,Rebel Clash,Pokémon,Uncommon,88,Indeedee,876,5/1/2020,0.07,,0.22,0.22
+Sword & Shield,,swsh2-89,Rebel Clash,Pokémon,Common,89,Dreepy,885,5/1/2020,0.04,,0.25,0.25
+Sword & Shield,,swsh2-90,Rebel Clash,Pokémon,Uncommon,90,Drakloak,886,5/1/2020,0.16,,0.28,0.28
+Sword & Shield,,swsh2-91,Rebel Clash,Pokémon,Rare Holo,91,Dragapult,887,5/1/2020,,0.75,0.96,0.96
+Sword & Shield,,swsh2-92,Rebel Clash,Pokémon,Rare Holo V,92,Dragapult V,887,5/1/2020,,1.9,,1.9
+Sword & Shield,,swsh2-93,Rebel Clash,Pokémon,Rare Holo VMAX,93,Dragapult VMAX,887,5/1/2020,,4.16,,4.16
+Sword & Shield,,swsh2-94,Rebel Clash,Pokémon,Common,94,Galarian Farfetch'd,83,5/1/2020,0.05,,0.16,0.16
+Sword & Shield,,swsh2-95,Rebel Clash,Pokémon,Rare Holo,95,Galarian Sirfetch'd,865,5/1/2020,,0.4,0.75,0.75
+Sword & Shield,,swsh2-96,Rebel Clash,Pokémon,Common,96,Nosepass,299,5/1/2020,0.06,,0.16,0.16
+Sword & Shield,,swsh2-97,Rebel Clash,Pokémon,Common,97,Meditite,307,5/1/2020,0.05,,0.21,0.21
+Sword & Shield,,swsh2-98,Rebel Clash,Pokémon,Uncommon,98,Medicham,308,5/1/2020,0.05,,0.18,0.18
+Sword & Shield,,swsh2-99,Rebel Clash,Pokémon,Common,99,Barboach,339,5/1/2020,0.09,,0.17,0.17
+Sword & Shield,,swsh2-100,Rebel Clash,Pokémon,Rare,100,Whiscash,340,5/1/2020,0.19,,0.43,0.43
+Sword & Shield,,swsh2-101,Rebel Clash,Pokémon,Common,101,Galarian Yamask,562,5/1/2020,0.08,,0.17,0.17
+Sword & Shield,,swsh2-102,Rebel Clash,Pokémon,Rare,102,Galarian Runerigus,867,5/1/2020,0.32,,0.41,0.41
+Sword & Shield,,swsh2-103,Rebel Clash,Pokémon,Common,103,Binacle,688,5/1/2020,0.04,,0.21,0.21
+Sword & Shield,,swsh2-104,Rebel Clash,Pokémon,Rare,104,Barbaracle,689,5/1/2020,0.25,,0.4,0.4
+Sword & Shield,,swsh2-105,Rebel Clash,Pokémon,Common,105,Rolycoly,837,5/1/2020,0.06,,0.22,0.22
+Sword & Shield,,swsh2-106,Rebel Clash,Pokémon,Uncommon,106,Carkol,838,5/1/2020,0.12,,0.2,0.2
+Sword & Shield,,swsh2-107,Rebel Clash,Pokémon,Rare Holo,107,Coalossal,839,5/1/2020,,0.53,0.6,0.6
+Sword & Shield,,swsh2-108,Rebel Clash,Pokémon,Rare Holo V,108,Sandaconda V,844,5/1/2020,,1.01,,1.01
+Sword & Shield,,swsh2-109,Rebel Clash,Pokémon,Uncommon,109,Falinks,870,5/1/2020,0.22,,0.3,0.3
+Sword & Shield,,swsh2-110,Rebel Clash,Pokémon,Rare Holo V,110,Falinks V,870,5/1/2020,,1.15,,1.15
+Sword & Shield,,swsh2-111,Rebel Clash,Pokémon,Rare Holo,111,Stonjourner,874,5/1/2020,,0.29,0.48,0.48
+Sword & Shield,,swsh2-112,Rebel Clash,Pokémon,Common,112,Koffing,109,5/1/2020,0.06,,0.25,0.25
+Sword & Shield,,swsh2-113,Rebel Clash,Pokémon,Rare Holo,113,Galarian Weezing,110,5/1/2020,,0.57,0.58,0.58
+Sword & Shield,,swsh2-114,Rebel Clash,Pokémon,Common,114,Stunky,434,5/1/2020,0.08,,0.2,0.2
+Sword & Shield,,swsh2-115,Rebel Clash,Pokémon,Uncommon,115,Skuntank,435,5/1/2020,0.08,,0.21,0.21
+Sword & Shield,,swsh2-116,Rebel Clash,Pokémon,Rare,116,Spiritomb,442,5/1/2020,0.19,,0.27,0.27
+Sword & Shield,,swsh2-117,Rebel Clash,Pokémon,Common,117,Trubbish,568,5/1/2020,0.08,,0.18,0.18
+Sword & Shield,,swsh2-118,Rebel Clash,Pokémon,Rare,118,Garbodor,569,5/1/2020,0.28,,0.46,0.46
+Sword & Shield,,swsh2-119,Rebel Clash,Pokémon,Common,119,Vullaby,629,5/1/2020,0.06,,0.19,0.19
+Sword & Shield,,swsh2-120,Rebel Clash,Pokémon,Rare,120,Mandibuzz,630,5/1/2020,0.18,,0.34,0.34
+Sword & Shield,,swsh2-121,Rebel Clash,Pokémon,Rare Holo V,121,Malamar V,687,5/1/2020,,1.25,,1.25
+Sword & Shield,,swsh2-122,Rebel Clash,Pokémon,Rare Holo VMAX,122,Malamar VMAX,687,5/1/2020,,2.53,,2.53
+Sword & Shield,,swsh2-123,Rebel Clash,Pokémon,Common,123,Impidimp,859,5/1/2020,0.08,,0.2,0.2
+Sword & Shield,,swsh2-124,Rebel Clash,Pokémon,Uncommon,124,Morgrem,860,5/1/2020,0.07,,0.25,0.25
+Sword & Shield,,swsh2-125,Rebel Clash,Pokémon,Rare Holo,125,Grimmsnarl,861,5/1/2020,,0.58,0.83,0.83
+Sword & Shield,,swsh2-126,Rebel Clash,Pokémon,Common,126,Galarian Meowth,52,5/1/2020,0.24,,0.27,0.27
+Sword & Shield,,swsh2-127,Rebel Clash,Pokémon,Rare,127,Galarian Perrserker,863,5/1/2020,0.16,,0.4,0.4
+Sword & Shield,,swsh2-128,Rebel Clash,Pokémon,Rare,128,Scizor,212,5/1/2020,0.43,,1,1
+Sword & Shield,,swsh2-129,Rebel Clash,Pokémon,Common,129,Bronzor,436,5/1/2020,0.06,,0.21,0.21
+Sword & Shield,,swsh2-130,Rebel Clash,Pokémon,Uncommon,130,Bronzong,437,5/1/2020,0.06,,0.19,0.19
+Sword & Shield,,swsh2-131,Rebel Clash,Pokémon,Rare,131,Probopass,476,5/1/2020,0.14,,0.35,0.35
+Sword & Shield,,swsh2-132,Rebel Clash,Pokémon,Uncommon,132,Durant,632,5/1/2020,0.06,,0.19,0.19
+Sword & Shield,,swsh2-133,Rebel Clash,Pokémon,Common,133,Honedge,679,5/1/2020,0.06,,0.2,0.2
+Sword & Shield,,swsh2-134,Rebel Clash,Pokémon,Uncommon,134,Doublade,680,5/1/2020,0.06,,0.2,0.2
+Sword & Shield,,swsh2-135,Rebel Clash,Pokémon,Rare,135,Aegislash,681,5/1/2020,0.26,,0.4,0.4
+Sword & Shield,,swsh2-136,Rebel Clash,Pokémon,Rare Holo V,136,Copperajah V,879,5/1/2020,,1.09,,1.09
+Sword & Shield,,swsh2-137,Rebel Clash,Pokémon,Rare Holo VMAX,137,Copperajah VMAX,879,5/1/2020,,5.58,,5.58
+Sword & Shield,,swsh2-138,Rebel Clash,Pokémon,Rare Holo,138,Duraludon,884,5/1/2020,,0.53,0.58,0.58
+Sword & Shield,,swsh2-139,Rebel Clash,Pokémon,Rare,139,Zacian,888,5/1/2020,0.65,,0.85,0.85
+Sword & Shield,,swsh2-140,Rebel Clash,Pokémon,Rare,140,Zamazenta,889,5/1/2020,0.45,,0.89,0.89
+Sword & Shield,,swsh2-141,Rebel Clash,Pokémon,Rare,141,Snorlax,143,5/1/2020,0.39,,0.56,0.56
+Sword & Shield,,swsh2-142,Rebel Clash,Pokémon,Uncommon,142,Chatot,441,5/1/2020,0.06,,0.23,0.23
+Sword & Shield,,swsh2-143,Rebel Clash,Pokémon,Common,143,Pidove,519,5/1/2020,0.06,,0.17,0.17
+Sword & Shield,,swsh2-144,Rebel Clash,Pokémon,Uncommon,144,Tranquill,520,5/1/2020,0.06,,0.17,0.17
+Sword & Shield,,swsh2-145,Rebel Clash,Pokémon,Rare,145,Unfezant,521,5/1/2020,0.15,,0.3,0.3
+Sword & Shield,,swsh2-146,Rebel Clash,Pokémon,Common,146,Bunnelby,659,5/1/2020,0.06,,0.23,0.23
+Sword & Shield,,swsh2-147,Rebel Clash,Pokémon,Rare,147,Diggersby,660,5/1/2020,0.16,,0.26,0.26
+Sword & Shield,,swsh2-148,Rebel Clash,Pokémon,Uncommon,148,Hawlucha,701,5/1/2020,0.05,,0.16,0.16
+Sword & Shield,,swsh2-149,Rebel Clash,Pokémon,Common,149,Stufful,759,5/1/2020,0.07,,0.16,0.16
+Sword & Shield,,swsh2-150,Rebel Clash,Pokémon,Uncommon,150,Bewear,760,5/1/2020,0.05,,0.21,0.21
+Sword & Shield,,swsh2-151,Rebel Clash,Pokémon,Common,151,Skwovet,819,5/1/2020,0.04,,0.19,0.19
+Sword & Shield,,swsh2-152,Rebel Clash,Pokémon,Rare,152,Greedent,820,5/1/2020,0.23,,0.54,0.54
+Sword & Shield,,swsh2-153,Rebel Clash,Pokémon,Rare Holo V,153,Dubwool V,832,5/1/2020,,0.94,,0.94
+Sword & Shield,,swsh2-154,Rebel Clash,Trainer,Rare Holo,154,Boss's Orders,,5/1/2020,,3.08,3.51,3.51
+Sword & Shield,,swsh2-155,Rebel Clash,Trainer,Uncommon,155,Burning Scarf,,5/1/2020,0.18,,0.19,0.19
+Sword & Shield,,swsh2-156,Rebel Clash,Trainer,Uncommon,156,Capacious Bucket,,5/1/2020,0.29,,1.19,1.19
+Sword & Shield,,swsh2-157,Rebel Clash,Trainer,Uncommon,157,Cursed Shovel,,5/1/2020,0.18,,0.23,0.23
+Sword & Shield,,swsh2-158,Rebel Clash,Trainer,Uncommon,158,Dan,,5/1/2020,0.05,,0.18,0.18
+Sword & Shield,,swsh2-159,Rebel Clash,Trainer,Uncommon,159,Full Heal,,5/1/2020,0.09,,0.19,0.19
+Sword & Shield,,swsh2-160,Rebel Clash,Trainer,Uncommon,160,Galar Mine,,5/1/2020,1.5,,1.74,1.74
+Sword & Shield,,swsh2-161,Rebel Clash,Trainer,Uncommon,161,Milo,,5/1/2020,0.11,,0.17,0.17
+Sword & Shield,,swsh2-162,Rebel Clash,Trainer,Uncommon,162,Nugget,,5/1/2020,0.12,,0.19,0.19
+Sword & Shield,,swsh2-163,Rebel Clash,Trainer,Uncommon,163,Oleana,,5/1/2020,0.1,,0.18,0.18
+Sword & Shield,,swsh2-164,Rebel Clash,Trainer,Uncommon,164,Poké Ball,,5/1/2020,0.07,,0.17,0.17
+Sword & Shield,,swsh2-165,Rebel Clash,Trainer,Uncommon,165,Scoop Up Net,,5/1/2020,0.37,,2.21,2.21
+Sword & Shield,,swsh2-166,Rebel Clash,Trainer,Uncommon,166,Skyla,,5/1/2020,0.23,,0.9,0.9
+Sword & Shield,,swsh2-167,Rebel Clash,Trainer,Uncommon,167,Sonia,,5/1/2020,0.16,,0.69,0.69
+Sword & Shield,,swsh2-168,Rebel Clash,Trainer,Uncommon,168,Tool Scrapper,,5/1/2020,0.21,,1,1
+Sword & Shield,,swsh2-169,Rebel Clash,Trainer,Uncommon,169,Training Court,,5/1/2020,1.15,,4.16,4.16
+Sword & Shield,,swsh2-170,Rebel Clash,Trainer,Uncommon,170,Turffield Stadium,,5/1/2020,0.1,,0.45,0.45
+Sword & Shield,,swsh2-171,Rebel Clash,Energy,Uncommon,171,Capture Energy,,5/1/2020,3.53,,6.19,6.19
+Sword & Shield,,swsh2-172,Rebel Clash,Energy,Uncommon,172,Horror Psychic Energy,,5/1/2020,1.43,,3.57,3.57
+Sword & Shield,,swsh2-173,Rebel Clash,Energy,Uncommon,173,Speed Lightning Energy,,5/1/2020,0.23,,2.47,2.47
+Sword & Shield,,swsh2-174,Rebel Clash,Energy,Uncommon,174,Twin Energy,,5/1/2020,0.42,,1.16,1.16
+Sword & Shield,,swsh2-175,Rebel Clash,Pokémon,Rare Ultra,175,Rillaboom V,812,5/1/2020,,4.75,,4.75
+Sword & Shield,,swsh2-176,Rebel Clash,Pokémon,Rare Ultra,176,Eldegoss V,830,5/1/2020,,3.49,,3.49
+Sword & Shield,,swsh2-177,Rebel Clash,Pokémon,Rare Ultra,177,Ninetales V,38,5/1/2020,,17.67,,17.67
+Sword & Shield,,swsh2-178,Rebel Clash,Pokémon,Rare Ultra,178,Cinderace V,815,5/1/2020,,5.2,,5.2
+Sword & Shield,,swsh2-179,Rebel Clash,Pokémon,Rare Ultra,179,Milotic V,350,5/1/2020,,10.63,,10.63
+Sword & Shield,,swsh2-180,Rebel Clash,Pokémon,Rare Ultra,180,Inteleon V,818,5/1/2020,,5.91,,5.91
+Sword & Shield,,swsh2-181,Rebel Clash,Pokémon,Rare Ultra,181,Boltund V,836,5/1/2020,,4.48,,4.48
+Sword & Shield,,swsh2-182,Rebel Clash,Pokémon,Rare Ultra,182,Toxtricity V,849,5/1/2020,,4.16,,4.16
+Sword & Shield,,swsh2-183,Rebel Clash,Pokémon,Rare Ultra,183,Dragapult V,887,5/1/2020,,8.15,,8.15
+Sword & Shield,,swsh2-184,Rebel Clash,Pokémon,Rare Ultra,184,Sandaconda V,844,5/1/2020,,2.57,,2.57
+Sword & Shield,,swsh2-185,Rebel Clash,Pokémon,Rare Ultra,185,Falinks V,870,5/1/2020,,3.57,,3.57
+Sword & Shield,,swsh2-186,Rebel Clash,Pokémon,Rare Ultra,186,Malamar V,687,5/1/2020,,4.31,,4.31
+Sword & Shield,,swsh2-187,Rebel Clash,Pokémon,Rare Ultra,187,Copperajah V,879,5/1/2020,,2.91,,2.91
+Sword & Shield,,swsh2-188,Rebel Clash,Pokémon,Rare Ultra,188,Dubwool V,832,5/1/2020,,2.38,,2.38
+Sword & Shield,,swsh2-189,Rebel Clash,Trainer,Rare Ultra,189,Boss's Orders,,5/1/2020,,33.81,,33.81
+Sword & Shield,,swsh2-190,Rebel Clash,Trainer,Rare Ultra,190,Milo,,5/1/2020,,3.97,,3.97
+Sword & Shield,,swsh2-191,Rebel Clash,Trainer,Rare Ultra,191,Oleana,,5/1/2020,,9.43,,9.43
+Sword & Shield,,swsh2-192,Rebel Clash,Trainer,Rare Ultra,192,Sonia,,5/1/2020,,27.05,,27.05
+Sword & Shield,,swsh2-193,Rebel Clash,Pokémon,Rare Rainbow,193,Rillaboom VMAX,812,5/1/2020,,15.06,,15.06
+Sword & Shield,,swsh2-194,Rebel Clash,Pokémon,Rare Rainbow,194,Cinderace VMAX,815,5/1/2020,,16.17,,16.17
+Sword & Shield,,swsh2-195,Rebel Clash,Pokémon,Rare Rainbow,195,Inteleon VMAX,818,5/1/2020,,9.06,,9.06
+Sword & Shield,,swsh2-196,Rebel Clash,Pokémon,Rare Rainbow,196,Toxtricity VMAX,849,5/1/2020,,10.47,,10.47
+Sword & Shield,,swsh2-197,Rebel Clash,Pokémon,Rare Rainbow,197,Dragapult VMAX,887,5/1/2020,,18.08,,18.08
+Sword & Shield,,swsh2-198,Rebel Clash,Pokémon,Rare Rainbow,198,Malamar VMAX,687,5/1/2020,,8.36,,8.36
+Sword & Shield,,swsh2-199,Rebel Clash,Pokémon,Rare Rainbow,199,Copperajah VMAX,879,5/1/2020,,8.59,,8.59
+Sword & Shield,,swsh2-200,Rebel Clash,Trainer,Rare Rainbow,200,Boss's Orders,,5/1/2020,,25.18,,25.18
+Sword & Shield,,swsh2-201,Rebel Clash,Trainer,Rare Rainbow,201,Milo,,5/1/2020,,7.69,,7.69
+Sword & Shield,,swsh2-202,Rebel Clash,Trainer,Rare Rainbow,202,Oleana,,5/1/2020,,8.19,,8.19
+Sword & Shield,,swsh2-203,Rebel Clash,Trainer,Rare Rainbow,203,Sonia,,5/1/2020,,19.55,,19.55
+Sword & Shield,,swsh2-204,Rebel Clash,Pokémon,Rare Secret,204,Frosmoth,873,5/1/2020,,18.86,,18.86
+Sword & Shield,,swsh2-205,Rebel Clash,Pokémon,Rare Secret,205,Galarian Perrserker,863,5/1/2020,,16.03,,16.03
+Sword & Shield,,swsh2-206,Rebel Clash,Trainer,Rare Secret,206,Big Charm,,5/1/2020,,5.39,,5.39
+Sword & Shield,,swsh2-207,Rebel Clash,Trainer,Rare Secret,207,Scoop Up Net,,5/1/2020,,15.74,,15.74
+Sword & Shield,,swsh2-208,Rebel Clash,Trainer,Rare Secret,208,Tool Scrapper,,5/1/2020,,9.62,,9.62
+Sword & Shield,,swsh2-209,Rebel Clash,Energy,Rare Secret,209,Twin Energy,,5/1/2020,,8.51,,8.51
+Sword & Shield,,swsh3-1,Darkness Ablaze,Pokémon,Rare Holo V,1,Butterfree V,12,8/14/2020,,1.1,,1.1
+Sword & Shield,,swsh3-2,Darkness Ablaze,Pokémon,Rare Holo VMAX,2,Butterfree VMAX,12,8/14/2020,,2.98,,2.98
+Sword & Shield,,swsh3-3,Darkness Ablaze,Pokémon,Common,3,Paras,46,8/14/2020,0.05,,0.17,0.17
+Sword & Shield,,swsh3-4,Darkness Ablaze,Pokémon,Uncommon,4,Parasect,47,8/14/2020,0.04,,0.19,0.19
+Sword & Shield,,swsh3-5,Darkness Ablaze,Pokémon,Uncommon,5,Carnivine,455,8/14/2020,0.06,,0.16,0.16
+Sword & Shield,,swsh3-6,Darkness Ablaze,Pokémon,Common,6,Pansage,511,8/14/2020,0.02,,0.15,0.15
+Sword & Shield,,swsh3-7,Darkness Ablaze,Pokémon,Uncommon,7,Simisage,512,8/14/2020,0.05,,0.16,0.16
+Sword & Shield,,swsh3-8,Darkness Ablaze,Pokémon,Common,8,Karrablast,588,8/14/2020,0.05,,0.11,0.11
+Sword & Shield,,swsh3-9,Darkness Ablaze,Pokémon,Common,9,Shelmet,616,8/14/2020,0.02,,0.17,0.17
+Sword & Shield,,swsh3-10,Darkness Ablaze,Pokémon,Rare,10,Accelgor,617,8/14/2020,0.09,,0.31,0.31
+Sword & Shield,,swsh3-11,Darkness Ablaze,Pokémon,Common,11,Rowlet,722,8/14/2020,0.06,,0.22,0.22
+Sword & Shield,,swsh3-12,Darkness Ablaze,Pokémon,Uncommon,12,Dartrix,723,8/14/2020,0.05,,0.15,0.15
+Sword & Shield,,swsh3-13,Darkness Ablaze,Pokémon,Rare Holo,13,Decidueye,724,8/14/2020,,0.23,0.33,0.33
+Sword & Shield,,swsh3-14,Darkness Ablaze,Pokémon,Common,14,Bounsweet,761,8/14/2020,0.03,,0.17,0.17
+Sword & Shield,,swsh3-15,Darkness Ablaze,Pokémon,Uncommon,15,Steenee,762,8/14/2020,0.04,,0.15,0.15
+Sword & Shield,,swsh3-16,Darkness Ablaze,Pokémon,Rare,16,Tsareena,763,8/14/2020,0.15,,0.42,0.42
+Sword & Shield,,swsh3-17,Darkness Ablaze,Pokémon,Common,17,Wimpod,767,8/14/2020,0.05,,0.15,0.15
+Sword & Shield,,swsh3-18,Darkness Ablaze,Pokémon,Rare Holo,18,Golisopod,768,8/14/2020,,0.25,0.45,0.45
+Sword & Shield,,swsh3-19,Darkness Ablaze,Pokémon,Rare Holo V,19,Charizard V,6,8/14/2020,,7.17,,7.17
+Sword & Shield,,swsh3-20,Darkness Ablaze,Pokémon,Rare Holo VMAX,20,Charizard VMAX,6,8/14/2020,,44.29,,44.29
+Sword & Shield,,swsh3-21,Darkness Ablaze,Pokémon,Rare Holo V,21,Houndoom V,229,8/14/2020,,1.43,,1.43
+Sword & Shield,,swsh3-22,Darkness Ablaze,Pokémon,Common,22,Torchic,255,8/14/2020,0.04,,0.18,0.18
+Sword & Shield,,swsh3-23,Darkness Ablaze,Pokémon,Uncommon,23,Combusken,256,8/14/2020,0.05,,0.19,0.19
+Sword & Shield,,swsh3-24,Darkness Ablaze,Pokémon,Rare Holo,24,Blaziken,257,8/14/2020,,0.46,0.68,0.68
+Sword & Shield,,swsh3-25,Darkness Ablaze,Pokémon,Rare Holo,25,Heatran,485,8/14/2020,,0.24,0.4,0.4
+Sword & Shield,,swsh3-26,Darkness Ablaze,Pokémon,Common,26,Pansear,513,8/14/2020,0.05,,0.19,0.19
+Sword & Shield,,swsh3-27,Darkness Ablaze,Pokémon,Uncommon,27,Simisear,514,8/14/2020,0.02,,0.15,0.15
+Sword & Shield,,swsh3-28,Darkness Ablaze,Pokémon,Rare,28,Galarian Darmanitan,555,8/14/2020,0.18,,0.41,0.41
+Sword & Shield,,swsh3-29,Darkness Ablaze,Pokémon,Common,29,Larvesta,636,8/14/2020,0.04,,0.18,0.18
+Sword & Shield,,swsh3-30,Darkness Ablaze,Pokémon,Rare,30,Volcarona,637,8/14/2020,0.16,,0.46,0.46
+Sword & Shield,,swsh3-31,Darkness Ablaze,Pokémon,Uncommon,31,Fletchinder,662,8/14/2020,0.03,,0.16,0.16
+Sword & Shield,,swsh3-32,Darkness Ablaze,Pokémon,Rare,32,Talonflame,663,8/14/2020,0.18,,0.36,0.36
+Sword & Shield,,swsh3-33,Darkness Ablaze,Pokémon,Rare Holo V,33,Centiskorch V,851,8/14/2020,,1.02,,1.02
+Sword & Shield,,swsh3-34,Darkness Ablaze,Pokémon,Rare Holo VMAX,34,Centiskorch VMAX,851,8/14/2020,,2.84,,2.84
+Sword & Shield,,swsh3-35,Darkness Ablaze,Pokémon,Common,35,Galarian Mr. Mime,,8/14/2020,0.04,,0.18,0.18
+Sword & Shield,,swsh3-36,Darkness Ablaze,Pokémon,Rare,36,Galarian Mr. Rime,,8/14/2020,0.25,,0.53,0.53
+Sword & Shield,,swsh3-37,Darkness Ablaze,Pokémon,Rare Holo,37,Suicune,245,8/14/2020,,0.63,0.78,0.78
+Sword & Shield,,swsh3-38,Darkness Ablaze,Pokémon,Common,38,Feebas,349,8/14/2020,0.03,,0.18,0.18
+Sword & Shield,,swsh3-39,Darkness Ablaze,Pokémon,Rare Holo,39,Milotic,350,8/14/2020,,0.3,0.61,0.61
+Sword & Shield,,swsh3-40,Darkness Ablaze,Pokémon,Uncommon,40,Relicanth,369,8/14/2020,0.06,,0.19,0.19
+Sword & Shield,,swsh3-41,Darkness Ablaze,Pokémon,Common,41,Panpour,515,8/14/2020,0.05,,0.15,0.15
+Sword & Shield,,swsh3-42,Darkness Ablaze,Pokémon,Uncommon,42,Simipour,516,8/14/2020,0.03,,0.16,0.16
+Sword & Shield,,swsh3-43,Darkness Ablaze,Pokémon,Common,43,Galarian Darumaka,554,8/14/2020,0.05,,0.12,0.12
+Sword & Shield,,swsh3-44,Darkness Ablaze,Pokémon,Rare,44,Galarian Darmanitan,555,8/14/2020,0.19,,0.47,0.47
+Sword & Shield,,swsh3-45,Darkness Ablaze,Pokémon,Common,45,Vanillite,582,8/14/2020,0.06,,0.15,0.15
+Sword & Shield,,swsh3-46,Darkness Ablaze,Pokémon,Uncommon,46,Vanillish,583,8/14/2020,0.05,,0.16,0.16
+Sword & Shield,,swsh3-47,Darkness Ablaze,Pokémon,Rare,47,Vanilluxe,584,8/14/2020,0.14,,0.45,0.45
+Sword & Shield,,swsh3-48,Darkness Ablaze,Pokémon,Common,48,Cubchoo,613,8/14/2020,0.04,,0.15,0.15
+Sword & Shield,,swsh3-49,Darkness Ablaze,Pokémon,Rare,49,Beartic,614,8/14/2020,0.15,,0.31,0.31
+Sword & Shield,,swsh3-50,Darkness Ablaze,Pokémon,Common,50,Wishiwashi,746,8/14/2020,0.02,,0.16,0.16
+Sword & Shield,,swsh3-51,Darkness Ablaze,Pokémon,Common,51,Mareanie,747,8/14/2020,0.03,,0.21,0.21
+Sword & Shield,,swsh3-52,Darkness Ablaze,Pokémon,Uncommon,52,Toxapex,748,8/14/2020,0.06,,0.18,0.18
+Sword & Shield,,swsh3-53,Darkness Ablaze,Pokémon,Rare Holo,53,Dracovish,882,8/14/2020,,0.61,0.64,0.64
+Sword & Shield,,swsh3-54,Darkness Ablaze,Pokémon,Rare,54,Arctovish,883,8/14/2020,0.26,,0.52,0.52
+Sword & Shield,,swsh3-55,Darkness Ablaze,Pokémon,Common,55,Mareep,179,8/14/2020,0.04,,0.19,0.19
+Sword & Shield,,swsh3-56,Darkness Ablaze,Pokémon,Uncommon,56,Flaaffy,180,8/14/2020,0.06,,0.19,0.19
+Sword & Shield,,swsh3-57,Darkness Ablaze,Pokémon,Rare,57,Ampharos,181,8/14/2020,0.2,,0.46,0.46
+Sword & Shield,,swsh3-58,Darkness Ablaze,Pokémon,Common,58,Electrike,309,8/14/2020,0.04,,0.15,0.15
+Sword & Shield,,swsh3-59,Darkness Ablaze,Pokémon,Rare,59,Manectric,310,8/14/2020,0.13,,0.34,0.34
+Sword & Shield,,swsh3-60,Darkness Ablaze,Pokémon,Rare Holo V,60,Vikavolt V,738,8/14/2020,,0.96,,0.96
+Sword & Shield,,swsh3-61,Darkness Ablaze,Pokémon,Rare Holo,61,Tapu Koko,,8/14/2020,,0.41,0.43,0.43
+Sword & Shield,,swsh3-62,Darkness Ablaze,Pokémon,Common,62,Toxel,848,8/14/2020,0.03,,0.18,0.18
+Sword & Shield,,swsh3-63,Darkness Ablaze,Pokémon,Rare Holo,63,Toxtricity,849,8/14/2020,,0.33,0.53,0.53
+Sword & Shield,,swsh3-64,Darkness Ablaze,Pokémon,Rare Holo,64,Pincurchin,871,8/14/2020,,0.28,0.38,0.38
+Sword & Shield,,swsh3-65,Darkness Ablaze,Pokémon,Rare,65,Dracozolt,880,8/14/2020,0.23,,0.44,0.44
+Sword & Shield,,swsh3-66,Darkness Ablaze,Pokémon,Rare Holo,66,Arctozolt,881,8/14/2020,,0.63,0.87,0.87
+Sword & Shield,,swsh3-67,Darkness Ablaze,Pokémon,Common,67,Jigglypuff,39,8/14/2020,0.05,,0.17,0.17
+Sword & Shield,,swsh3-68,Darkness Ablaze,Pokémon,Rare,68,Wigglytuff,40,8/14/2020,0.21,,0.48,0.48
+Sword & Shield,,swsh3-69,Darkness Ablaze,Pokémon,Rare Holo V,69,Mew V,151,8/14/2020,,2.68,,2.68
+Sword & Shield,,swsh3-70,Darkness Ablaze,Pokémon,Common,70,Snubbull,209,8/14/2020,0.03,,0.15,0.15
+Sword & Shield,,swsh3-71,Darkness Ablaze,Pokémon,Rare,71,Granbull,210,8/14/2020,0.19,,0.46,0.46
+Sword & Shield,,swsh3-72,Darkness Ablaze,Pokémon,Uncommon,72,Lunatone,337,8/14/2020,0.03,,0.15,0.15
+Sword & Shield,,swsh3-73,Darkness Ablaze,Pokémon,Common,73,Gothita,574,8/14/2020,0.04,,0.14,0.14
+Sword & Shield,,swsh3-74,Darkness Ablaze,Pokémon,Uncommon,74,Gothorita,575,8/14/2020,0.03,,0.2,0.2
+Sword & Shield,,swsh3-75,Darkness Ablaze,Pokémon,Rare,75,Gothitelle,576,8/14/2020,0.15,,0.42,0.42
+Sword & Shield,,swsh3-76,Darkness Ablaze,Pokémon,Common,76,Golett,622,8/14/2020,0.02,,0.18,0.18
+Sword & Shield,,swsh3-77,Darkness Ablaze,Pokémon,Rare,77,Golurk,623,8/14/2020,0.13,,0.32,0.32
+Sword & Shield,,swsh3-78,Darkness Ablaze,Pokémon,Uncommon,78,Dedenne,702,8/14/2020,0.17,,0.22,0.22
+Sword & Shield,,swsh3-79,Darkness Ablaze,Pokémon,Common,79,Morelull,755,8/14/2020,0.03,,0.14,0.14
+Sword & Shield,,swsh3-80,Darkness Ablaze,Pokémon,Uncommon,80,Shiinotic,756,8/14/2020,0.04,,0.13,0.13
+Sword & Shield,,swsh3-81,Darkness Ablaze,Pokémon,Rare,81,Mimikyu,778,8/14/2020,0.36,,0.91,0.91
+Sword & Shield,,swsh3-82,Darkness Ablaze,Pokémon,Common,82,Sinistea,854,8/14/2020,0.07,,0.21,0.21
+Sword & Shield,,swsh3-83,Darkness Ablaze,Pokémon,Uncommon,83,Polteageist,855,8/14/2020,0.19,,0.26,0.26
+Sword & Shield,,swsh3-84,Darkness Ablaze,Pokémon,Common,84,Diglett,50,8/14/2020,0.07,,0.15,0.15
+Sword & Shield,,swsh3-85,Darkness Ablaze,Pokémon,Uncommon,85,Dugtrio,51,8/14/2020,0.07,,0.2,0.2
+Sword & Shield,,swsh3-86,Darkness Ablaze,Pokémon,Common,86,Larvitar,246,8/14/2020,0.04,,0.18,0.18
+Sword & Shield,,swsh3-87,Darkness Ablaze,Pokémon,Uncommon,87,Pupitar,247,8/14/2020,0.07,,0.21,0.21
+Sword & Shield,,swsh3-88,Darkness Ablaze,Pokémon,Rare Holo,88,Tyranitar,248,8/14/2020,,0.49,0.47,0.49
+Sword & Shield,,swsh3-89,Darkness Ablaze,Pokémon,Common,89,Trapinch,328,8/14/2020,0.04,,0.23,0.23
+Sword & Shield,,swsh3-90,Darkness Ablaze,Pokémon,Uncommon,90,Vibrava,329,8/14/2020,0.06,,0.15,0.15
+Sword & Shield,,swsh3-91,Darkness Ablaze,Pokémon,Rare,91,Flygon,330,8/14/2020,0.2,,0.36,0.36
+Sword & Shield,,swsh3-92,Darkness Ablaze,Pokémon,Uncommon,92,Solrock,338,8/14/2020,0.05,,0.14,0.14
+Sword & Shield,,swsh3-93,Darkness Ablaze,Pokémon,Common,93,Hippopotas,449,8/14/2020,0.02,,0.16,0.16
+Sword & Shield,,swsh3-94,Darkness Ablaze,Pokémon,Rare,94,Hippowdon,450,8/14/2020,0.15,,0.4,0.4
+Sword & Shield,,swsh3-95,Darkness Ablaze,Pokémon,Rare Holo V,95,Rhyperior V,464,8/14/2020,,0.86,,0.86
+Sword & Shield,,swsh3-96,Darkness Ablaze,Pokémon,Rare,96,Diggersby,660,8/14/2020,0.11,,0.42,0.42
+Sword & Shield,,swsh3-97,Darkness Ablaze,Pokémon,Common,97,Passimian,766,8/14/2020,0.04,,0.14,0.14
+Sword & Shield,,swsh3-98,Darkness Ablaze,Pokémon,Rare,98,Galarian Sirfetch'd,865,8/14/2020,0.38,,0.47,0.47
+Sword & Shield,,swsh3-99,Darkness Ablaze,Pokémon,Rare Holo V,99,Galarian Slowbro V,80,8/14/2020,,0.96,,0.96
+Sword & Shield,,swsh3-100,Darkness Ablaze,Pokémon,Common,100,Grimer,88,8/14/2020,0.04,,0.18,0.18
+Sword & Shield,,swsh3-101,Darkness Ablaze,Pokémon,Rare,101,Muk,89,8/14/2020,0.19,,0.37,0.37
+Sword & Shield,,swsh3-102,Darkness Ablaze,Pokémon,Common,102,Spinarak,167,8/14/2020,0.05,,0.17,0.17
+Sword & Shield,,swsh3-103,Darkness Ablaze,Pokémon,Uncommon,103,Ariados,168,8/14/2020,0.06,,0.15,0.15
+Sword & Shield,,swsh3-104,Darkness Ablaze,Pokémon,Rare Holo V,104,Crobat V,169,8/14/2020,,2.08,,2.08
+Sword & Shield,,swsh3-105,Darkness Ablaze,Pokémon,Rare Holo,105,Darkrai,491,8/14/2020,,0.36,0.61,0.61
+Sword & Shield,,swsh3-106,Darkness Ablaze,Pokémon,Common,106,Purrloin,509,8/14/2020,0.05,,0.19,0.19
+Sword & Shield,,swsh3-107,Darkness Ablaze,Pokémon,Rare,107,Liepard,510,8/14/2020,0.13,,0.29,0.29
+Sword & Shield,,swsh3-108,Darkness Ablaze,Pokémon,Common,108,Deino,633,8/14/2020,0.03,,0.22,0.22
+Sword & Shield,,swsh3-109,Darkness Ablaze,Pokémon,Uncommon,109,Zweilous,634,8/14/2020,0.07,,0.16,0.16
+Sword & Shield,,swsh3-110,Darkness Ablaze,Pokémon,Rare,110,Hydreigon,635,8/14/2020,0.28,,0.44,0.44
+Sword & Shield,,swsh3-111,Darkness Ablaze,Pokémon,Rare Holo,111,Hoopa,720,8/14/2020,,0.72,0.68,0.72
+Sword & Shield,,swsh3-112,Darkness Ablaze,Pokémon,Common,112,Nickit,827,8/14/2020,0.03,,0.14,0.14
+Sword & Shield,,swsh3-113,Darkness Ablaze,Pokémon,Rare,113,Thievul,828,8/14/2020,0.15,,0.39,0.39
+Sword & Shield,,swsh3-114,Darkness Ablaze,Pokémon,Rare Holo V,114,Grimmsnarl V,861,8/14/2020,,1.02,,1.02
+Sword & Shield,,swsh3-115,Darkness Ablaze,Pokémon,Rare Holo VMAX,115,Grimmsnarl VMAX,861,8/14/2020,,3.6,,3.6
+Sword & Shield,,swsh3-116,Darkness Ablaze,Pokémon,Rare Holo V,116,Eternatus V,890,8/14/2020,,1.47,,1.47
+Sword & Shield,,swsh3-117,Darkness Ablaze,Pokémon,Rare Holo VMAX,117,Eternatus VMAX,890,8/14/2020,,3.72,,3.72
+Sword & Shield,,swsh3-118,Darkness Ablaze,Pokémon,Rare Holo V,118,Scizor V,212,8/14/2020,,1.5,,1.5
+Sword & Shield,,swsh3-119,Darkness Ablaze,Pokémon,Rare Holo VMAX,119,Scizor VMAX,212,8/14/2020,,3.17,,3.17
+Sword & Shield,,swsh3-120,Darkness Ablaze,Pokémon,Common,120,Skarmory,227,8/14/2020,0.04,,0.17,0.17
+Sword & Shield,,swsh3-121,Darkness Ablaze,Pokémon,Common,121,Aron,304,8/14/2020,0.03,,0.17,0.17
+Sword & Shield,,swsh3-122,Darkness Ablaze,Pokémon,Uncommon,122,Lairon,305,8/14/2020,0.03,,0.18,0.18
+Sword & Shield,,swsh3-123,Darkness Ablaze,Pokémon,Rare Holo,123,Aggron,306,8/14/2020,,0.31,0.54,0.54
+Sword & Shield,,swsh3-124,Darkness Ablaze,Pokémon,Rare,124,Escavalier,589,8/14/2020,0.15,,0.42,0.42
+Sword & Shield,,swsh3-125,Darkness Ablaze,Pokémon,Common,125,Klink,599,8/14/2020,0.02,,0.19,0.19
+Sword & Shield,,swsh3-126,Darkness Ablaze,Pokémon,Uncommon,126,Klang,600,8/14/2020,0.06,,0.14,0.14
+Sword & Shield,,swsh3-127,Darkness Ablaze,Pokémon,Rare,127,Klinklang,601,8/14/2020,0.18,,0.4,0.4
+Sword & Shield,,swsh3-128,Darkness Ablaze,Pokémon,Rare Holo V,128,Galarian Stunfisk V,618,8/14/2020,,0.83,,0.83
+Sword & Shield,,swsh3-129,Darkness Ablaze,Pokémon,Common,129,Meltan,808,8/14/2020,0.05,,0.18,0.18
+Sword & Shield,,swsh3-130,Darkness Ablaze,Pokémon,Rare,130,Melmetal,809,8/14/2020,0.18,,0.52,0.52
+Sword & Shield,,swsh3-131,Darkness Ablaze,Pokémon,Common,131,Cufant,878,8/14/2020,0.04,,0.15,0.15
+Sword & Shield,,swsh3-132,Darkness Ablaze,Pokémon,Rare Holo,132,Copperajah,879,8/14/2020,,0.34,0.42,0.42
+Sword & Shield,,swsh3-133,Darkness Ablaze,Pokémon,Rare Holo,133,Kangaskhan,115,8/14/2020,,0.44,0.51,0.51
+Sword & Shield,,swsh3-134,Darkness Ablaze,Pokémon,Common,134,Tauros,128,8/14/2020,0.03,,0.16,0.16
+Sword & Shield,,swsh3-135,Darkness Ablaze,Pokémon,Common,135,Sentret,161,8/14/2020,0.04,,0.17,0.17
+Sword & Shield,,swsh3-136,Darkness Ablaze,Pokémon,Uncommon,136,Furret,162,8/14/2020,0.04,,0.18,0.18
+Sword & Shield,,swsh3-137,Darkness Ablaze,Pokémon,Common,137,Dunsparce,206,8/14/2020,0.02,,0.16,0.16
+Sword & Shield,,swsh3-138,Darkness Ablaze,Pokémon,Common,138,Teddiursa,216,8/14/2020,0.04,,0.17,0.17
+Sword & Shield,,swsh3-139,Darkness Ablaze,Pokémon,Uncommon,139,Ursaring,217,8/14/2020,0.04,,0.17,0.17
+Sword & Shield,,swsh3-140,Darkness Ablaze,Pokémon,Rare,140,Lugia,249,8/14/2020,0.27,,0.9,0.9
+Sword & Shield,,swsh3-141,Darkness Ablaze,Pokémon,Common,141,Skitty,300,8/14/2020,0.04,,0.18,0.18
+Sword & Shield,,swsh3-142,Darkness Ablaze,Pokémon,Rare,142,Delcatty,301,8/14/2020,0.12,,0.51,0.51
+Sword & Shield,,swsh3-143,Darkness Ablaze,Pokémon,Rare Holo V,143,Salamence V,373,8/14/2020,,1.19,,1.19
+Sword & Shield,,swsh3-144,Darkness Ablaze,Pokémon,Rare Holo VMAX,144,Salamence VMAX,373,8/14/2020,,4.29,,4.29
+Sword & Shield,,swsh3-145,Darkness Ablaze,Pokémon,Common,145,Starly,396,8/14/2020,0.03,,0.12,0.12
+Sword & Shield,,swsh3-146,Darkness Ablaze,Pokémon,Uncommon,146,Staravia,397,8/14/2020,0.04,,0.18,0.18
+Sword & Shield,,swsh3-147,Darkness Ablaze,Pokémon,Rare,147,Staraptor,398,8/14/2020,0.28,,0.6,0.6
+Sword & Shield,,swsh3-148,Darkness Ablaze,Pokémon,Common,148,Ducklett,580,8/14/2020,0.05,,0.16,0.16
+Sword & Shield,,swsh3-149,Darkness Ablaze,Pokémon,Rare,149,Swanna,581,8/14/2020,0.11,,0.49,0.49
+Sword & Shield,,swsh3-150,Darkness Ablaze,Pokémon,Common,150,Bunnelby,659,8/14/2020,0.05,,0.23,0.23
+Sword & Shield,,swsh3-151,Darkness Ablaze,Pokémon,Common,151,Fletchling,661,8/14/2020,0.02,,0.15,0.15
+Sword & Shield,,swsh3-152,Darkness Ablaze,Pokémon,Common,152,Skwovet,819,8/14/2020,0.05,,0.17,0.17
+Sword & Shield,,swsh3-153,Darkness Ablaze,Pokémon,Rare,153,Greedent,820,8/14/2020,0.19,,0.45,0.45
+Sword & Shield,,swsh3-154,Darkness Ablaze,Pokémon,Common,154,Rookidee,821,8/14/2020,0.02,,0.16,0.16
+Sword & Shield,,swsh3-155,Darkness Ablaze,Pokémon,Uncommon,155,Corvisquire,822,8/14/2020,0.04,,0.19,0.19
+Sword & Shield,,swsh3-156,Darkness Ablaze,Pokémon,Rare Holo,156,Corviknight,823,8/14/2020,,0.32,0.44,0.44
+Sword & Shield,,swsh3-157,Darkness Ablaze,Trainer,Uncommon,157,Big Parasol,,8/14/2020,0.1,,0.3,0.3
+Sword & Shield,,swsh3-158,Darkness Ablaze,Trainer,Uncommon,158,Billowing Smoke,,8/14/2020,0.07,,0.22,0.22
+Sword & Shield,,swsh3-159,Darkness Ablaze,Trainer,Uncommon,159,Bird Keeper,,8/14/2020,0.17,,0.41,0.41
+Sword & Shield,,swsh3-160,Darkness Ablaze,Trainer,Uncommon,160,Cape of Toughness,,8/14/2020,0.56,,1.16,1.16
+Sword & Shield,,swsh3-161,Darkness Ablaze,Trainer,Uncommon,161,Familiar Bell,,8/14/2020,0.18,,0.68,0.68
+Sword & Shield,,swsh3-162,Darkness Ablaze,Trainer,Uncommon,162,Glimwood Tangle,,8/14/2020,0.13,,0.58,0.58
+Sword & Shield,,swsh3-163,Darkness Ablaze,Trainer,Uncommon,163,Kabu,,8/14/2020,0.11,,0.37,0.37
+Sword & Shield,,swsh3-164,Darkness Ablaze,Trainer,Uncommon,164,Old PC,,8/14/2020,0.04,,0.34,0.34
+Sword & Shield,,swsh3-165,Darkness Ablaze,Trainer,Uncommon,165,Piers,,8/14/2020,0.18,,0.51,0.51
+Sword & Shield,,swsh3-166,Darkness Ablaze,Trainer,Uncommon,166,Pokémon Breeder's Nurturing,,8/14/2020,0.18,,0.41,0.41
+Sword & Shield,,swsh3-167,Darkness Ablaze,Trainer,Uncommon,167,Rare Fossil,,8/14/2020,0.14,,0.37,0.37
+Sword & Shield,,swsh3-168,Darkness Ablaze,Trainer,Uncommon,168,Rose,,8/14/2020,0.21,,0.49,0.49
+Sword & Shield,,swsh3-169,Darkness Ablaze,Trainer,Uncommon,169,Rose Tower,,8/14/2020,0.22,,0.32,0.32
+Sword & Shield,,swsh3-170,Darkness Ablaze,Trainer,Uncommon,170,Spikemuth,,8/14/2020,0.11,,0.45,0.45
+Sword & Shield,,swsh3-171,Darkness Ablaze,Trainer,Uncommon,171,Struggle Gloves,,8/14/2020,0.06,,0.38,0.38
+Sword & Shield,,swsh3-172,Darkness Ablaze,Trainer,Uncommon,172,Turbo Patch,,8/14/2020,0.08,,0.4,0.4
+Sword & Shield,,swsh3-173,Darkness Ablaze,Trainer,Uncommon,173,Yell Horn,,8/14/2020,0.12,,0.22,0.22
+Sword & Shield,,swsh3-174,Darkness Ablaze,Energy,Uncommon,174,Heat Fire Energy,,8/14/2020,0.25,,0.6,0.6
+Sword & Shield,,swsh3-175,Darkness Ablaze,Energy,Uncommon,175,Hiding Darkness Energy,,8/14/2020,0.53,,1.69,1.69
+Sword & Shield,,swsh3-176,Darkness Ablaze,Energy,Uncommon,176,Powerful Colorless Energy,,8/14/2020,0.2,,0.27,0.27
+Sword & Shield,,swsh3-177,Darkness Ablaze,Pokémon,Rare Ultra,177,Butterfree V,12,8/14/2020,,3.05,,3.05
+Sword & Shield,,swsh3-178,Darkness Ablaze,Pokémon,Rare Ultra,178,Houndoom V,229,8/14/2020,,3.34,,3.34
+Sword & Shield,,swsh3-179,Darkness Ablaze,Pokémon,Rare Ultra,179,Centiskorch V,851,8/14/2020,,2.25,,2.25
+Sword & Shield,,swsh3-180,Darkness Ablaze,Pokémon,Rare Ultra,180,Vikavolt V,738,8/14/2020,,2.73,,2.73
+Sword & Shield,,swsh3-181,Darkness Ablaze,Pokémon,Rare Ultra,181,Rhyperior V,464,8/14/2020,,2.77,,2.77
+Sword & Shield,,swsh3-182,Darkness Ablaze,Pokémon,Rare Ultra,182,Crobat V,169,8/14/2020,,4.43,,4.43
+Sword & Shield,,swsh3-183,Darkness Ablaze,Pokémon,Rare Ultra,183,Scizor V,212,8/14/2020,,3.44,,3.44
+Sword & Shield,,swsh3-184,Darkness Ablaze,Pokémon,Rare Ultra,184,Galarian Stunfisk V,618,8/14/2020,,2.31,,2.31
+Sword & Shield,,swsh3-185,Darkness Ablaze,Pokémon,Rare Ultra,185,Salamence V,373,8/14/2020,,3.18,,3.18
+Sword & Shield,,swsh3-186,Darkness Ablaze,Trainer,Rare Ultra,186,Kabu,,8/14/2020,,2.7,,2.7
+Sword & Shield,,swsh3-187,Darkness Ablaze,Trainer,Rare Ultra,187,Piers,,8/14/2020,,3.35,,3.35
+Sword & Shield,,swsh3-188,Darkness Ablaze,Trainer,Rare Ultra,188,Pokémon Breeder's Nurturing,,8/14/2020,,2.96,,2.96
+Sword & Shield,,swsh3-189,Darkness Ablaze,Trainer,Rare Ultra,189,Rose,,8/14/2020,,2.49,,2.49
+Sword & Shield,,swsh3-190,Darkness Ablaze,Pokémon,Rare Rainbow,190,Butterfree VMAX,12,8/14/2020,,11.4,,11.4
+Sword & Shield,,swsh3-191,Darkness Ablaze,Pokémon,Rare Rainbow,191,Centiskorch VMAX,851,8/14/2020,,5.76,,5.76
+Sword & Shield,,swsh3-192,Darkness Ablaze,Pokémon,Rare Rainbow,192,Eternatus VMAX,890,8/14/2020,,13.46,,13.46
+Sword & Shield,,swsh3-193,Darkness Ablaze,Pokémon,Rare Rainbow,193,Scizor VMAX,212,8/14/2020,,10.53,,10.53
+Sword & Shield,,swsh3-194,Darkness Ablaze,Pokémon,Rare Rainbow,194,Salamence VMAX,373,8/14/2020,,13.63,,13.63
+Sword & Shield,,swsh3-195,Darkness Ablaze,Trainer,Rare Rainbow,195,Pokémon Breeder's Nurturing,,8/14/2020,,4.37,,4.37
+Sword & Shield,,swsh3-196,Darkness Ablaze,Trainer,Rare Rainbow,196,Rose,,8/14/2020,,5.05,,5.05
+Sword & Shield,,swsh3-197,Darkness Ablaze,Pokémon,Rare Secret,197,Rillaboom,812,8/14/2020,,12.38,,12.38
+Sword & Shield,,swsh3-198,Darkness Ablaze,Pokémon,Rare Secret,198,Coalossal,839,8/14/2020,,9.53,,9.53
+Sword & Shield,,swsh3-199,Darkness Ablaze,Trainer,Rare Secret,199,Big Parasol,,8/14/2020,,3.39,,3.39
+Sword & Shield,,swsh3-200,Darkness Ablaze,Trainer,Rare Secret,200,Turbo Patch,,8/14/2020,,3.62,,3.62
+Sword & Shield,,swsh3-201,Darkness Ablaze,Energy,Rare Secret,201,Capture Energy,,8/14/2020,,19.02,,19.02
+Sword & Shield,,swsh45-1,Shining Fates,Pokémon,Common,1,Yanma,193,2/19/2021,0.04,,0.15,0.15
+Sword & Shield,,swsh45-2,Shining Fates,Pokémon,Rare,2,Yanmega,469,2/19/2021,0.07,,0.21,0.21
+Sword & Shield,,swsh45-3,Shining Fates,Pokémon,Rare,3,Celebi,251,2/19/2021,0.14,,0.37,0.37
+Sword & Shield,,swsh45-4,Shining Fates,Pokémon,Common,4,Cacnea,331,2/19/2021,0.03,,0.13,0.13
+Sword & Shield,,swsh45-5,Shining Fates,Pokémon,Uncommon,5,Tropius,357,2/19/2021,0.05,,0.15,0.15
+Sword & Shield,,swsh45-6,Shining Fates,Pokémon,Common,6,Rowlet,722,2/19/2021,0.04,,0.19,0.19
+Sword & Shield,,swsh45-7,Shining Fates,Pokémon,Uncommon,7,Dartrix,723,2/19/2021,0.05,,0.18,0.18
+Sword & Shield,,swsh45-8,Shining Fates,Pokémon,Rare Holo,8,Decidueye,724,2/19/2021,,0.22,0.27,0.27
+Sword & Shield,,swsh45-9,Shining Fates,Pokémon,Rare Holo V,9,Dhelmise V,781,2/19/2021,,1.04,,1.04
+Sword & Shield,,swsh45-10,Shining Fates,Pokémon,Rare Holo VMAX,10,Dhelmise VMAX,781,2/19/2021,,2.82,,2.82
+Sword & Shield,,swsh45-11,Shining Fates,Pokémon,Common,11,Grookey,810,2/19/2021,0.05,,0.17,0.17
+Sword & Shield,,swsh45-12,Shining Fates,Pokémon,Uncommon,12,Thwackey,811,2/19/2021,0.06,,0.16,0.16
+Sword & Shield,,swsh45-13,Shining Fates,Pokémon,Rare Holo,13,Rillaboom,812,2/19/2021,,0.3,0.32,0.32
+Sword & Shield,,swsh45-14,Shining Fates,Pokémon,Common,14,Gossifleur,829,2/19/2021,0.04,,0.14,0.14
+Sword & Shield,,swsh45-15,Shining Fates,Pokémon,Uncommon,15,Eldegoss,830,2/19/2021,0.03,,0.19,0.19
+Sword & Shield,,swsh45-16,Shining Fates,Pokémon,Rare,16,Zarude,893,2/19/2021,0.1,,0.23,0.23
+Sword & Shield,,swsh45-17,Shining Fates,Pokémon,Amazing Rare,17,Reshiram,643,2/19/2021,,1.49,,1.49
+Sword & Shield,,swsh45-18,Shining Fates,Pokémon,Rare Holo V,18,Cinderace V,815,2/19/2021,,1.25,,1.25
+Sword & Shield,,swsh45-19,Shining Fates,Pokémon,Rare Holo VMAX,19,Cinderace VMAX,815,2/19/2021,,2.81,,2.81
+Sword & Shield,,swsh45-20,Shining Fates,Pokémon,Common,20,Horsea,116,2/19/2021,0.04,,0.14,0.14
+Sword & Shield,,swsh45-21,Shining Fates,Pokémon,Amazing Rare,21,Kyogre,382,2/19/2021,,1.67,,1.67
+Sword & Shield,,swsh45-22,Shining Fates,Pokémon,Common,22,Buizel,418,2/19/2021,0.04,,0.12,0.12
+Sword & Shield,,swsh45-23,Shining Fates,Pokémon,Uncommon,23,Floatzel,419,2/19/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh45-24,Shining Fates,Pokémon,Rare,24,Manaphy,490,2/19/2021,0.13,,0.33,0.33
+Sword & Shield,,swsh45-25,Shining Fates,Pokémon,Rare,25,Volcanion,721,2/19/2021,0.1,,0.24,0.24
+Sword & Shield,,swsh45-26,Shining Fates,Pokémon,Common,26,Chewtle,833,2/19/2021,0.04,,0.18,0.18
+Sword & Shield,,swsh45-27,Shining Fates,Pokémon,Rare,27,Drednaw,834,2/19/2021,0.08,,0.22,0.22
+Sword & Shield,,swsh45-28,Shining Fates,Pokémon,Uncommon,28,Cramorant,845,2/19/2021,0.04,,0.13,0.13
+Sword & Shield,,swsh45-29,Shining Fates,Pokémon,Common,29,Snom,872,2/19/2021,0.12,,0.23,0.23
+Sword & Shield,,swsh45-30,Shining Fates,Pokémon,Rare Holo,30,Frosmoth,873,2/19/2021,,0.22,0.31,0.31
+Sword & Shield,,swsh45-31,Shining Fates,Pokémon,Common,31,Shinx,403,2/19/2021,0.04,,0.17,0.17
+Sword & Shield,,swsh45-32,Shining Fates,Pokémon,Uncommon,32,Luxio,404,2/19/2021,0.05,,0.14,0.14
+Sword & Shield,,swsh45-33,Shining Fates,Pokémon,Rare Holo,33,Luxray,405,2/19/2021,,0.19,0.28,0.28
+Sword & Shield,,swsh45-34,Shining Fates,Pokémon,Uncommon,34,Rotom,479,2/19/2021,0.03,,0.17,0.17
+Sword & Shield,,swsh45-35,Shining Fates,Pokémon,Common,35,Morpeko,877,2/19/2021,0.05,,0.15,0.15
+Sword & Shield,,swsh45-36,Shining Fates,Pokémon,Common,36,Morpeko,877,2/19/2021,0.06,,0.21,0.21
+Sword & Shield,,swsh45-37,Shining Fates,Pokémon,Rare Holo V,37,Morpeko V,877,2/19/2021,,0.9,,0.9
+Sword & Shield,,swsh45-38,Shining Fates,Pokémon,Rare Holo VMAX,38,Morpeko VMAX,877,2/19/2021,,2.76,,2.76
+Sword & Shield,,swsh45-39,Shining Fates,Pokémon,Rare Holo V,39,Indeedee V,876,2/19/2021,,0.87,,0.87
+Sword & Shield,,swsh45-40,Shining Fates,Pokémon,Common,40,Trapinch,328,2/19/2021,0.05,,0.15,0.15
+Sword & Shield,,swsh45-41,Shining Fates,Pokémon,Common,41,Koffing,109,2/19/2021,0.12,,0.24,0.24
+Sword & Shield,,swsh45-42,Shining Fates,Pokémon,Rare Holo,42,Galarian Weezing,110,2/19/2021,,0.28,0.34,0.34
+Sword & Shield,,swsh45-43,Shining Fates,Pokémon,Common,43,Spinarak,167,2/19/2021,0.04,,0.15,0.15
+Sword & Shield,,swsh45-44,Shining Fates,Pokémon,Rare Holo V,44,Crobat V,169,2/19/2021,,2.27,,2.27
+Sword & Shield,,swsh45-45,Shining Fates,Pokémon,Rare Holo VMAX,45,Crobat VMAX,169,2/19/2021,,2.47,,2.47
+Sword & Shield,,swsh45-46,Shining Fates,Pokémon,Amazing Rare,46,Yveltal,717,2/19/2021,,1.25,,1.25
+Sword & Shield,,swsh45-47,Shining Fates,Pokémon,Common,47,Nickit,827,2/19/2021,0.05,,0.18,0.18
+Sword & Shield,,swsh45-48,Shining Fates,Pokémon,Rare Holo,48,Thievul,828,2/19/2021,,0.1,0.18,0.18
+Sword & Shield,,swsh45-49,Shining Fates,Pokémon,Common,49,Cufant,878,2/19/2021,0.04,,0.14,0.14
+Sword & Shield,,swsh45-50,Shining Fates,Pokémon,Rare Holo V,50,Ditto V,132,2/19/2021,,1.21,,1.21
+Sword & Shield,,swsh45-51,Shining Fates,Pokémon,Rare Holo VMAX,51,Ditto VMAX,132,2/19/2021,,3.14,,3.14
+Sword & Shield,,swsh45-52,Shining Fates,Pokémon,Common,52,Eevee,133,2/19/2021,0.09,,0.21,0.21
+Sword & Shield,,swsh45-53,Shining Fates,Pokémon,Rare Holo V,53,Greedent V,820,2/19/2021,,0.72,,0.72
+Sword & Shield,,swsh45-54,Shining Fates,Pokémon,Rare Holo V,54,Cramorant V,845,2/19/2021,,0.94,,0.94
+Sword & Shield,,swsh45-55,Shining Fates,Pokémon,Rare Holo VMAX,55,Cramorant VMAX,845,2/19/2021,,2.19,,2.19
+Sword & Shield,,swsh45-56,Shining Fates,Pokémon,Rare Holo,56,Indeedee,876,2/19/2021,,0.15,0.19,0.19
+Sword & Shield,,swsh45-57,Shining Fates,Trainer,Uncommon,57,Ball Guy,,2/19/2021,0.1,,0.24,0.24
+Sword & Shield,,swsh45-58,Shining Fates,Trainer,Rare,58,Boss's Orders,,2/19/2021,0.59,,1.06,1.06
+Sword & Shield,,swsh45-59,Shining Fates,Trainer,Uncommon,59,Gym Trainer,,2/19/2021,0.04,,0.21,0.21
+Sword & Shield,,swsh45-60,Shining Fates,Trainer,Rare,60,Professor's Research,,2/19/2021,0.26,,0.65,0.65
+Sword & Shield,,swsh45-61,Shining Fates,Trainer,Uncommon,61,Rusted Shield,,2/19/2021,0.05,,0.15,0.15
+Sword & Shield,,swsh45-62,Shining Fates,Trainer,Uncommon,62,Rusted Sword,,2/19/2021,0.08,,0.21,0.21
+Sword & Shield,,swsh45-63,Shining Fates,Trainer,Uncommon,63,Team Yell Towel,,2/19/2021,0.04,,0.14,0.14
+Sword & Shield,,swsh45-64,Shining Fates,Pokémon,Rare Ultra,64,Alcremie V,869,2/19/2021,,2.91,,2.91
+Sword & Shield,,swsh45-65,Shining Fates,Trainer,Rare Ultra,65,Ball Guy,,2/19/2021,,3.03,,3.03
+Sword & Shield,,swsh45-66,Shining Fates,Trainer,Rare Ultra,66,Bird Keeper,,2/19/2021,,3.68,,3.68
+Sword & Shield,,swsh45-67,Shining Fates,Trainer,Rare Ultra,67,Cara Liss,,2/19/2021,,1.95,,1.95
+Sword & Shield,,swsh45-68,Shining Fates,Trainer,Rare Ultra,68,Gym Trainer,,2/19/2021,,1.56,,1.56
+Sword & Shield,,swsh45-69,Shining Fates,Trainer,Rare Ultra,69,Piers,,2/19/2021,,3.21,,3.21
+Sword & Shield,,swsh45-70,Shining Fates,Trainer,Rare Ultra,70,Poké Kid,,2/19/2021,,4.16,,4.16
+Sword & Shield,,swsh45-71,Shining Fates,Trainer,Rare Ultra,71,Rose,,2/19/2021,,2.25,,2.25
+Sword & Shield,,swsh45-72,Shining Fates,Trainer,Rare Ultra,72,Skyla,,2/19/2021,,12.12,,12.12
+Sword & Shield,,swsh45-73,Shining Fates,Pokémon,Rare Rainbow,73,Alcremie VMAX,869,2/19/2021,,2.67,,2.67
+Sword & Shield,,swsh45sv-SV001,Shiny Vault,Pokémon,Rare Shiny,SV001,Rowlet,722,2/19/2021,,1.9,,1.9
+Sword & Shield,,swsh45sv-SV002,Shiny Vault,Pokémon,Rare Shiny,SV002,Dartrix,723,2/19/2021,,5.02,,5.02
+Sword & Shield,,swsh45sv-SV003,Shiny Vault,Pokémon,Rare Shiny,SV003,Decidueye,724,2/19/2021,,8.22,,8.22
+Sword & Shield,,swsh45sv-SV004,Shiny Vault,Pokémon,Rare Shiny,SV004,Grookey,810,2/19/2021,,2.28,,2.28
+Sword & Shield,,swsh45sv-SV005,Shiny Vault,Pokémon,Rare Shiny,SV005,Thwackey,811,2/19/2021,,4.95,,4.95
+Sword & Shield,,swsh45sv-SV006,Shiny Vault,Pokémon,Rare Shiny,SV006,Rillaboom,812,2/19/2021,,7.53,,7.53
+Sword & Shield,,swsh45sv-SV007,Shiny Vault,Pokémon,Rare Shiny,SV007,Blipbug,824,2/19/2021,,2.19,,2.19
+Sword & Shield,,swsh45sv-SV008,Shiny Vault,Pokémon,Rare Shiny,SV008,Dottler,825,2/19/2021,,2.99,,2.99
+Sword & Shield,,swsh45sv-SV009,Shiny Vault,Pokémon,Rare Shiny,SV009,Orbeetle,826,2/19/2021,,2.95,,2.95
+Sword & Shield,,swsh45sv-SV010,Shiny Vault,Pokémon,Rare Shiny,SV010,Gossifleur,829,2/19/2021,,4.05,,4.05
+Sword & Shield,,swsh45sv-SV011,Shiny Vault,Pokémon,Rare Shiny,SV011,Eldegoss,830,2/19/2021,,3.28,,3.28
+Sword & Shield,,swsh45sv-SV012,Shiny Vault,Pokémon,Rare Shiny,SV012,Applin,840,2/19/2021,,4.96,,4.96
+Sword & Shield,,swsh45sv-SV013,Shiny Vault,Pokémon,Rare Shiny,SV013,Flapple,841,2/19/2021,,3.69,,3.69
+Sword & Shield,,swsh45sv-SV014,Shiny Vault,Pokémon,Rare Shiny,SV014,Appletun,842,2/19/2021,,5.32,,5.32
+Sword & Shield,,swsh45sv-SV015,Shiny Vault,Pokémon,Rare Shiny,SV015,Scorbunny,813,2/19/2021,,2.78,,2.78
+Sword & Shield,,swsh45sv-SV016,Shiny Vault,Pokémon,Rare Shiny,SV016,Raboot,814,2/19/2021,,5.88,,5.88
+Sword & Shield,,swsh45sv-SV017,Shiny Vault,Pokémon,Rare Shiny,SV017,Cinderace,815,2/19/2021,,7.58,,7.58
+Sword & Shield,,swsh45sv-SV018,Shiny Vault,Pokémon,Rare Shiny,SV018,Sizzlipede,850,2/19/2021,,2.33,,2.33
+Sword & Shield,,swsh45sv-SV019,Shiny Vault,Pokémon,Rare Shiny,SV019,Centiskorch,851,2/19/2021,,3.29,,3.29
+Sword & Shield,,swsh45sv-SV020,Shiny Vault,Pokémon,Rare Shiny,SV020,Galarian Mr. Mime,,2/19/2021,,2.82,,2.82
+Sword & Shield,,swsh45sv-SV021,Shiny Vault,Pokémon,Rare Shiny,SV021,Galarian Mr. Rime,,2/19/2021,,1.43,,1.43
+Sword & Shield,,swsh45sv-SV022,Shiny Vault,Pokémon,Rare Shiny,SV022,Suicune,245,2/19/2021,,21.83,,21.83
+Sword & Shield,,swsh45sv-SV023,Shiny Vault,Pokémon,Rare Shiny,SV023,Galarian Darumaka,554,2/19/2021,,2.51,,2.51
+Sword & Shield,,swsh45sv-SV024,Shiny Vault,Pokémon,Rare Shiny,SV024,Galarian Darmanitan,555,2/19/2021,,2.78,,2.78
+Sword & Shield,,swsh45sv-SV025,Shiny Vault,Pokémon,Rare Shiny,SV025,Sobble,816,2/19/2021,,2.43,,2.43
+Sword & Shield,,swsh45sv-SV026,Shiny Vault,Pokémon,Rare Shiny,SV026,Drizzile,817,2/19/2021,,18.27,,18.27
+Sword & Shield,,swsh45sv-SV027,Shiny Vault,Pokémon,Rare Shiny,SV027,Inteleon,818,2/19/2021,,13.22,,13.22
+Sword & Shield,,swsh45sv-SV028,Shiny Vault,Pokémon,Rare Shiny,SV028,Chewtle,833,2/19/2021,,3.01,,3.01
+Sword & Shield,,swsh45sv-SV029,Shiny Vault,Pokémon,Rare Shiny,SV029,Drednaw,834,2/19/2021,,2.7,,2.7
+Sword & Shield,,swsh45sv-SV030,Shiny Vault,Pokémon,Rare Shiny,SV030,Cramorant,845,2/19/2021,,1.4,,1.4
+Sword & Shield,,swsh45sv-SV031,Shiny Vault,Pokémon,Rare Shiny,SV031,Arrokuda,846,2/19/2021,,2.46,,2.46
+Sword & Shield,,swsh45sv-SV032,Shiny Vault,Pokémon,Rare Shiny,SV032,Barraskewda,847,2/19/2021,,2.22,,2.22
+Sword & Shield,,swsh45sv-SV033,Shiny Vault,Pokémon,Rare Shiny,SV033,Snom,872,2/19/2021,,2.1,,2.1
+Sword & Shield,,swsh45sv-SV034,Shiny Vault,Pokémon,Rare Shiny,SV034,Frosmoth,873,2/19/2021,,6.12,,6.12
+Sword & Shield,,swsh45sv-SV035,Shiny Vault,Pokémon,Rare Shiny,SV035,Eiscue,875,2/19/2021,,4.18,,4.18
+Sword & Shield,,swsh45sv-SV036,Shiny Vault,Pokémon,Rare Shiny,SV036,Dracovish,882,2/19/2021,,4.14,,4.14
+Sword & Shield,,swsh45sv-SV037,Shiny Vault,Pokémon,Rare Shiny,SV037,Arctovish,883,2/19/2021,,2.64,,2.64
+Sword & Shield,,swsh45sv-SV038,Shiny Vault,Pokémon,Rare Shiny,SV038,Rotom,479,2/19/2021,,3.46,,3.46
+Sword & Shield,,swsh45sv-SV039,Shiny Vault,Pokémon,Rare Shiny,SV039,Yamper,835,2/19/2021,,7.32,,7.32
+Sword & Shield,,swsh45sv-SV040,Shiny Vault,Pokémon,Rare Shiny,SV040,Boltund,836,2/19/2021,,3.3,,3.3
+Sword & Shield,,swsh45sv-SV041,Shiny Vault,Pokémon,Rare Shiny,SV041,Toxel,848,2/19/2021,,4.07,,4.07
+Sword & Shield,,swsh45sv-SV042,Shiny Vault,Pokémon,Rare Shiny,SV042,Toxtricity,849,2/19/2021,,1.59,,1.59
+Sword & Shield,,swsh45sv-SV043,Shiny Vault,Pokémon,Rare Shiny,SV043,Pincurchin,871,2/19/2021,,2.87,,2.87
+Sword & Shield,,swsh45sv-SV044,Shiny Vault,Pokémon,Rare Shiny,SV044,Morpeko,877,2/19/2021,,4.61,,4.61
+Sword & Shield,,swsh45sv-SV045,Shiny Vault,Pokémon,Rare Shiny,SV045,Dracozolt,880,2/19/2021,,2.53,,2.53
+Sword & Shield,,swsh45sv-SV046,Shiny Vault,Pokémon,Rare Shiny,SV046,Arctozolt,881,2/19/2021,,2.26,,2.26
+Sword & Shield,,swsh45sv-SV047,Shiny Vault,Pokémon,Rare Shiny,SV047,Galarian Ponyta,77,2/19/2021,,8.75,,8.75
+Sword & Shield,,swsh45sv-SV048,Shiny Vault,Pokémon,Rare Shiny,SV048,Galarian Rapidash,78,2/19/2021,,9.05,,9.05
+Sword & Shield,,swsh45sv-SV049,Shiny Vault,Pokémon,Rare Shiny,SV049,Galarian Corsola,222,2/19/2021,,2.98,,2.98
+Sword & Shield,,swsh45sv-SV050,Shiny Vault,Pokémon,Rare Shiny,SV050,Galarian Cursola,864,2/19/2021,,3.13,,3.13
+Sword & Shield,,swsh45sv-SV051,Shiny Vault,Pokémon,Rare Shiny,SV051,Dedenne,702,2/19/2021,,1.67,,1.67
+Sword & Shield,,swsh45sv-SV052,Shiny Vault,Pokémon,Rare Shiny,SV052,Sinistea,854,2/19/2021,,3.87,,3.87
+Sword & Shield,,swsh45sv-SV053,Shiny Vault,Pokémon,Rare Shiny,SV053,Polteageist,855,2/19/2021,,1.53,,1.53
+Sword & Shield,,swsh45sv-SV054,Shiny Vault,Pokémon,Rare Shiny,SV054,Hatenna,856,2/19/2021,,2.97,,2.97
+Sword & Shield,,swsh45sv-SV055,Shiny Vault,Pokémon,Rare Shiny,SV055,Hattrem,857,2/19/2021,,2.7,,2.7
+Sword & Shield,,swsh45sv-SV056,Shiny Vault,Pokémon,Rare Shiny,SV056,Hatterene,858,2/19/2021,,2.48,,2.48
+Sword & Shield,,swsh45sv-SV057,Shiny Vault,Pokémon,Rare Shiny,SV057,Milcery,868,2/19/2021,,3.48,,3.48
+Sword & Shield,,swsh45sv-SV058,Shiny Vault,Pokémon,Rare Shiny,SV058,Alcremie,869,2/19/2021,,3.05,,3.05
+Sword & Shield,,swsh45sv-SV059,Shiny Vault,Pokémon,Rare Shiny,SV059,Indeedee,876,2/19/2021,,2.78,,2.78
+Sword & Shield,,swsh45sv-SV060,Shiny Vault,Pokémon,Rare Shiny,SV060,Dreepy,885,2/19/2021,,4.26,,4.26
+Sword & Shield,,swsh45sv-SV061,Shiny Vault,Pokémon,Rare Shiny,SV061,Drakloak,886,2/19/2021,,4.88,,4.88
+Sword & Shield,,swsh45sv-SV062,Shiny Vault,Pokémon,Rare Shiny,SV062,Dragapult,887,2/19/2021,,1.95,,1.95
+Sword & Shield,,swsh45sv-SV063,Shiny Vault,Pokémon,Rare Shiny,SV063,Galarian Farfetch'd,83,2/19/2021,,3.26,,3.26
+Sword & Shield,,swsh45sv-SV064,Shiny Vault,Pokémon,Rare Shiny,SV064,Galarian Sirfetch'd,865,2/19/2021,,1.42,,1.42
+Sword & Shield,,swsh45sv-SV065,Shiny Vault,Pokémon,Rare Shiny,SV065,Galarian Yamask,562,2/19/2021,,2.7,,2.7
+Sword & Shield,,swsh45sv-SV066,Shiny Vault,Pokémon,Rare Shiny,SV066,Galarian Runerigus,867,2/19/2021,,2.74,,2.74
+Sword & Shield,,swsh45sv-SV067,Shiny Vault,Pokémon,Rare Shiny,SV067,Rolycoly,837,2/19/2021,,2.37,,2.37
+Sword & Shield,,swsh45sv-SV068,Shiny Vault,Pokémon,Rare Shiny,SV068,Carkol,838,2/19/2021,,2.51,,2.51
+Sword & Shield,,swsh45sv-SV069,Shiny Vault,Pokémon,Rare Shiny,SV069,Coalossal,839,2/19/2021,,3.02,,3.02
+Sword & Shield,,swsh45sv-SV070,Shiny Vault,Pokémon,Rare Shiny,SV070,Silicobra,843,2/19/2021,,2.6,,2.6
+Sword & Shield,,swsh45sv-SV071,Shiny Vault,Pokémon,Rare Shiny,SV071,Sandaconda,844,2/19/2021,,2.59,,2.59
+Sword & Shield,,swsh45sv-SV072,Shiny Vault,Pokémon,Rare Shiny,SV072,Clobbopus,852,2/19/2021,,2.8,,2.8
+Sword & Shield,,swsh45sv-SV073,Shiny Vault,Pokémon,Rare Shiny,SV073,Grapploct,853,2/19/2021,,2.59,,2.59
+Sword & Shield,,swsh45sv-SV074,Shiny Vault,Pokémon,Rare Shiny,SV074,Falinks,870,2/19/2021,,1.4,,1.4
+Sword & Shield,,swsh45sv-SV075,Shiny Vault,Pokémon,Rare Shiny,SV075,Stonjourner,874,2/19/2021,,2.67,,2.67
+Sword & Shield,,swsh45sv-SV076,Shiny Vault,Pokémon,Rare Shiny,SV076,Koffing,109,2/19/2021,,8.12,,8.12
+Sword & Shield,,swsh45sv-SV077,Shiny Vault,Pokémon,Rare Shiny,SV077,Galarian Weezing,110,2/19/2021,,5.1,,5.1
+Sword & Shield,,swsh45sv-SV078,Shiny Vault,Pokémon,Rare Shiny,SV078,Galarian Zigzagoon,263,2/19/2021,,3.96,,3.96
+Sword & Shield,,swsh45sv-SV079,Shiny Vault,Pokémon,Rare Shiny,SV079,Galarian Linoone,264,2/19/2021,,2.98,,2.98
+Sword & Shield,,swsh45sv-SV080,Shiny Vault,Pokémon,Rare Shiny,SV080,Galarian Obstagoon,862,2/19/2021,,5.06,,5.06
+Sword & Shield,,swsh45sv-SV081,Shiny Vault,Pokémon,Rare Shiny,SV081,Nickit,827,2/19/2021,,2.89,,2.89
+Sword & Shield,,swsh45sv-SV082,Shiny Vault,Pokémon,Rare Shiny,SV082,Thievul,828,2/19/2021,,2.08,,2.08
+Sword & Shield,,swsh45sv-SV083,Shiny Vault,Pokémon,Rare Shiny,SV083,Impidimp,859,2/19/2021,,2.94,,2.94
+Sword & Shield,,swsh45sv-SV084,Shiny Vault,Pokémon,Rare Shiny,SV084,Morgrem,860,2/19/2021,,2.51,,2.51
+Sword & Shield,,swsh45sv-SV085,Shiny Vault,Pokémon,Rare Shiny,SV085,Grimmsnarl,861,2/19/2021,,3.39,,3.39
+Sword & Shield,,swsh45sv-SV086,Shiny Vault,Pokémon,Rare Shiny,SV086,Galarian Meowth,52,2/19/2021,,4.89,,4.89
+Sword & Shield,,swsh45sv-SV087,Shiny Vault,Pokémon,Rare Shiny,SV087,Galarian Perrserker,863,2/19/2021,,3.12,,3.12
+Sword & Shield,,swsh45sv-SV088,Shiny Vault,Pokémon,Rare Shiny,SV088,Galarian Stunfisk,618,2/19/2021,,2.43,,2.43
+Sword & Shield,,swsh45sv-SV089,Shiny Vault,Pokémon,Rare Shiny,SV089,Corviknight,823,2/19/2021,,1.43,,1.43
+Sword & Shield,,swsh45sv-SV090,Shiny Vault,Pokémon,Rare Shiny,SV090,Cufant,878,2/19/2021,,2.49,,2.49
+Sword & Shield,,swsh45sv-SV091,Shiny Vault,Pokémon,Rare Shiny,SV091,Copperajah,879,2/19/2021,,2.65,,2.65
+Sword & Shield,,swsh45sv-SV092,Shiny Vault,Pokémon,Rare Shiny,SV092,Duraludon,884,2/19/2021,,3.04,,3.04
+Sword & Shield,,swsh45sv-SV093,Shiny Vault,Pokémon,Rare Shiny,SV093,Minccino,572,2/19/2021,,7.67,,7.67
+Sword & Shield,,swsh45sv-SV094,Shiny Vault,Pokémon,Rare Shiny,SV094,Cinccino,573,2/19/2021,,5.85,,5.85
+Sword & Shield,,swsh45sv-SV095,Shiny Vault,Pokémon,Rare Shiny,SV095,Ducklett,580,2/19/2021,,3.33,,3.33
+Sword & Shield,,swsh45sv-SV096,Shiny Vault,Pokémon,Rare Shiny,SV096,Swanna,581,2/19/2021,,2.53,,2.53
+Sword & Shield,,swsh45sv-SV097,Shiny Vault,Pokémon,Rare Shiny,SV097,Bunnelby,659,2/19/2021,,1.34,,1.34
+Sword & Shield,,swsh45sv-SV098,Shiny Vault,Pokémon,Rare Shiny,SV098,Oranguru,765,2/19/2021,,5.19,,5.19
+Sword & Shield,,swsh45sv-SV099,Shiny Vault,Pokémon,Rare Shiny,SV099,Skwovet,819,2/19/2021,,2.16,,2.16
+Sword & Shield,,swsh45sv-SV100,Shiny Vault,Pokémon,Rare Shiny,SV100,Greedent,820,2/19/2021,,2.93,,2.93
+Sword & Shield,,swsh45sv-SV101,Shiny Vault,Pokémon,Rare Shiny,SV101,Rookidee,821,2/19/2021,,3.06,,3.06
+Sword & Shield,,swsh45sv-SV102,Shiny Vault,Pokémon,Rare Shiny,SV102,Corvisquire,822,2/19/2021,,2.9,,2.9
+Sword & Shield,,swsh45sv-SV103,Shiny Vault,Pokémon,Rare Shiny,SV103,Wooloo,831,2/19/2021,,2.03,,2.03
+Sword & Shield,,swsh45sv-SV104,Shiny Vault,Pokémon,Rare Shiny,SV104,Dubwool,832,2/19/2021,,2.06,,2.06
+Sword & Shield,,swsh45sv-SV105,Shiny Vault,Pokémon,Rare Holo V,SV105,Rillaboom V,812,2/19/2021,,1.72,,1.72
+Sword & Shield,,swsh45sv-SV106,Shiny Vault,Pokémon,Rare Holo VMAX,SV106,Rillaboom VMAX,812,2/19/2021,,3.64,,3.64
+Sword & Shield,,swsh45sv-SV107,Shiny Vault,Pokémon,Rare Holo VMAX,SV107,Charizard VMAX,6,2/19/2021,,126.5,,126.5
+Sword & Shield,,swsh45sv-SV108,Shiny Vault,Pokémon,Rare Holo V,SV108,Centiskorch V,851,2/19/2021,,1.64,,1.64
+Sword & Shield,,swsh45sv-SV109,Shiny Vault,Pokémon,Rare Holo VMAX,SV109,Centiskorch VMAX,851,2/19/2021,,3.78,,3.78
+Sword & Shield,,swsh45sv-SV110,Shiny Vault,Pokémon,Rare Holo V,SV110,Lapras V,131,2/19/2021,,2.55,,2.55
+Sword & Shield,,swsh45sv-SV111,Shiny Vault,Pokémon,Rare Holo VMAX,SV111,Lapras VMAX,131,2/19/2021,,6.03,,6.03
+Sword & Shield,,swsh45sv-SV112,Shiny Vault,Pokémon,Rare Holo V,SV112,Toxtricity V,849,2/19/2021,,1.76,,1.76
+Sword & Shield,,swsh45sv-SV113,Shiny Vault,Pokémon,Rare Holo VMAX,SV113,Toxtricity VMAX,849,2/19/2021,,5.14,,5.14
+Sword & Shield,,swsh45sv-SV114,Shiny Vault,Pokémon,Rare Holo V,SV114,Indeedee V,876,2/19/2021,,1.58,,1.58
+Sword & Shield,,swsh45sv-SV115,Shiny Vault,Pokémon,Rare Holo V,SV115,Falinks V,870,2/19/2021,,1.61,,1.61
+Sword & Shield,,swsh45sv-SV116,Shiny Vault,Pokémon,Rare Holo V,SV116,Grimmsnarl V,861,2/19/2021,,1.88,,1.88
+Sword & Shield,,swsh45sv-SV117,Shiny Vault,Pokémon,Rare Holo VMAX,SV117,Grimmsnarl VMAX,861,2/19/2021,,6.93,,6.93
+Sword & Shield,,swsh45sv-SV118,Shiny Vault,Pokémon,Rare Holo V,SV118,Ditto V,132,2/19/2021,,2.44,,2.44
+Sword & Shield,,swsh45sv-SV119,Shiny Vault,Pokémon,Rare Holo VMAX,SV119,Ditto VMAX,132,2/19/2021,,9.81,,9.81
+Sword & Shield,,swsh45sv-SV120,Shiny Vault,Pokémon,Rare Holo V,SV120,Dubwool V,832,2/19/2021,,1.49,,1.49
+Sword & Shield,,swsh45sv-SV121,Shiny Vault,Pokémon,Rare Secret,SV121,Eternatus V,890,2/19/2021,,7.56,,7.56
+Sword & Shield,,swsh45sv-SV122,Shiny Vault,Pokémon,Rare Secret,SV122,Eternatus VMAX,890,2/19/2021,,8.32,,8.32
+Sword & Shield,,swsh5-1,Battle Styles,Pokémon,Common,1,Bellsprout,69,3/19/2021,0.06,,0.18,0.18
+Sword & Shield,,swsh5-2,Battle Styles,Pokémon,Uncommon,2,Weepinbell,70,3/19/2021,0.06,,0.16,0.16
+Sword & Shield,,swsh5-3,Battle Styles,Pokémon,Rare,3,Victreebel,71,3/19/2021,0.12,,0.21,0.21
+Sword & Shield,,swsh5-4,Battle Styles,Pokémon,Common,4,Cacnea,331,3/19/2021,0.02,,0.18,0.18
+Sword & Shield,,swsh5-5,Battle Styles,Pokémon,Uncommon,5,Cacturne,332,3/19/2021,0.05,,0.09,0.09
+Sword & Shield,,swsh5-6,Battle Styles,Pokémon,Rare Holo V,6,Kricketune V,402,3/19/2021,,0.98,,0.98
+Sword & Shield,,swsh5-7,Battle Styles,Pokémon,Common,7,Cherubi,420,3/19/2021,0.06,,0.25,0.25
+Sword & Shield,,swsh5-8,Battle Styles,Pokémon,Rare Holo,8,Cherrim,421,3/19/2021,,0.66,0.96,0.96
+Sword & Shield,,swsh5-9,Battle Styles,Pokémon,Uncommon,9,Carnivine,455,3/19/2021,0.04,,0.15,0.15
+Sword & Shield,,swsh5-10,Battle Styles,Pokémon,Uncommon,10,Durant,632,3/19/2021,0.06,,0.16,0.16
+Sword & Shield,,swsh5-11,Battle Styles,Pokémon,Common,11,Scatterbug,664,3/19/2021,0.03,,0.17,0.17
+Sword & Shield,,swsh5-12,Battle Styles,Pokémon,Uncommon,12,Spewpa,665,3/19/2021,0.05,,0.15,0.15
+Sword & Shield,,swsh5-13,Battle Styles,Pokémon,Rare,13,Vivillon,666,3/19/2021,0.1,,0.19,0.19
+Sword & Shield,,swsh5-14,Battle Styles,Pokémon,Common,14,Fomantis,753,3/19/2021,0.04,,0.14,0.14
+Sword & Shield,,swsh5-15,Battle Styles,Pokémon,Rare,15,Lurantis,754,3/19/2021,0.1,,0.16,0.16
+Sword & Shield,,swsh5-16,Battle Styles,Pokémon,Rare Holo,16,Tapu Bulu,,3/19/2021,,0.25,0.24,0.25
+Sword & Shield,,swsh5-17,Battle Styles,Pokémon,Common,17,Blipbug,824,3/19/2021,0.04,,0.17,0.17
+Sword & Shield,,swsh5-18,Battle Styles,Pokémon,Rare Holo V,18,Flapple V,841,3/19/2021,,0.94,,0.94
+Sword & Shield,,swsh5-19,Battle Styles,Pokémon,Rare Holo VMAX,19,Flapple VMAX,841,3/19/2021,,2.31,,2.31
+Sword & Shield,,swsh5-20,Battle Styles,Pokémon,Rare Holo,20,Entei,244,3/19/2021,,0.36,0.44,0.44
+Sword & Shield,,swsh5-21,Battle Styles,Pokémon,Rare Holo V,21,Victini V,494,3/19/2021,,1.15,,1.15
+Sword & Shield,,swsh5-22,Battle Styles,Pokémon,Rare Holo VMAX,22,Victini VMAX,494,3/19/2021,,3.55,,3.55
+Sword & Shield,,swsh5-23,Battle Styles,Pokémon,Common,23,Tepig,498,3/19/2021,0.06,,0.17,0.17
+Sword & Shield,,swsh5-24,Battle Styles,Pokémon,Uncommon,24,Pignite,499,3/19/2021,0.03,,0.19,0.19
+Sword & Shield,,swsh5-25,Battle Styles,Pokémon,Rare Holo,25,Emboar,500,3/19/2021,,0.22,0.3,0.3
+Sword & Shield,,swsh5-26,Battle Styles,Pokémon,Uncommon,26,Heatmor,631,3/19/2021,0.02,,0.13,0.13
+Sword & Shield,,swsh5-27,Battle Styles,Pokémon,Common,27,Salandit,757,3/19/2021,0.08,,0.24,0.24
+Sword & Shield,,swsh5-28,Battle Styles,Pokémon,Rare,28,Salazzle,758,3/19/2021,0.21,,0.26,0.26
+Sword & Shield,,swsh5-29,Battle Styles,Pokémon,Common,29,Sizzlipede,850,3/19/2021,0.05,,0.13,0.13
+Sword & Shield,,swsh5-30,Battle Styles,Pokémon,Rare,30,Centiskorch,851,3/19/2021,0.1,,0.2,0.2
+Sword & Shield,,swsh5-31,Battle Styles,Pokémon,Common,31,Horsea,116,3/19/2021,0.05,,0.16,0.16
+Sword & Shield,,swsh5-32,Battle Styles,Pokémon,Uncommon,32,Seadra,117,3/19/2021,0.04,,0.15,0.15
+Sword & Shield,,swsh5-33,Battle Styles,Pokémon,Rare Holo,33,Kingdra,230,3/19/2021,,0.3,0.36,0.36
+Sword & Shield,,swsh5-34,Battle Styles,Pokémon,Common,34,Galarian Mr. Mime,,3/19/2021,0.05,,0.16,0.16
+Sword & Shield,,swsh5-35,Battle Styles,Pokémon,Rare,35,Galarian Mr. Rime,,3/19/2021,0.09,,0.19,0.19
+Sword & Shield,,swsh5-36,Battle Styles,Pokémon,Common,36,Remoraid,223,3/19/2021,0.12,,0.68,0.68
+Sword & Shield,,swsh5-37,Battle Styles,Pokémon,Rare Holo,37,Octillery,224,3/19/2021,,1.11,1.06,1.11
+Sword & Shield,,swsh5-38,Battle Styles,Pokémon,Common,38,Corphish,341,3/19/2021,0.03,,0.14,0.14
+Sword & Shield,,swsh5-39,Battle Styles,Pokémon,Uncommon,39,Crawdaunt,342,3/19/2021,0.04,,0.19,0.19
+Sword & Shield,,swsh5-40,Battle Styles,Pokémon,Rare Holo V,40,Empoleon V,395,3/19/2021,,0.94,,0.94
+Sword & Shield,,swsh5-41,Battle Styles,Pokémon,Common,41,Frillish,592,3/19/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh5-42,Battle Styles,Pokémon,Rare,42,Jellicent,593,3/19/2021,0.1,,0.17,0.17
+Sword & Shield,,swsh5-43,Battle Styles,Pokémon,Uncommon,43,Bruxish,779,3/19/2021,0.07,,0.17,0.17
+Sword & Shield,,swsh5-44,Battle Styles,Pokémon,Common,44,Electabuzz,125,3/19/2021,0.04,,0.2,0.2
+Sword & Shield,,swsh5-45,Battle Styles,Pokémon,Rare,45,Electivire,466,3/19/2021,0.13,,0.22,0.22
+Sword & Shield,,swsh5-46,Battle Styles,Pokémon,Common,46,Shinx,403,3/19/2021,0.05,,0.17,0.17
+Sword & Shield,,swsh5-47,Battle Styles,Pokémon,Uncommon,47,Luxio,404,3/19/2021,0.05,,0.14,0.14
+Sword & Shield,,swsh5-48,Battle Styles,Pokémon,Rare Holo,48,Luxray,405,3/19/2021,,0.34,0.36,0.36
+Sword & Shield,,swsh5-49,Battle Styles,Pokémon,Common,49,Pachirisu,417,3/19/2021,0.04,,0.15,0.15
+Sword & Shield,,swsh5-50,Battle Styles,Pokémon,Rare Holo V,50,Tapu Koko V,,3/19/2021,,0.97,,0.97
+Sword & Shield,,swsh5-51,Battle Styles,Pokémon,Rare Holo VMAX,51,Tapu Koko VMAX,,3/19/2021,,2.8,,2.8
+Sword & Shield,,swsh5-52,Battle Styles,Pokémon,Common,52,Yamper,835,3/19/2021,0.06,,0.22,0.22
+Sword & Shield,,swsh5-53,Battle Styles,Pokémon,Rare,53,Boltund,836,3/19/2021,0.11,,0.24,0.24
+Sword & Shield,,swsh5-54,Battle Styles,Pokémon,Common,54,Galarian Slowpoke,79,3/19/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh5-55,Battle Styles,Pokémon,Common,55,Spoink,325,3/19/2021,0.04,,0.17,0.17
+Sword & Shield,,swsh5-56,Battle Styles,Pokémon,Uncommon,56,Grumpig,326,3/19/2021,0.04,,0.14,0.14
+Sword & Shield,,swsh5-57,Battle Styles,Pokémon,Common,57,Baltoy,343,3/19/2021,0.03,,0.14,0.14
+Sword & Shield,,swsh5-58,Battle Styles,Pokémon,Rare,58,Claydol,344,3/19/2021,0.09,,0.26,0.26
+Sword & Shield,,swsh5-59,Battle Styles,Pokémon,Common,59,Chimecho,358,3/19/2021,0.03,,0.1,0.1
+Sword & Shield,,swsh5-60,Battle Styles,Pokémon,Common,60,Espurr,677,3/19/2021,0.04,,0.13,0.13
+Sword & Shield,,swsh5-61,Battle Styles,Pokémon,Rare Holo,61,Meowstic,678,3/19/2021,,0.24,0.37,0.37
+Sword & Shield,,swsh5-62,Battle Styles,Pokémon,Rare Holo V,62,Mimikyu V,778,3/19/2021,,1.06,,1.06
+Sword & Shield,,swsh5-63,Battle Styles,Pokémon,Rare Holo V,63,Necrozma V,800,3/19/2021,,1.1,,1.1
+Sword & Shield,,swsh5-64,Battle Styles,Pokémon,Uncommon,64,Dottler,825,3/19/2021,0.04,,0.13,0.13
+Sword & Shield,,swsh5-65,Battle Styles,Pokémon,Rare Holo,65,Orbeetle,826,3/19/2021,,0.19,0.22,0.22
+Sword & Shield,,swsh5-66,Battle Styles,Pokémon,Common,66,Mankey,56,3/19/2021,0.06,,0.15,0.15
+Sword & Shield,,swsh5-67,Battle Styles,Pokémon,Rare,67,Primeape,57,3/19/2021,0.11,,0.18,0.18
+Sword & Shield,,swsh5-68,Battle Styles,Pokémon,Common,68,Onix,95,3/19/2021,0.04,,0.17,0.17
+Sword & Shield,,swsh5-69,Battle Styles,Pokémon,Common,69,Cubone,104,3/19/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh5-70,Battle Styles,Pokémon,Rare,70,Marowak,105,3/19/2021,0.12,,0.2,0.2
+Sword & Shield,,swsh5-71,Battle Styles,Pokémon,Common,71,Gligar,207,3/19/2021,0.03,,0.16,0.16
+Sword & Shield,,swsh5-72,Battle Styles,Pokémon,Uncommon,72,Gliscor,472,3/19/2021,0.04,,0.13,0.13
+Sword & Shield,,swsh5-73,Battle Styles,Pokémon,Common,73,Timburr,532,3/19/2021,0.03,,0.16,0.16
+Sword & Shield,,swsh5-74,Battle Styles,Pokémon,Uncommon,74,Gurdurr,533,3/19/2021,0.04,,0.14,0.14
+Sword & Shield,,swsh5-75,Battle Styles,Pokémon,Rare,75,Conkeldurr,534,3/19/2021,0.08,,0.2,0.2
+Sword & Shield,,swsh5-76,Battle Styles,Pokémon,Common,76,Mienfoo,619,3/19/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh5-77,Battle Styles,Pokémon,Rare,77,Mienshao,620,3/19/2021,0.1,,0.18,0.18
+Sword & Shield,,swsh5-78,Battle Styles,Pokémon,Common,78,Rolycoly,837,3/19/2021,0.04,,0.14,0.14
+Sword & Shield,,swsh5-79,Battle Styles,Pokémon,Uncommon,79,Carkol,838,3/19/2021,0.04,,0.12,0.12
+Sword & Shield,,swsh5-80,Battle Styles,Pokémon,Rare Holo,80,Coalossal,839,3/19/2021,,0.24,0.22,0.24
+Sword & Shield,,swsh5-81,Battle Styles,Pokémon,Common,81,Silicobra,843,3/19/2021,0.06,,0.14,0.14
+Sword & Shield,,swsh5-82,Battle Styles,Pokémon,Rare Holo,82,Sandaconda,844,3/19/2021,,0.2,0.25,0.25
+Sword & Shield,,swsh5-83,Battle Styles,Pokémon,Rare,83,Falinks,870,3/19/2021,0.09,,0.22,0.22
+Sword & Shield,,swsh5-84,Battle Styles,Pokémon,Rare,84,Stonjourner,874,3/19/2021,0.11,,0.2,0.2
+Sword & Shield,,swsh5-85,Battle Styles,Pokémon,Rare Holo V,85,Single Strike Urshifu V,892,3/19/2021,,1.26,,1.26
+Sword & Shield,,swsh5-86,Battle Styles,Pokémon,Rare Holo VMAX,86,Single Strike Urshifu VMAX,892,3/19/2021,,4,,4
+Sword & Shield,,swsh5-87,Battle Styles,Pokémon,Rare Holo V,87,Rapid Strike Urshifu V,892,3/19/2021,,1.64,,1.64
+Sword & Shield,,swsh5-88,Battle Styles,Pokémon,Rare Holo VMAX,88,Rapid Strike Urshifu VMAX,892,3/19/2021,,4.71,,4.71
+Sword & Shield,,swsh5-89,Battle Styles,Pokémon,Common,89,Zubat,41,3/19/2021,0.07,,0.17,0.17
+Sword & Shield,,swsh5-90,Battle Styles,Pokémon,Uncommon,90,Golbat,42,3/19/2021,0.08,,0.18,0.18
+Sword & Shield,,swsh5-91,Battle Styles,Pokémon,Rare Holo,91,Crobat,169,3/19/2021,,0.24,0.36,0.36
+Sword & Shield,,swsh5-92,Battle Styles,Pokémon,Rare,92,Galarian Slowbro,80,3/19/2021,0.11,,0.2,0.2
+Sword & Shield,,swsh5-93,Battle Styles,Pokémon,Common,93,Murkrow,198,3/19/2021,0.05,,0.15,0.15
+Sword & Shield,,swsh5-94,Battle Styles,Pokémon,Uncommon,94,Honchkrow,430,3/19/2021,0.03,,0.14,0.14
+Sword & Shield,,swsh5-95,Battle Styles,Pokémon,Common,95,Houndour,228,3/19/2021,0.21,,0.64,0.64
+Sword & Shield,,swsh5-96,Battle Styles,Pokémon,Rare Holo,96,Houndoom,229,3/19/2021,,1.87,1.55,1.87
+Sword & Shield,,swsh5-97,Battle Styles,Pokémon,Rare Holo V,97,Tyranitar V,248,3/19/2021,,1.55,,1.55
+Sword & Shield,,swsh5-98,Battle Styles,Pokémon,Uncommon,98,Morpeko,877,3/19/2021,0.06,,0.25,0.25
+Sword & Shield,,swsh5-99,Battle Styles,Pokémon,Rare Holo,99,Steelix,208,3/19/2021,,0.28,0.51,0.51
+Sword & Shield,,swsh5-100,Battle Styles,Pokémon,Common,100,Mawile,303,3/19/2021,0.05,,0.18,0.18
+Sword & Shield,,swsh5-101,Battle Styles,Pokémon,Common,101,Bronzor,436,3/19/2021,0.04,,0.21,0.21
+Sword & Shield,,swsh5-102,Battle Styles,Pokémon,Rare Holo,102,Bronzong,437,3/19/2021,,0.58,0.93,0.93
+Sword & Shield,,swsh5-103,Battle Styles,Pokémon,Common,103,Pawniard,624,3/19/2021,0.02,,0.12,0.12
+Sword & Shield,,swsh5-104,Battle Styles,Pokémon,Uncommon,104,Bisharp,625,3/19/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh5-105,Battle Styles,Pokémon,Common,105,Honedge,679,3/19/2021,0.05,,0.15,0.15
+Sword & Shield,,swsh5-106,Battle Styles,Pokémon,Uncommon,106,Doublade,680,3/19/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh5-107,Battle Styles,Pokémon,Rare Holo,107,Aegislash,681,3/19/2021,,0.21,0.22,0.22
+Sword & Shield,,swsh5-108,Battle Styles,Pokémon,Rare,108,Aegislash,681,3/19/2021,0.08,,0.21,0.21
+Sword & Shield,,swsh5-109,Battle Styles,Pokémon,Rare Holo V,109,Corviknight V,823,3/19/2021,,1.2,,1.2
+Sword & Shield,,swsh5-110,Battle Styles,Pokémon,Rare Holo VMAX,110,Corviknight VMAX,823,3/19/2021,,2.36,,2.36
+Sword & Shield,,swsh5-111,Battle Styles,Pokémon,Common,111,Spearow,21,3/19/2021,0.03,,0.13,0.13
+Sword & Shield,,swsh5-112,Battle Styles,Pokémon,Uncommon,112,Fearow,22,3/19/2021,0.05,,0.19,0.19
+Sword & Shield,,swsh5-113,Battle Styles,Pokémon,Common,113,Lickitung,108,3/19/2021,0.04,,0.18,0.18
+Sword & Shield,,swsh5-114,Battle Styles,Pokémon,Rare,114,Lickilicky,463,3/19/2021,0.09,,0.24,0.24
+Sword & Shield,,swsh5-115,Battle Styles,Pokémon,Common,115,Glameow,431,3/19/2021,0.04,,0.13,0.13
+Sword & Shield,,swsh5-116,Battle Styles,Pokémon,Uncommon,116,Purugly,432,3/19/2021,0.03,,0.14,0.14
+Sword & Shield,,swsh5-117,Battle Styles,Pokémon,Rare Holo V,117,Stoutland V,508,3/19/2021,,0.88,,0.88
+Sword & Shield,,swsh5-118,Battle Styles,Pokémon,Uncommon,118,Bouffalant,626,3/19/2021,0.04,,0.14,0.14
+Sword & Shield,,swsh5-119,Battle Styles,Pokémon,Rare,119,Drampa,780,3/19/2021,0.1,,0.17,0.17
+Sword & Shield,,swsh5-120,Battle Styles,Pokémon,Uncommon,120,Indeedee,876,3/19/2021,0.05,,0.18,0.18
+Sword & Shield,,swsh5-121,Battle Styles,Trainer,Uncommon,121,Bruno,,3/19/2021,0.08,,0.26,0.26
+Sword & Shield,,swsh5-122,Battle Styles,Trainer,Uncommon,122,Camping Gear,,3/19/2021,0.07,,0.12,0.12
+Sword & Shield,,swsh5-123,Battle Styles,Trainer,Uncommon,123,Cheryl,,3/19/2021,0.15,,0.22,0.22
+Sword & Shield,,swsh5-124,Battle Styles,Trainer,Uncommon,124,Energy Recycler,,3/19/2021,0.19,,0.21,0.21
+Sword & Shield,,swsh5-125,Battle Styles,Trainer,Uncommon,125,Escape Rope,,3/19/2021,0.18,,0.3,0.3
+Sword & Shield,,swsh5-126,Battle Styles,Trainer,Uncommon,126,Exp. Share,,3/19/2021,0.1,,0.2,0.2
+Sword & Shield,,swsh5-127,Battle Styles,Trainer,Uncommon,127,Fan of Waves,,3/19/2021,0.24,,0.29,0.29
+Sword & Shield,,swsh5-128,Battle Styles,Trainer,Uncommon,128,Korrina's Focus,,3/19/2021,0.09,,0.27,0.27
+Sword & Shield,,swsh5-129,Battle Styles,Trainer,Uncommon,129,Level Ball,,3/19/2021,0.47,,0.93,0.93
+Sword & Shield,,swsh5-130,Battle Styles,Trainer,Uncommon,130,Phoebe,,3/19/2021,0.08,,0.17,0.17
+Sword & Shield,,swsh5-131,Battle Styles,Trainer,Uncommon,131,Rapid Strike Scroll of Swirls,,3/19/2021,0.08,,0.23,0.23
+Sword & Shield,,swsh5-132,Battle Styles,Trainer,Uncommon,132,Rapid Strike Style Mustard,,3/19/2021,0.05,,0.12,0.12
+Sword & Shield,,swsh5-133,Battle Styles,Trainer,Uncommon,133,Single Strike Scroll of Scorn,,3/19/2021,0.09,,0.22,0.22
+Sword & Shield,,swsh5-134,Battle Styles,Trainer,Uncommon,134,Single Strike Style Mustard,,3/19/2021,0.06,,0.17,0.17
+Sword & Shield,,swsh5-135,Battle Styles,Trainer,Uncommon,135,Sordward & Shielbert,,3/19/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh5-136,Battle Styles,Trainer,Uncommon,136,Tool Jammer,,3/19/2021,0.19,,0.42,0.42
+Sword & Shield,,swsh5-137,Battle Styles,Trainer,Uncommon,137,Tower of Darkness,,3/19/2021,0.23,,0.75,0.75
+Sword & Shield,,swsh5-138,Battle Styles,Trainer,Uncommon,138,Tower of Waters,,3/19/2021,0.21,,0.52,0.52
+Sword & Shield,,swsh5-139,Battle Styles,Trainer,Uncommon,139,Urn of Vitality,,3/19/2021,0.21,,0.37,0.37
+Sword & Shield,,swsh5-140,Battle Styles,Energy,Uncommon,140,Rapid Strike Energy,,3/19/2021,0.16,,0.26,0.26
+Sword & Shield,,swsh5-141,Battle Styles,Energy,Uncommon,141,Single Strike Energy,,3/19/2021,0.16,,0.23,0.23
+Sword & Shield,,swsh5-142,Battle Styles,Pokémon,Rare Ultra,142,Kricketune V,402,3/19/2021,,4.52,,4.52
+Sword & Shield,,swsh5-143,Battle Styles,Pokémon,Rare Ultra,143,Flapple V,841,3/19/2021,,3.61,,3.61
+Sword & Shield,,swsh5-144,Battle Styles,Pokémon,Rare Ultra,144,Victini V,494,3/19/2021,,5.27,,5.27
+Sword & Shield,,swsh5-145,Battle Styles,Pokémon,Rare Ultra,145,Empoleon V,395,3/19/2021,,5.73,,5.73
+Sword & Shield,,swsh5-146,Battle Styles,Pokémon,Rare Ultra,146,Empoleon V,395,3/19/2021,,24.93,,24.93
+Sword & Shield,,swsh5-147,Battle Styles,Pokémon,Rare Ultra,147,Tapu Koko V,,3/19/2021,,4.21,,4.21
+Sword & Shield,,swsh5-148,Battle Styles,Pokémon,Rare Ultra,148,Mimikyu V,778,3/19/2021,,9.18,,9.18
+Sword & Shield,,swsh5-149,Battle Styles,Pokémon,Rare Ultra,149,Necrozma V,800,3/19/2021,,4.13,,4.13
+Sword & Shield,,swsh5-150,Battle Styles,Pokémon,Rare Ultra,150,Single Strike Urshifu V,892,3/19/2021,,5.85,,5.85
+Sword & Shield,,swsh5-151,Battle Styles,Pokémon,Rare Ultra,151,Single Strike Urshifu V,892,3/19/2021,,17.14,,17.14
+Sword & Shield,,swsh5-152,Battle Styles,Pokémon,Rare Ultra,152,Rapid Strike Urshifu V,892,3/19/2021,,5.45,,5.45
+Sword & Shield,,swsh5-153,Battle Styles,Pokémon,Rare Ultra,153,Rapid Strike Urshifu V,892,3/19/2021,,15.8,,15.8
+Sword & Shield,,swsh5-154,Battle Styles,Pokémon,Rare Ultra,154,Tyranitar V,248,3/19/2021,,6.51,,6.51
+Sword & Shield,,swsh5-155,Battle Styles,Pokémon,Rare Ultra,155,Tyranitar V,248,3/19/2021,,68.43,,68.43
+Sword & Shield,,swsh5-156,Battle Styles,Pokémon,Rare Ultra,156,Corviknight V,823,3/19/2021,,5.08,,5.08
+Sword & Shield,,swsh5-157,Battle Styles,Pokémon,Rare Ultra,157,Stoutland V,508,3/19/2021,,3.13,,3.13
+Sword & Shield,,swsh5-158,Battle Styles,Trainer,Rare Ultra,158,Bruno,,3/19/2021,,3.72,,3.72
+Sword & Shield,,swsh5-159,Battle Styles,Trainer,Rare Ultra,159,Cheryl,,3/19/2021,,13.05,,13.05
+Sword & Shield,,swsh5-160,Battle Styles,Trainer,Rare Ultra,160,Korrina's Focus,,3/19/2021,,5.39,,5.39
+Sword & Shield,,swsh5-161,Battle Styles,Trainer,Rare Ultra,161,Phoebe,,3/19/2021,,14.29,,14.29
+Sword & Shield,,swsh5-162,Battle Styles,Trainer,Rare Ultra,162,Rapid Strike Style Mustard,,3/19/2021,,2.38,,2.38
+Sword & Shield,,swsh5-163,Battle Styles,Trainer,Rare Ultra,163,Single Strike Style Mustard,,3/19/2021,,3.34,,3.34
+Sword & Shield,,swsh5-164,Battle Styles,Pokémon,Rare Rainbow,164,Flapple VMAX,841,3/19/2021,,6.85,,6.85
+Sword & Shield,,swsh5-165,Battle Styles,Pokémon,Rare Rainbow,165,Victini VMAX,494,3/19/2021,,10.74,,10.74
+Sword & Shield,,swsh5-166,Battle Styles,Pokémon,Rare Rainbow,166,Tapu Koko VMAX,,3/19/2021,,10.38,,10.38
+Sword & Shield,,swsh5-167,Battle Styles,Pokémon,Rare Rainbow,167,Single Strike Urshifu VMAX,892,3/19/2021,,16.36,,16.36
+Sword & Shield,,swsh5-168,Battle Styles,Pokémon,Rare Rainbow,168,Single Strike Urshifu VMAX,892,3/19/2021,,29.97,,29.97
+Sword & Shield,,swsh5-169,Battle Styles,Pokémon,Rare Rainbow,169,Rapid Strike Urshifu VMAX,892,3/19/2021,,17.11,,17.11
+Sword & Shield,,swsh5-170,Battle Styles,Pokémon,Rare Rainbow,170,Rapid Strike Urshifu VMAX,892,3/19/2021,,58.82,,58.82
+Sword & Shield,,swsh5-171,Battle Styles,Pokémon,Rare Rainbow,171,Corviknight VMAX,823,3/19/2021,,10.37,,10.37
+Sword & Shield,,swsh5-172,Battle Styles,Trainer,Rare Rainbow,172,Bruno,,3/19/2021,,6.22,,6.22
+Sword & Shield,,swsh5-173,Battle Styles,Trainer,Rare Rainbow,173,Cheryl,,3/19/2021,,13.59,,13.59
+Sword & Shield,,swsh5-174,Battle Styles,Trainer,Rare Rainbow,174,Korrina's Focus,,3/19/2021,,8.85,,8.85
+Sword & Shield,,swsh5-175,Battle Styles,Trainer,Rare Rainbow,175,Phoebe,,3/19/2021,,11.63,,11.63
+Sword & Shield,,swsh5-176,Battle Styles,Trainer,Rare Rainbow,176,Rapid Strike Style Mustard,,3/19/2021,,6.45,,6.45
+Sword & Shield,,swsh5-177,Battle Styles,Trainer,Rare Rainbow,177,Single Strike Style Mustard,,3/19/2021,,5.24,,5.24
+Sword & Shield,,swsh5-178,Battle Styles,Pokémon,Rare Secret,178,Octillery,224,3/19/2021,,15.5,,15.5
+Sword & Shield,,swsh5-179,Battle Styles,Pokémon,Rare Secret,179,Houndoom,229,3/19/2021,,27.76,,27.76
+Sword & Shield,,swsh5-180,Battle Styles,Trainer,Rare Secret,180,Exp. Share,,3/19/2021,,4.14,,4.14
+Sword & Shield,,swsh5-181,Battle Styles,Trainer,Rare Secret,181,Level Ball,,3/19/2021,,17.31,,17.31
+Sword & Shield,,swsh5-182,Battle Styles,Energy,Rare Secret,182,Rapid Strike Energy,,3/19/2021,,9.15,,9.15
+Sword & Shield,,swsh5-183,Battle Styles,Energy,Rare Secret,183,Single Strike Energy,,3/19/2021,,10.21,,10.21
+Sword & Shield,,swsh6-1,Chilling Reign,Pokémon,Common,1,Weedle,13,6/18/2021,0.02,,0.16,0.16
+Sword & Shield,,swsh6-2,Chilling Reign,Pokémon,Uncommon,2,Kakuna,14,6/18/2021,0.05,,0.18,0.18
+Sword & Shield,,swsh6-3,Chilling Reign,Pokémon,Rare Holo,3,Beedrill,15,6/18/2021,,1.3,1.24,1.3
+Sword & Shield,,swsh6-4,Chilling Reign,Pokémon,Common,4,Ledyba,165,6/18/2021,0.03,,0.1,0.1
+Sword & Shield,,swsh6-5,Chilling Reign,Pokémon,Uncommon,5,Ledian,166,6/18/2021,0.04,,0.13,0.13
+Sword & Shield,,swsh6-6,Chilling Reign,Pokémon,Common,6,Heracross,214,6/18/2021,0.03,,0.13,0.13
+Sword & Shield,,swsh6-7,Chilling Reign,Pokémon,Rare Holo V,7,Celebi V,251,6/18/2021,,1.16,,1.16
+Sword & Shield,,swsh6-8,Chilling Reign,Pokémon,Rare Holo VMAX,8,Celebi VMAX,251,6/18/2021,,3.02,,3.02
+Sword & Shield,,swsh6-9,Chilling Reign,Pokémon,Common,9,Snover,459,6/18/2021,0.06,,0.16,0.16
+Sword & Shield,,swsh6-10,Chilling Reign,Pokémon,Rare,10,Abomasnow,460,6/18/2021,0.17,,0.29,0.29
+Sword & Shield,,swsh6-11,Chilling Reign,Pokémon,Common,11,Deerling,585,6/18/2021,0.68,,0.13,0.68
+Sword & Shield,,swsh6-12,Chilling Reign,Pokémon,Rare,12,Sawsbuck,586,6/18/2021,0.1,,0.18,0.18
+Sword & Shield,,swsh6-13,Chilling Reign,Pokémon,Common,13,Bounsweet,761,6/18/2021,0.02,,0.11,0.11
+Sword & Shield,,swsh6-14,Chilling Reign,Pokémon,Uncommon,14,Steenee,762,6/18/2021,0.03,,0.12,0.12
+Sword & Shield,,swsh6-15,Chilling Reign,Pokémon,Rare,15,Tsareena,763,6/18/2021,0.08,,0.18,0.18
+Sword & Shield,,swsh6-16,Chilling Reign,Pokémon,Common,16,Grookey,810,6/18/2021,0.03,,0.16,0.16
+Sword & Shield,,swsh6-17,Chilling Reign,Pokémon,Uncommon,17,Thwackey,811,6/18/2021,0.05,,0.15,0.15
+Sword & Shield,,swsh6-18,Chilling Reign,Pokémon,Rare Holo,18,Rillaboom,812,6/18/2021,,0.33,0.29,0.33
+Sword & Shield,,swsh6-19,Chilling Reign,Pokémon,Rare Holo,19,Zarude,893,6/18/2021,,0.45,0.63,0.63
+Sword & Shield,,swsh6-20,Chilling Reign,Pokémon,Rare Holo V,20,Blaziken V,257,6/18/2021,,1.37,,1.37
+Sword & Shield,,swsh6-21,Chilling Reign,Pokémon,Rare Holo VMAX,21,Blaziken VMAX,257,6/18/2021,,3.22,,3.22
+Sword & Shield,,swsh6-22,Chilling Reign,Pokémon,Common,22,Castform Sunny Form,351,6/18/2021,0.04,,0.14,0.14
+Sword & Shield,,swsh6-23,Chilling Reign,Pokémon,Common,23,Larvesta,636,6/18/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh6-24,Chilling Reign,Pokémon,Rare,24,Volcarona,637,6/18/2021,0.09,,0.13,0.13
+Sword & Shield,,swsh6-25,Chilling Reign,Pokémon,Rare Holo V,25,Volcanion V,721,6/18/2021,,0.99,,0.99
+Sword & Shield,,swsh6-26,Chilling Reign,Pokémon,Common,26,Scorbunny,813,6/18/2021,0.03,,0.15,0.15
+Sword & Shield,,swsh6-27,Chilling Reign,Pokémon,Uncommon,27,Raboot,814,6/18/2021,0.05,,0.17,0.17
+Sword & Shield,,swsh6-28,Chilling Reign,Pokémon,Rare Holo,28,Cinderace,815,6/18/2021,,0.27,0.33,0.33
+Sword & Shield,,swsh6-29,Chilling Reign,Pokémon,Common,29,Lapras,131,6/18/2021,0.03,,0.15,0.15
+Sword & Shield,,swsh6-30,Chilling Reign,Pokémon,Common,30,Sneasel,215,6/18/2021,0.03,,0.09,0.09
+Sword & Shield,,swsh6-31,Chilling Reign,Pokémon,Rare Holo,31,Weavile,461,6/18/2021,,0.33,0.4,0.4
+Sword & Shield,,swsh6-32,Chilling Reign,Pokémon,Common,32,Delibird,225,6/18/2021,0.04,,0.11,0.11
+Sword & Shield,,swsh6-33,Chilling Reign,Pokémon,Common,33,Castform Rainy Form,351,6/18/2021,0.04,,0.11,0.11
+Sword & Shield,,swsh6-34,Chilling Reign,Pokémon,Common,34,Castform Snowy Form,351,6/18/2021,0.04,,0.14,0.14
+Sword & Shield,,swsh6-35,Chilling Reign,Pokémon,Common,35,Snorunt,361,6/18/2021,0.04,,0.15,0.15
+Sword & Shield,,swsh6-36,Chilling Reign,Pokémon,Rare Holo,36,Froslass,478,6/18/2021,,0.29,0.37,0.37
+Sword & Shield,,swsh6-37,Chilling Reign,Pokémon,Common,37,Spheal,363,6/18/2021,0.02,,0.12,0.12
+Sword & Shield,,swsh6-38,Chilling Reign,Pokémon,Uncommon,38,Sealeo,364,6/18/2021,0.04,,0.18,0.18
+Sword & Shield,,swsh6-39,Chilling Reign,Pokémon,Rare,39,Walrein,365,6/18/2021,0.07,,0.33,0.33
+Sword & Shield,,swsh6-40,Chilling Reign,Pokémon,Rare Holo,40,Tapu Fini,,6/18/2021,,0.29,0.39,0.39
+Sword & Shield,,swsh6-41,Chilling Reign,Pokémon,Common,41,Sobble,816,6/18/2021,0.24,,0.68,0.68
+Sword & Shield,,swsh6-42,Chilling Reign,Pokémon,Uncommon,42,Drizzile,817,6/18/2021,0.05,,0.16,0.16
+Sword & Shield,,swsh6-43,Chilling Reign,Pokémon,Rare Holo,43,Inteleon,818,6/18/2021,,5.04,4.6,5.04
+Sword & Shield,,swsh6-44,Chilling Reign,Pokémon,Rare Holo,44,Rapid Strike Urshifu,892,6/18/2021,,0.44,0.48,0.48
+Sword & Shield,,swsh6-45,Chilling Reign,Pokémon,Rare Holo V,45,Ice Rider Calyrex V,,6/18/2021,,1.59,,1.59
+Sword & Shield,,swsh6-46,Chilling Reign,Pokémon,Rare Holo VMAX,46,Ice Rider Calyrex VMAX,,6/18/2021,,3.38,,3.38
+Sword & Shield,,swsh6-47,Chilling Reign,Pokémon,Common,47,Mareep,179,6/18/2021,0.06,,0.28,0.28
+Sword & Shield,,swsh6-48,Chilling Reign,Pokémon,Uncommon,48,Flaaffy,180,6/18/2021,0.03,,0.12,0.12
+Sword & Shield,,swsh6-49,Chilling Reign,Pokémon,Rare,49,Ampharos,181,6/18/2021,0.11,,0.17,0.17
+Sword & Shield,,swsh6-50,Chilling Reign,Pokémon,Common,50,Blitzle,522,6/18/2021,0.04,,0.14,0.14
+Sword & Shield,,swsh6-51,Chilling Reign,Pokémon,Rare,51,Zebstrika,523,6/18/2021,0.09,,0.19,0.19
+Sword & Shield,,swsh6-52,Chilling Reign,Pokémon,Rare Holo,52,Thundurus,642,6/18/2021,,0.19,0.29,0.29
+Sword & Shield,,swsh6-53,Chilling Reign,Pokémon,Rare Holo V,53,Zeraora V,807,6/18/2021,,1.41,,1.41
+Sword & Shield,,swsh6-54,Chilling Reign,Pokémon,Common,54,Galarian Slowpoke,79,6/18/2021,0.04,,0.14,0.14
+Sword & Shield,,swsh6-55,Chilling Reign,Pokémon,Common,55,Gastly,92,6/18/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh6-56,Chilling Reign,Pokémon,Uncommon,56,Haunter,93,6/18/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh6-57,Chilling Reign,Pokémon,Rare Holo,57,Gengar,94,6/18/2021,,0.65,0.77,0.77
+Sword & Shield,,swsh6-58,Chilling Reign,Pokémon,Rare Holo V,58,Galarian Articuno V,144,6/18/2021,,1.48,,1.48
+Sword & Shield,,swsh6-59,Chilling Reign,Pokémon,Common,59,Ralts,280,6/18/2021,0.07,,0.18,0.18
+Sword & Shield,,swsh6-60,Chilling Reign,Pokémon,Uncommon,60,Kirlia,281,6/18/2021,0.05,,0.14,0.14
+Sword & Shield,,swsh6-61,Chilling Reign,Pokémon,Rare Holo,61,Gardevoir,282,6/18/2021,,0.42,0.55,0.55
+Sword & Shield,,swsh6-62,Chilling Reign,Pokémon,Common,62,Shuppet,353,6/18/2021,0.05,,0.15,0.15
+Sword & Shield,,swsh6-63,Chilling Reign,Pokémon,Rare,63,Banette,354,6/18/2021,0.08,,0.16,0.16
+Sword & Shield,,swsh6-64,Chilling Reign,Pokémon,Rare Holo,64,Cresselia,488,6/18/2021,,0.44,0.6,0.6
+Sword & Shield,,swsh6-65,Chilling Reign,Pokémon,Common,65,Golett,622,6/18/2021,0.03,,0.14,0.14
+Sword & Shield,,swsh6-66,Chilling Reign,Pokémon,Rare,66,Golurk,623,6/18/2021,0.08,,0.19,0.19
+Sword & Shield,,swsh6-67,Chilling Reign,Pokémon,Common,67,Swirlix,684,6/18/2021,0.03,,0.09,0.09
+Sword & Shield,,swsh6-68,Chilling Reign,Pokémon,Rare,68,Slurpuff,685,6/18/2021,0.09,,0.16,0.16
+Sword & Shield,,swsh6-69,Chilling Reign,Pokémon,Common,69,Inkay,686,6/18/2021,0.05,,0.19,0.19
+Sword & Shield,,swsh6-70,Chilling Reign,Pokémon,Rare,70,Malamar,687,6/18/2021,0.19,,0.21,0.21
+Sword & Shield,,swsh6-71,Chilling Reign,Pokémon,Common,71,Hatenna,856,6/18/2021,0.03,,0.13,0.13
+Sword & Shield,,swsh6-72,Chilling Reign,Pokémon,Uncommon,72,Hattrem,857,6/18/2021,0.04,,0.15,0.15
+Sword & Shield,,swsh6-73,Chilling Reign,Pokémon,Rare Holo,73,Hatterene,858,6/18/2021,,0.23,0.31,0.31
+Sword & Shield,,swsh6-74,Chilling Reign,Pokémon,Rare Holo V,74,Shadow Rider Calyrex V,,6/18/2021,,1.68,,1.68
+Sword & Shield,,swsh6-75,Chilling Reign,Pokémon,Rare Holo VMAX,75,Shadow Rider Calyrex VMAX,,6/18/2021,,5.04,,5.04
+Sword & Shield,,swsh6-76,Chilling Reign,Pokémon,Common,76,Diglett,50,6/18/2021,0.05,,0.11,0.11
+Sword & Shield,,swsh6-77,Chilling Reign,Pokémon,Rare,77,Dugtrio,51,6/18/2021,0.07,,0.12,0.12
+Sword & Shield,,swsh6-78,Chilling Reign,Pokémon,Common,78,Galarian Farfetch'd,83,6/18/2021,0.03,,0.1,0.1
+Sword & Shield,,swsh6-79,Chilling Reign,Pokémon,Rare,79,Galarian Sirfetch'd,865,6/18/2021,0.1,,0.14,0.14
+Sword & Shield,,swsh6-80,Chilling Reign,Pokémon,Rare Holo V,80,Galarian Zapdos V,145,6/18/2021,,1.45,,1.45
+Sword & Shield,,swsh6-81,Chilling Reign,Pokémon,Rare,81,Gallade,475,6/18/2021,0.1,,0.15,0.15
+Sword & Shield,,swsh6-82,Chilling Reign,Pokémon,Common,82,Galarian Yamask,562,6/18/2021,0.03,,0.11,0.11
+Sword & Shield,,swsh6-83,Chilling Reign,Pokémon,Rare Holo,83,Galarian Runerigus,867,6/18/2021,,0.24,0.24,0.24
+Sword & Shield,,swsh6-84,Chilling Reign,Pokémon,Common,84,Crabrawler,739,6/18/2021,0.03,,0.13,0.13
+Sword & Shield,,swsh6-85,Chilling Reign,Pokémon,Uncommon,85,Crabominable,740,6/18/2021,0.04,,0.09,0.09
+Sword & Shield,,swsh6-86,Chilling Reign,Pokémon,Common,86,Rockruff,744,6/18/2021,0.02,,0.15,0.15
+Sword & Shield,,swsh6-87,Chilling Reign,Pokémon,Rare Holo,87,Lycanroc,745,6/18/2021,,0.28,0.36,0.36
+Sword & Shield,,swsh6-88,Chilling Reign,Pokémon,Rare,88,Passimian,766,6/18/2021,0.22,,0.18,0.22
+Sword & Shield,,swsh6-89,Chilling Reign,Pokémon,Rare Holo V,89,Sandaconda V,844,6/18/2021,,0.98,,0.98
+Sword & Shield,,swsh6-90,Chilling Reign,Pokémon,Rare Holo VMAX,90,Sandaconda VMAX,844,6/18/2021,,2.62,,2.62
+Sword & Shield,,swsh6-91,Chilling Reign,Pokémon,Common,91,Clobbopus,852,6/18/2021,0.02,,0.16,0.16
+Sword & Shield,,swsh6-92,Chilling Reign,Pokémon,Rare Holo,92,Grapploct,853,6/18/2021,,0.18,0.26,0.26
+Sword & Shield,,swsh6-93,Chilling Reign,Pokémon,Common,93,Kubfu,891,6/18/2021,0.04,,0.24,0.24
+Sword & Shield,,swsh6-94,Chilling Reign,Pokémon,Common,94,Koffing,109,6/18/2021,0.03,,0.17,0.17
+Sword & Shield,,swsh6-95,Chilling Reign,Pokémon,Rare,95,Weezing,110,6/18/2021,0.08,,0.22,0.22
+Sword & Shield,,swsh6-96,Chilling Reign,Pokémon,Rare,96,Galarian Weezing,110,6/18/2021,0.09,,0.32,0.32
+Sword & Shield,,swsh6-97,Chilling Reign,Pokémon,Rare Holo V,97,Galarian Moltres V,146,6/18/2021,,2.68,,2.68
+Sword & Shield,,swsh6-98,Chilling Reign,Pokémon,Rare Holo,98,Galarian Slowking,199,6/18/2021,,0.37,0.46,0.46
+Sword & Shield,,swsh6-99,Chilling Reign,Pokémon,Rare Holo V,99,Galarian Slowking V,199,6/18/2021,,1.15,,1.15
+Sword & Shield,,swsh6-100,Chilling Reign,Pokémon,Rare Holo VMAX,100,Galarian Slowking VMAX,199,6/18/2021,,2.33,,2.33
+Sword & Shield,,swsh6-101,Chilling Reign,Pokémon,Common,101,Qwilfish,211,6/18/2021,0.04,,0.14,0.14
+Sword & Shield,,swsh6-102,Chilling Reign,Pokémon,Rare,102,Seviper,336,6/18/2021,0.09,,0.12,0.12
+Sword & Shield,,swsh6-103,Chilling Reign,Pokémon,Rare,103,Spiritomb,442,6/18/2021,0.09,,0.29,0.29
+Sword & Shield,,swsh6-104,Chilling Reign,Pokémon,Rare Holo V,104,Liepard V,510,6/18/2021,,0.91,,0.91
+Sword & Shield,,swsh6-105,Chilling Reign,Pokémon,Common,105,Venipede,543,6/18/2021,0.03,,0.12,0.12
+Sword & Shield,,swsh6-106,Chilling Reign,Pokémon,Uncommon,106,Whirlipede,544,6/18/2021,0.03,,0.16,0.16
+Sword & Shield,,swsh6-107,Chilling Reign,Pokémon,Rare,107,Scolipede,545,6/18/2021,0.1,,0.24,0.24
+Sword & Shield,,swsh6-108,Chilling Reign,Pokémon,Rare Holo,108,Single Strike Urshifu,892,6/18/2021,,0.29,0.46,0.46
+Sword & Shield,,swsh6-109,Chilling Reign,Pokémon,Common,109,Aron,304,6/18/2021,0.03,,0.15,0.15
+Sword & Shield,,swsh6-110,Chilling Reign,Pokémon,Uncommon,110,Lairon,305,6/18/2021,0.04,,0.1,0.1
+Sword & Shield,,swsh6-111,Chilling Reign,Pokémon,Rare,111,Aggron,306,6/18/2021,0.13,,0.35,0.35
+Sword & Shield,,swsh6-112,Chilling Reign,Pokémon,Rare Holo V,112,Metagross V,376,6/18/2021,,1.04,,1.04
+Sword & Shield,,swsh6-113,Chilling Reign,Pokémon,Rare Holo VMAX,113,Metagross VMAX,376,6/18/2021,,2.86,,2.86
+Sword & Shield,,swsh6-114,Chilling Reign,Pokémon,Rare Holo,114,Cobalion,638,6/18/2021,,0.25,0.32,0.32
+Sword & Shield,,swsh6-115,Chilling Reign,Pokémon,Rare Holo,115,Tauros,128,6/18/2021,,0.32,0.35,0.35
+Sword & Shield,,swsh6-116,Chilling Reign,Pokémon,Common,116,Porygon,137,6/18/2021,0.02,,0.13,0.13
+Sword & Shield,,swsh6-117,Chilling Reign,Pokémon,Uncommon,117,Porygon2,233,6/18/2021,0.04,,0.11,0.11
+Sword & Shield,,swsh6-118,Chilling Reign,Pokémon,Rare Holo,118,Porygon-Z,474,6/18/2021,,0.3,0.39,0.39
+Sword & Shield,,swsh6-119,Chilling Reign,Pokémon,Rare Holo V,119,Blissey V,242,6/18/2021,,1.74,,1.74
+Sword & Shield,,swsh6-120,Chilling Reign,Pokémon,Rare,120,Zangoose,335,6/18/2021,0.11,,0.15,0.15
+Sword & Shield,,swsh6-121,Chilling Reign,Pokémon,Common,121,Castform,351,6/18/2021,0.03,,0.09,0.09
+Sword & Shield,,swsh6-122,Chilling Reign,Pokémon,Rare,122,Kecleon,352,6/18/2021,0.1,,0.13,0.13
+Sword & Shield,,swsh6-123,Chilling Reign,Pokémon,Rare Holo,123,Shaymin,492,6/18/2021,,0.31,0.29,0.31
+Sword & Shield,,swsh6-124,Chilling Reign,Pokémon,Rare Holo V,124,Tornadus V,641,6/18/2021,,0.81,,0.81
+Sword & Shield,,swsh6-125,Chilling Reign,Pokémon,Rare Holo VMAX,125,Tornadus VMAX,641,6/18/2021,,2.25,,2.25
+Sword & Shield,,swsh6-126,Chilling Reign,Pokémon,Common,126,Furfrou,676,6/18/2021,0.04,,0.12,0.12
+Sword & Shield,,swsh6-127,Chilling Reign,Pokémon,Common,127,Skwovet,819,6/18/2021,0.04,,0.12,0.12
+Sword & Shield,,swsh6-128,Chilling Reign,Pokémon,Rare Holo,128,Greedent,820,6/18/2021,,0.17,0.38,0.38
+Sword & Shield,,swsh6-129,Chilling Reign,Trainer,Uncommon,129,Agatha,,6/18/2021,0.06,,0.07,0.07
+Sword & Shield,,swsh6-130,Chilling Reign,Trainer,Uncommon,130,Avery,,6/18/2021,0.12,,0.21,0.21
+Sword & Shield,,swsh6-131,Chilling Reign,Trainer,Uncommon,131,Brawly,,6/18/2021,0.07,,0.14,0.14
+Sword & Shield,,swsh6-132,Chilling Reign,Trainer,Uncommon,132,Caitlin,,6/18/2021,0.08,,0.17,0.17
+Sword & Shield,,swsh6-133,Chilling Reign,Trainer,Uncommon,133,Crushing Gloves,,6/18/2021,0.03,,0.17,0.17
+Sword & Shield,,swsh6-134,Chilling Reign,Trainer,Uncommon,134,Doctor,,6/18/2021,0.05,,0.08,0.08
+Sword & Shield,,swsh6-135,Chilling Reign,Trainer,Uncommon,135,Dyna Tree Hill,,6/18/2021,0.05,,0.14,0.14
+Sword & Shield,,swsh6-136,Chilling Reign,Trainer,Uncommon,136,Echoing Horn,,6/18/2021,0.09,,0.14,0.14
+Sword & Shield,,swsh6-137,Chilling Reign,Trainer,Uncommon,137,Expedition Uniform,,6/18/2021,0.04,,0.1,0.1
+Sword & Shield,,swsh6-138,Chilling Reign,Trainer,Uncommon,138,Fire-Resistant Gloves,,6/18/2021,0.02,,0.08,0.08
+Sword & Shield,,swsh6-139,Chilling Reign,Trainer,Uncommon,139,Flannery,,6/18/2021,0.06,,0.14,0.14
+Sword & Shield,,swsh6-140,Chilling Reign,Trainer,Uncommon,140,Fog Crystal,,6/18/2021,0.19,,0.46,0.46
+Sword & Shield,,swsh6-141,Chilling Reign,Trainer,Uncommon,141,Galarian Chestplate,,6/18/2021,0.04,,0.1,0.1
+Sword & Shield,,swsh6-142,Chilling Reign,Trainer,Uncommon,142,Honey,,6/18/2021,0.04,,0.11,0.11
+Sword & Shield,,swsh6-143,Chilling Reign,Trainer,Uncommon,143,Justified Gloves,,6/18/2021,0.04,,0.11,0.11
+Sword & Shield,,swsh6-144,Chilling Reign,Trainer,Uncommon,144,Karen's Conviction,,6/18/2021,0.06,,0.12,0.12
+Sword & Shield,,swsh6-145,Chilling Reign,Trainer,Uncommon,145,Klara,,6/18/2021,0.17,,0.22,0.22
+Sword & Shield,,swsh6-146,Chilling Reign,Trainer,Uncommon,146,Melony,,6/18/2021,0.22,,0.29,0.29
+Sword & Shield,,swsh6-147,Chilling Reign,Trainer,Uncommon,147,Old Cemetery,,6/18/2021,0.18,,0.34,0.34
+Sword & Shield,,swsh6-148,Chilling Reign,Trainer,Uncommon,148,Path to the Peak,,6/18/2021,0.18,,0.44,0.44
+Sword & Shield,,swsh6-149,Chilling Reign,Trainer,Uncommon,149,Peonia,,6/18/2021,0.07,,0.09,0.09
+Sword & Shield,,swsh6-150,Chilling Reign,Trainer,Uncommon,150,Peony,,6/18/2021,0.14,,0.29,0.29
+Sword & Shield,,swsh6-151,Chilling Reign,Trainer,Uncommon,151,Rapid Strike Scroll of the Skies,,6/18/2021,0.06,,0.16,0.16
+Sword & Shield,,swsh6-152,Chilling Reign,Trainer,Uncommon,152,Rugged Helmet,,6/18/2021,0.07,,0.15,0.15
+Sword & Shield,,swsh6-153,Chilling Reign,Trainer,Uncommon,153,Siebold,,6/18/2021,0.03,,0.11,0.11
+Sword & Shield,,swsh6-154,Chilling Reign,Trainer,Uncommon,154,Single Strike Scroll of Piercing,,6/18/2021,0.04,,0.08,0.08
+Sword & Shield,,swsh6-155,Chilling Reign,Trainer,Uncommon,155,Weeding Gloves,,6/18/2021,0.02,,0.12,0.12
+Sword & Shield,,swsh6-156,Chilling Reign,Trainer,Uncommon,156,Welcoming Lantern,,6/18/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh6-157,Chilling Reign,Energy,Uncommon,157,Impact Energy,,6/18/2021,0.09,,0.19,0.19
+Sword & Shield,,swsh6-158,Chilling Reign,Energy,Uncommon,158,Lucky Energy,,6/18/2021,0.12,,0.2,0.2
+Sword & Shield,,swsh6-159,Chilling Reign,Energy,Uncommon,159,Spiral Energy,,6/18/2021,0.16,,0.2,0.2
+Sword & Shield,,swsh6-160,Chilling Reign,Pokémon,Rare Ultra,160,Celebi V,251,6/18/2021,,4.64,,4.64
+Sword & Shield,,swsh6-161,Chilling Reign,Pokémon,Rare Ultra,161,Blaziken V,257,6/18/2021,,6.69,,6.69
+Sword & Shield,,swsh6-162,Chilling Reign,Pokémon,Rare Ultra,162,Volcanion V,721,6/18/2021,,2.43,,2.43
+Sword & Shield,,swsh6-163,Chilling Reign,Pokémon,Rare Ultra,163,Ice Rider Calyrex V,,6/18/2021,,7.94,,7.94
+Sword & Shield,,swsh6-164,Chilling Reign,Pokémon,Rare Ultra,164,Ice Rider Calyrex V,,6/18/2021,,25.55,,25.55
+Sword & Shield,,swsh6-165,Chilling Reign,Pokémon,Rare Ultra,165,Zeraora V,807,6/18/2021,,10.18,,10.18
+Sword & Shield,,swsh6-166,Chilling Reign,Pokémon,Rare Ultra,166,Zeraora V,807,6/18/2021,,45.64,,45.64
+Sword & Shield,,swsh6-167,Chilling Reign,Pokémon,Rare Ultra,167,Galarian Rapidash V,78,6/18/2021,,9.57,,9.57
+Sword & Shield,,swsh6-168,Chilling Reign,Pokémon,Rare Ultra,168,Galarian Rapidash V,78,6/18/2021,,26.44,,26.44
+Sword & Shield,,swsh6-169,Chilling Reign,Pokémon,Rare Ultra,169,Galarian Articuno V,144,6/18/2021,,13.11,,13.11
+Sword & Shield,,swsh6-170,Chilling Reign,Pokémon,Rare Ultra,170,Galarian Articuno V,144,6/18/2021,,38.26,,38.26
+Sword & Shield,,swsh6-171,Chilling Reign,Pokémon,Rare Ultra,171,Shadow Rider Calyrex V,,6/18/2021,,8.25,,8.25
+Sword & Shield,,swsh6-172,Chilling Reign,Pokémon,Rare Ultra,172,Shadow Rider Calyrex V,,6/18/2021,,23.66,,23.66
+Sword & Shield,,swsh6-173,Chilling Reign,Pokémon,Rare Ultra,173,Galarian Zapdos V,145,6/18/2021,,11.45,,11.45
+Sword & Shield,,swsh6-174,Chilling Reign,Pokémon,Rare Ultra,174,Galarian Zapdos V,145,6/18/2021,,44.7,,44.7
+Sword & Shield,,swsh6-175,Chilling Reign,Pokémon,Rare Ultra,175,Sandaconda V,844,6/18/2021,,2.66,,2.66
+Sword & Shield,,swsh6-176,Chilling Reign,Pokémon,Rare Ultra,176,Galarian Moltres V,146,6/18/2021,,17.42,,17.42
+Sword & Shield,,swsh6-177,Chilling Reign,Pokémon,Rare Ultra,177,Galarian Moltres V,146,6/18/2021,,76.81,,76.81
+Sword & Shield,,swsh6-178,Chilling Reign,Pokémon,Rare Ultra,178,Galarian Slowking V,199,6/18/2021,,5.92,,5.92
+Sword & Shield,,swsh6-179,Chilling Reign,Pokémon,Rare Ultra,179,Galarian Slowking V,199,6/18/2021,,24.23,,24.23
+Sword & Shield,,swsh6-180,Chilling Reign,Pokémon,Rare Ultra,180,Liepard V,510,6/18/2021,,2.46,,2.46
+Sword & Shield,,swsh6-181,Chilling Reign,Pokémon,Rare Ultra,181,Metagross V,376,6/18/2021,,4.7,,4.7
+Sword & Shield,,swsh6-182,Chilling Reign,Pokémon,Rare Ultra,182,Blissey V,242,6/18/2021,,7.07,,7.07
+Sword & Shield,,swsh6-183,Chilling Reign,Pokémon,Rare Ultra,183,Blissey V,242,6/18/2021,,20.02,,20.02
+Sword & Shield,,swsh6-184,Chilling Reign,Pokémon,Rare Ultra,184,Tornadus V,641,6/18/2021,,4.41,,4.41
+Sword & Shield,,swsh6-185,Chilling Reign,Pokémon,Rare Ultra,185,Tornadus V,641,6/18/2021,,16.95,,16.95
+Sword & Shield,,swsh6-186,Chilling Reign,Trainer,Rare Ultra,186,Agatha,,6/18/2021,,5.85,,5.85
+Sword & Shield,,swsh6-187,Chilling Reign,Trainer,Rare Ultra,187,Avery,,6/18/2021,,5.17,,5.17
+Sword & Shield,,swsh6-188,Chilling Reign,Trainer,Rare Ultra,188,Brawly,,6/18/2021,,3.06,,3.06
+Sword & Shield,,swsh6-189,Chilling Reign,Trainer,Rare Ultra,189,Caitlin,,6/18/2021,,19.42,,19.42
+Sword & Shield,,swsh6-190,Chilling Reign,Trainer,Rare Ultra,190,Doctor,,6/18/2021,,9.06,,9.06
+Sword & Shield,,swsh6-191,Chilling Reign,Trainer,Rare Ultra,191,Flannery,,6/18/2021,,19.54,,19.54
+Sword & Shield,,swsh6-192,Chilling Reign,Trainer,Rare Ultra,192,Honey,,6/18/2021,,9.4,,9.4
+Sword & Shield,,swsh6-193,Chilling Reign,Trainer,Rare Ultra,193,Karen's Conviction,,6/18/2021,,12.44,,12.44
+Sword & Shield,,swsh6-194,Chilling Reign,Trainer,Rare Ultra,194,Klara,,6/18/2021,,20.58,,20.58
+Sword & Shield,,swsh6-195,Chilling Reign,Trainer,Rare Ultra,195,Melony,,6/18/2021,,16.02,,16.02
+Sword & Shield,,swsh6-196,Chilling Reign,Trainer,Rare Ultra,196,Peonia,,6/18/2021,,17.87,,17.87
+Sword & Shield,,swsh6-197,Chilling Reign,Trainer,Rare Ultra,197,Peony,,6/18/2021,,14.14,,14.14
+Sword & Shield,,swsh6-198,Chilling Reign,Trainer,Rare Ultra,198,Siebold,,6/18/2021,,4.9,,4.9
+Sword & Shield,,swsh6-199,Chilling Reign,Pokémon,Rare Rainbow,199,Celebi VMAX,251,6/18/2021,,12.44,,12.44
+Sword & Shield,,swsh6-200,Chilling Reign,Pokémon,Rare Rainbow,200,Blaziken VMAX,257,6/18/2021,,17.27,,17.27
+Sword & Shield,,swsh6-201,Chilling Reign,Pokémon,Rare Rainbow,201,Blaziken VMAX,257,6/18/2021,,101.86,,101.86
+Sword & Shield,,swsh6-202,Chilling Reign,Pokémon,Rare Rainbow,202,Ice Rider Calyrex VMAX,,6/18/2021,,14.19,,14.19
+Sword & Shield,,swsh6-203,Chilling Reign,Pokémon,Rare Rainbow,203,Ice Rider Calyrex VMAX,,6/18/2021,,45.04,,45.04
+Sword & Shield,,swsh6-204,Chilling Reign,Pokémon,Rare Rainbow,204,Shadow Rider Calyrex VMAX,,6/18/2021,,16.27,,16.27
+Sword & Shield,,swsh6-205,Chilling Reign,Pokémon,Rare Rainbow,205,Shadow Rider Calyrex VMAX,,6/18/2021,,66.83,,66.83
+Sword & Shield,,swsh6-206,Chilling Reign,Pokémon,Rare Rainbow,206,Sandaconda VMAX,844,6/18/2021,,7.05,,7.05
+Sword & Shield,,swsh6-207,Chilling Reign,Pokémon,Rare Rainbow,207,Galarian Slowking VMAX,199,6/18/2021,,9.15,,9.15
+Sword & Shield,,swsh6-208,Chilling Reign,Pokémon,Rare Rainbow,208,Metagross VMAX,376,6/18/2021,,13.1,,13.1
+Sword & Shield,,swsh6-209,Chilling Reign,Pokémon,Rare Rainbow,209,Tornadus VMAX,641,6/18/2021,,9.41,,9.41
+Sword & Shield,,swsh6-210,Chilling Reign,Trainer,Rare Rainbow,210,Agatha,,6/18/2021,,6.43,,6.43
+Sword & Shield,,swsh6-211,Chilling Reign,Trainer,Rare Rainbow,211,Avery,,6/18/2021,,9,,9
+Sword & Shield,,swsh6-212,Chilling Reign,Trainer,Rare Rainbow,212,Brawly,,6/18/2021,,7.11,,7.11
+Sword & Shield,,swsh6-213,Chilling Reign,Trainer,Rare Rainbow,213,Caitlin,,6/18/2021,,9.77,,9.77
+Sword & Shield,,swsh6-214,Chilling Reign,Trainer,Rare Rainbow,214,Doctor,,6/18/2021,,7.11,,7.11
+Sword & Shield,,swsh6-215,Chilling Reign,Trainer,Rare Rainbow,215,Flannery,,6/18/2021,,10.26,,10.26
+Sword & Shield,,swsh6-216,Chilling Reign,Trainer,Rare Rainbow,216,Karen's Conviction,,6/18/2021,,7.22,,7.22
+Sword & Shield,,swsh6-217,Chilling Reign,Trainer,Rare Rainbow,217,Klara,,6/18/2021,,10.4,,10.4
+Sword & Shield,,swsh6-218,Chilling Reign,Trainer,Rare Rainbow,218,Melony,,6/18/2021,,16.87,,16.87
+Sword & Shield,,swsh6-219,Chilling Reign,Trainer,Rare Rainbow,219,Peonia,,6/18/2021,,11.25,,11.25
+Sword & Shield,,swsh6-220,Chilling Reign,Trainer,Rare Rainbow,220,Peony,,6/18/2021,,11.02,,11.02
+Sword & Shield,,swsh6-221,Chilling Reign,Trainer,Rare Rainbow,221,Siebold,,6/18/2021,,7.22,,7.22
+Sword & Shield,,swsh6-222,Chilling Reign,Pokémon,Rare Secret,222,Electrode,101,6/18/2021,,19.74,,19.74
+Sword & Shield,,swsh6-223,Chilling Reign,Pokémon,Rare Secret,223,Bronzong,437,6/18/2021,,13.01,,13.01
+Sword & Shield,,swsh6-224,Chilling Reign,Pokémon,Rare Secret,224,Snorlax,143,6/18/2021,,82.51,,82.51
+Sword & Shield,,swsh6-225,Chilling Reign,Trainer,Rare Secret,225,Echoing Horn,,6/18/2021,,5.76,,5.76
+Sword & Shield,,swsh6-226,Chilling Reign,Trainer,Rare Secret,226,Fan of Waves,,6/18/2021,,10.29,,10.29
+Sword & Shield,,swsh6-227,Chilling Reign,Trainer,Rare Secret,227,Fog Crystal,,6/18/2021,,17.12,,17.12
+Sword & Shield,,swsh6-228,Chilling Reign,Trainer,Rare Secret,228,Rugged Helmet,,6/18/2021,,4.54,,4.54
+Sword & Shield,,swsh6-229,Chilling Reign,Trainer,Rare Secret,229,Urn of Vitality,,6/18/2021,,15.72,,15.72
+Sword & Shield,,swsh6-230,Chilling Reign,Trainer,Rare Secret,230,Welcoming Lantern,,6/18/2021,,4.79,,4.79
+Sword & Shield,,swsh6-231,Chilling Reign,Energy,Rare Secret,231,Water Energy,,6/18/2021,,17.63,,17.63
+Sword & Shield,,swsh6-232,Chilling Reign,Energy,Rare Secret,232,Psychic Energy,,6/18/2021,,21.67,,21.67
+Sword & Shield,,swsh6-233,Chilling Reign,Energy,Rare Secret,233,Fighting Energy,,6/18/2021,,13.92,,13.92
+Sword & Shield,,swsh7-1,Evolving Skies,Pokémon,Rare,1,Pinsir,127,8/27/2021,0.08,,0.14,0.14
+Sword & Shield,,swsh7-2,Evolving Skies,Pokémon,Common,2,Hoppip,187,8/27/2021,0.05,,0.16,0.16
+Sword & Shield,,swsh7-3,Evolving Skies,Pokémon,Uncommon,3,Skiploom,188,8/27/2021,0.06,,0.2,0.2
+Sword & Shield,,swsh7-4,Evolving Skies,Pokémon,Rare Holo,4,Jumpluff,189,8/27/2021,,0.38,0.31,0.38
+Sword & Shield,,swsh7-5,Evolving Skies,Pokémon,Common,5,Seedot,273,8/27/2021,0.02,,0.12,0.12
+Sword & Shield,,swsh7-6,Evolving Skies,Pokémon,Rare,6,Tropius,357,8/27/2021,0.09,,0.21,0.21
+Sword & Shield,,swsh7-7,Evolving Skies,Pokémon,Rare Holo V,7,Leafeon V,470,8/27/2021,,2.75,,2.75
+Sword & Shield,,swsh7-8,Evolving Skies,Pokémon,Rare Holo VMAX,8,Leafeon VMAX,470,8/27/2021,,6.02,,6.02
+Sword & Shield,,swsh7-9,Evolving Skies,Pokémon,Common,9,Petilil,548,8/27/2021,0.03,,0.1,0.1
+Sword & Shield,,swsh7-10,Evolving Skies,Pokémon,Rare,10,Lilligant,549,8/27/2021,0.06,,0.12,0.12
+Sword & Shield,,swsh7-11,Evolving Skies,Pokémon,Common,11,Dwebble,557,8/27/2021,0.02,,0.15,0.15
+Sword & Shield,,swsh7-12,Evolving Skies,Pokémon,Uncommon,12,Crustle,558,8/27/2021,0.04,,0.18,0.18
+Sword & Shield,,swsh7-13,Evolving Skies,Pokémon,Rare Holo V,13,Trevenant V,709,8/27/2021,,1.04,,1.04
+Sword & Shield,,swsh7-14,Evolving Skies,Pokémon,Rare Holo VMAX,14,Trevenant VMAX,709,8/27/2021,,2.26,,2.26
+Sword & Shield,,swsh7-15,Evolving Skies,Pokémon,Common,15,Gossifleur,829,8/27/2021,0.03,,0.14,0.14
+Sword & Shield,,swsh7-16,Evolving Skies,Pokémon,Rare Holo,16,Eldegoss,830,8/27/2021,,0.42,0.46,0.46
+Sword & Shield,,swsh7-17,Evolving Skies,Pokémon,Common,17,Applin,840,8/27/2021,0.03,,0.16,0.16
+Sword & Shield,,swsh7-18,Evolving Skies,Pokémon,Rare Holo VMAX,18,Flareon VMAX,136,8/27/2021,,5.33,,5.33
+Sword & Shield,,swsh7-19,Evolving Skies,Pokémon,Rare Holo,19,Entei,244,8/27/2021,,0.38,0.53,0.53
+Sword & Shield,,swsh7-20,Evolving Skies,Pokémon,Rare Holo,20,Victini,494,8/27/2021,,0.33,0.4,0.4
+Sword & Shield,,swsh7-21,Evolving Skies,Pokémon,Rare Holo V,21,Volcarona V,637,8/27/2021,,1.75,,1.75
+Sword & Shield,,swsh7-22,Evolving Skies,Pokémon,Common,22,Litleo,667,8/27/2021,0.03,,0.13,0.13
+Sword & Shield,,swsh7-23,Evolving Skies,Pokémon,Uncommon,23,Pyroar,668,8/27/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh7-24,Evolving Skies,Pokémon,Common,24,Psyduck,54,8/27/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh7-25,Evolving Skies,Pokémon,Uncommon,25,Golduck,55,8/27/2021,0.05,,0.15,0.15
+Sword & Shield,,swsh7-26,Evolving Skies,Pokémon,Common,26,Tentacool,72,8/27/2021,0.02,,0.13,0.13
+Sword & Shield,,swsh7-27,Evolving Skies,Pokémon,Uncommon,27,Tentacruel,73,8/27/2021,0.06,,0.1,0.1
+Sword & Shield,,swsh7-28,Evolving Skies,Pokémon,Rare Holo V,28,Gyarados V,130,8/27/2021,,1.65,,1.65
+Sword & Shield,,swsh7-29,Evolving Skies,Pokémon,Rare Holo VMAX,29,Gyarados VMAX,130,8/27/2021,,4.98,,4.98
+Sword & Shield,,swsh7-30,Evolving Skies,Pokémon,Rare Holo VMAX,30,Vaporeon VMAX,134,8/27/2021,,6.79,,6.79
+Sword & Shield,,swsh7-31,Evolving Skies,Pokémon,Rare Holo V,31,Suicune V,245,8/27/2021,,2.73,,2.73
+Sword & Shield,,swsh7-32,Evolving Skies,Pokémon,Common,32,Lotad,270,8/27/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh7-33,Evolving Skies,Pokémon,Uncommon,33,Lombre,271,8/27/2021,0.02,,0.14,0.14
+Sword & Shield,,swsh7-34,Evolving Skies,Pokémon,Rare Holo,34,Ludicolo,272,8/27/2021,,0.81,0.85,0.85
+Sword & Shield,,swsh7-35,Evolving Skies,Pokémon,Common,35,Carvanha,318,8/27/2021,0.03,,0.14,0.14
+Sword & Shield,,swsh7-36,Evolving Skies,Pokémon,Rare,36,Sharpedo,319,8/27/2021,0.09,,0.13,0.13
+Sword & Shield,,swsh7-37,Evolving Skies,Pokémon,Common,37,Feebas,349,8/27/2021,0.03,,0.16,0.16
+Sword & Shield,,swsh7-38,Evolving Skies,Pokémon,Rare,38,Milotic,350,8/27/2021,0.11,,0.22,0.22
+Sword & Shield,,swsh7-39,Evolving Skies,Pokémon,Common,39,Luvdisc,370,8/27/2021,0.03,,0.11,0.11
+Sword & Shield,,swsh7-40,Evolving Skies,Pokémon,Rare Holo V,40,Glaceon V,471,8/27/2021,,1.85,,1.85
+Sword & Shield,,swsh7-41,Evolving Skies,Pokémon,Rare Holo VMAX,41,Glaceon VMAX,471,8/27/2021,,4.71,,4.71
+Sword & Shield,,swsh7-42,Evolving Skies,Pokémon,Common,42,Tympole,535,8/27/2021,0.02,,0.11,0.11
+Sword & Shield,,swsh7-43,Evolving Skies,Pokémon,Common,43,Cryogonal,615,8/27/2021,0.12,,0.22,0.22
+Sword & Shield,,swsh7-44,Evolving Skies,Pokémon,Common,44,Bergmite,712,8/27/2021,0.04,,0.15,0.15
+Sword & Shield,,swsh7-45,Evolving Skies,Pokémon,Uncommon,45,Avalugg,713,8/27/2021,0.05,,0.16,0.16
+Sword & Shield,,swsh7-46,Evolving Skies,Pokémon,Rare,46,Wishiwashi,746,8/27/2021,0.1,,0.17,0.17
+Sword & Shield,,swsh7-47,Evolving Skies,Pokémon,Uncommon,47,Eiscue,875,8/27/2021,0.07,,0.12,0.12
+Sword & Shield,,swsh7-48,Evolving Skies,Pokémon,Rare Holo V,48,Arctovish V,883,8/27/2021,,0.97,,0.97
+Sword & Shield,,swsh7-49,Evolving Skies,Pokémon,Common,49,Pikachu,25,8/27/2021,0.09,,0.37,0.37
+Sword & Shield,,swsh7-50,Evolving Skies,Pokémon,Rare Holo,50,Raichu,26,8/27/2021,,0.6,0.71,0.71
+Sword & Shield,,swsh7-51,Evolving Skies,Pokémon,Rare Holo VMAX,51,Jolteon VMAX,135,8/27/2021,,13.19,,13.19
+Sword & Shield,,swsh7-52,Evolving Skies,Pokémon,Common,52,Chinchou,170,8/27/2021,0.05,,0.14,0.14
+Sword & Shield,,swsh7-53,Evolving Skies,Pokémon,Uncommon,53,Lanturn,171,8/27/2021,0.07,,0.13,0.13
+Sword & Shield,,swsh7-54,Evolving Skies,Pokémon,Common,54,Mareep,179,8/27/2021,0.03,,0.19,0.19
+Sword & Shield,,swsh7-55,Evolving Skies,Pokémon,Uncommon,55,Flaaffy,180,8/27/2021,0.18,,0.27,0.27
+Sword & Shield,,swsh7-56,Evolving Skies,Pokémon,Rare,56,Ampharos,181,8/27/2021,0.13,,0.16,0.16
+Sword & Shield,,swsh7-57,Evolving Skies,Pokémon,Common,57,Emolga,587,8/27/2021,0.04,,0.17,0.17
+Sword & Shield,,swsh7-58,Evolving Skies,Pokémon,Rare Holo V,58,Dracozolt V,880,8/27/2021,,1.45,,1.45
+Sword & Shield,,swsh7-59,Evolving Skies,Pokémon,Rare Holo VMAX,59,Dracozolt VMAX,880,8/27/2021,,2.84,,2.84
+Sword & Shield,,swsh7-60,Evolving Skies,Pokémon,Rare Holo,60,Regieleki,,8/27/2021,,0.36,0.38,0.38
+Sword & Shield,,swsh7-61,Evolving Skies,Pokémon,Common,61,Drowzee,96,8/27/2021,0.03,,0.16,0.16
+Sword & Shield,,swsh7-62,Evolving Skies,Pokémon,Uncommon,62,Hypno,97,8/27/2021,0.06,,0.17,0.17
+Sword & Shield,,swsh7-63,Evolving Skies,Pokémon,Rare Holo,63,Galarian Articuno,144,8/27/2021,,0.72,0.95,0.95
+Sword & Shield,,swsh7-64,Evolving Skies,Pokémon,Rare Holo V,64,Espeon V,196,8/27/2021,,1.68,,1.68
+Sword & Shield,,swsh7-65,Evolving Skies,Pokémon,Rare Holo VMAX,65,Espeon VMAX,196,8/27/2021,,4.76,,4.76
+Sword & Shield,,swsh7-66,Evolving Skies,Pokémon,Common,66,Wobbuffet,202,8/27/2021,0.05,,0.14,0.14
+Sword & Shield,,swsh7-67,Evolving Skies,Pokémon,Common,67,Sableye,302,8/27/2021,0.03,,0.15,0.15
+Sword & Shield,,swsh7-68,Evolving Skies,Pokémon,Common,68,Woobat,527,8/27/2021,0.05,,0.18,0.18
+Sword & Shield,,swsh7-69,Evolving Skies,Pokémon,Uncommon,69,Swoobat,528,8/27/2021,0.06,,0.13,0.13
+Sword & Shield,,swsh7-70,Evolving Skies,Pokémon,Rare Holo V,70,Golurk V,623,8/27/2021,,0.92,,0.92
+Sword & Shield,,swsh7-71,Evolving Skies,Pokémon,Common,71,Flabébé,669,8/27/2021,0.03,,0.11,0.11
+Sword & Shield,,swsh7-72,Evolving Skies,Pokémon,Uncommon,72,Floette,670,8/27/2021,0.08,,0.15,0.15
+Sword & Shield,,swsh7-73,Evolving Skies,Pokémon,Rare Holo,73,Florges,671,8/27/2021,,0.36,0.42,0.42
+Sword & Shield,,swsh7-74,Evolving Skies,Pokémon,Rare Holo V,74,Sylveon V,700,8/27/2021,,2.3,,2.3
+Sword & Shield,,swsh7-75,Evolving Skies,Pokémon,Rare Holo VMAX,75,Sylveon VMAX,700,8/27/2021,,6.86,,6.86
+Sword & Shield,,swsh7-76,Evolving Skies,Pokémon,Common,76,Pumpkaboo,710,8/27/2021,0.06,,0.2,0.2
+Sword & Shield,,swsh7-77,Evolving Skies,Pokémon,Rare,77,Gourgeist,711,8/27/2021,0.11,,0.2,0.2
+Sword & Shield,,swsh7-78,Evolving Skies,Pokémon,Common,78,Cutiefly,742,8/27/2021,0.02,,0.13,0.13
+Sword & Shield,,swsh7-79,Evolving Skies,Pokémon,Uncommon,79,Ribombee,743,8/27/2021,0.06,,0.17,0.17
+Sword & Shield,,swsh7-80,Evolving Skies,Pokémon,Rare Holo,80,Marshadow,802,8/27/2021,,0.35,0.38,0.38
+Sword & Shield,,swsh7-81,Evolving Skies,Pokémon,Common,81,Hitmonchan,107,8/27/2021,0.03,,0.14,0.14
+Sword & Shield,,swsh7-82,Evolving Skies,Pokémon,Rare Holo,82,Galarian Zapdos,145,8/27/2021,,0.5,0.68,0.68
+Sword & Shield,,swsh7-83,Evolving Skies,Pokémon,Rare Holo V,83,Medicham V,308,8/27/2021,,1.24,,1.24
+Sword & Shield,,swsh7-84,Evolving Skies,Pokémon,Common,84,Hippopotas,449,8/27/2021,0.03,,0.14,0.14
+Sword & Shield,,swsh7-85,Evolving Skies,Pokémon,Uncommon,85,Hippowdon,450,8/27/2021,0.06,,0.17,0.17
+Sword & Shield,,swsh7-86,Evolving Skies,Pokémon,Common,86,Roggenrola,524,8/27/2021,0.02,,0.14,0.14
+Sword & Shield,,swsh7-87,Evolving Skies,Pokémon,Uncommon,87,Boldore,525,8/27/2021,0.04,,0.14,0.14
+Sword & Shield,,swsh7-88,Evolving Skies,Pokémon,Rare,88,Gigalith,526,8/27/2021,0.08,,0.16,0.16
+Sword & Shield,,swsh7-89,Evolving Skies,Pokémon,Uncommon,89,Palpitoad,536,8/27/2021,0.03,,0.11,0.11
+Sword & Shield,,swsh7-90,Evolving Skies,Pokémon,Rare,90,Seismitoad,537,8/27/2021,0.1,,0.36,0.36
+Sword & Shield,,swsh7-91,Evolving Skies,Pokémon,Rare Holo V,91,Lycanroc V,745,8/27/2021,,1.14,,1.14
+Sword & Shield,,swsh7-92,Evolving Skies,Pokémon,Rare Holo VMAX,92,Lycanroc VMAX,745,8/27/2021,,2.99,,2.99
+Sword & Shield,,swsh7-93,Evolving Skies,Pokémon,Rare Holo,93,Galarian Moltres,146,8/27/2021,,0.79,0.69,0.79
+Sword & Shield,,swsh7-94,Evolving Skies,Pokémon,Rare Holo V,94,Umbreon V,197,8/27/2021,,6.59,,6.59
+Sword & Shield,,swsh7-95,Evolving Skies,Pokémon,Rare Holo VMAX,95,Umbreon VMAX,197,8/27/2021,,22.17,,22.17
+Sword & Shield,,swsh7-96,Evolving Skies,Pokémon,Uncommon,96,Nuzleaf,274,8/27/2021,0.04,,0.11,0.11
+Sword & Shield,,swsh7-97,Evolving Skies,Pokémon,Rare,97,Shiftry,275,8/27/2021,0.08,,0.15,0.15
+Sword & Shield,,swsh7-98,Evolving Skies,Pokémon,Common,98,Scraggy,559,8/27/2021,0.03,,0.11,0.11
+Sword & Shield,,swsh7-99,Evolving Skies,Pokémon,Uncommon,99,Scrafty,560,8/27/2021,0.04,,0.1,0.1
+Sword & Shield,,swsh7-100,Evolving Skies,Pokémon,Rare Holo V,100,Garbodor V,569,8/27/2021,,0.9,,0.9
+Sword & Shield,,swsh7-101,Evolving Skies,Pokémon,Rare Holo VMAX,101,Garbodor VMAX,569,8/27/2021,,2.31,,2.31
+Sword & Shield,,swsh7-102,Evolving Skies,Pokémon,Common,102,Zorua,570,8/27/2021,0.05,,0.21,0.21
+Sword & Shield,,swsh7-103,Evolving Skies,Pokémon,Rare Holo,103,Zoroark,571,8/27/2021,,0.36,0.41,0.41
+Sword & Shield,,swsh7-104,Evolving Skies,Pokémon,Common,104,Nickit,827,8/27/2021,0.06,,0.16,0.16
+Sword & Shield,,swsh7-105,Evolving Skies,Pokémon,Rare,105,Thievul,828,8/27/2021,0.09,,0.13,0.13
+Sword & Shield,,swsh7-106,Evolving Skies,Pokémon,Rare,106,Altaria,334,8/27/2021,0.12,,0.18,0.18
+Sword & Shield,,swsh7-107,Evolving Skies,Pokémon,Common,107,Bagon,371,8/27/2021,0.02,,0.16,0.16
+Sword & Shield,,swsh7-108,Evolving Skies,Pokémon,Uncommon,108,Shelgon,372,8/27/2021,0.05,,0.11,0.11
+Sword & Shield,,swsh7-109,Evolving Skies,Pokémon,Rare Holo,109,Salamence,373,8/27/2021,,0.54,0.7,0.7
+Sword & Shield,,swsh7-110,Evolving Skies,Pokémon,Rare Holo V,110,Rayquaza V,384,8/27/2021,,1.59,,1.59
+Sword & Shield,,swsh7-111,Evolving Skies,Pokémon,Rare Holo VMAX,111,Rayquaza VMAX,384,8/27/2021,,10.95,,10.95
+Sword & Shield,,swsh7-112,Evolving Skies,Pokémon,Rare Holo,112,Dialga,483,8/27/2021,,0.26,0.35,0.35
+Sword & Shield,,swsh7-113,Evolving Skies,Pokémon,Common,113,Deino,633,8/27/2021,0.05,,0.14,0.14
+Sword & Shield,,swsh7-114,Evolving Skies,Pokémon,Uncommon,114,Zweilous,634,8/27/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh7-115,Evolving Skies,Pokémon,Rare Holo,115,Hydreigon,635,8/27/2021,,0.42,0.47,0.47
+Sword & Shield,,swsh7-116,Evolving Skies,Pokémon,Rare Holo,116,Kyurem,646,8/27/2021,,0.31,0.45,0.45
+Sword & Shield,,swsh7-117,Evolving Skies,Pokémon,Rare Holo V,117,Noivern V,715,8/27/2021,,1.1,,1.1
+Sword & Shield,,swsh7-118,Evolving Skies,Pokémon,Rare Holo,118,Zygarde,718,8/27/2021,,0.26,0.44,0.44
+Sword & Shield,,swsh7-119,Evolving Skies,Pokémon,Rare,119,Drampa,780,8/27/2021,0.1,,0.17,0.17
+Sword & Shield,,swsh7-120,Evolving Skies,Pokémon,Rare,120,Flapple,841,8/27/2021,0.07,,0.15,0.15
+Sword & Shield,,swsh7-121,Evolving Skies,Pokémon,Rare,121,Appletun,842,8/27/2021,0.09,,0.21,0.21
+Sword & Shield,,swsh7-122,Evolving Skies,Pokémon,Rare Holo V,122,Duraludon V,884,8/27/2021,,1.14,,1.14
+Sword & Shield,,swsh7-123,Evolving Skies,Pokémon,Rare Holo VMAX,123,Duraludon VMAX,884,8/27/2021,,4.05,,4.05
+Sword & Shield,,swsh7-124,Evolving Skies,Pokémon,Rare Holo,124,Regidrago,,8/27/2021,,0.48,0.79,0.79
+Sword & Shield,,swsh7-125,Evolving Skies,Pokémon,Common,125,Eevee,133,8/27/2021,0.07,,0.19,0.19
+Sword & Shield,,swsh7-126,Evolving Skies,Pokémon,Common,126,Teddiursa,216,8/27/2021,0.03,,0.14,0.14
+Sword & Shield,,swsh7-127,Evolving Skies,Pokémon,Uncommon,127,Ursaring,217,8/27/2021,0.05,,0.15,0.15
+Sword & Shield,,swsh7-128,Evolving Skies,Pokémon,Rare,128,Smeargle,235,8/27/2021,0.09,,0.41,0.41
+Sword & Shield,,swsh7-129,Evolving Skies,Pokémon,Common,129,Slakoth,287,8/27/2021,0.03,,0.16,0.16
+Sword & Shield,,swsh7-130,Evolving Skies,Pokémon,Uncommon,130,Vigoroth,288,8/27/2021,0.04,,0.11,0.11
+Sword & Shield,,swsh7-131,Evolving Skies,Pokémon,Rare Holo,131,Slaking,289,8/27/2021,,0.25,0.34,0.34
+Sword & Shield,,swsh7-132,Evolving Skies,Pokémon,Common,132,Swablu,333,8/27/2021,0.03,,0.19,0.19
+Sword & Shield,,swsh7-133,Evolving Skies,Pokémon,Common,133,Lillipup,506,8/27/2021,0.04,,0.15,0.15
+Sword & Shield,,swsh7-134,Evolving Skies,Pokémon,Uncommon,134,Herdier,507,8/27/2021,0.03,,0.12,0.12
+Sword & Shield,,swsh7-135,Evolving Skies,Pokémon,Rare,135,Stoutland,508,8/27/2021,0.08,,0.18,0.18
+Sword & Shield,,swsh7-136,Evolving Skies,Pokémon,Common,136,Rufflet,627,8/27/2021,0.04,,0.15,0.15
+Sword & Shield,,swsh7-137,Evolving Skies,Pokémon,Uncommon,137,Braviary,628,8/27/2021,0.04,,0.14,0.14
+Sword & Shield,,swsh7-138,Evolving Skies,Pokémon,Common,138,Fletchling,661,8/27/2021,0.03,,0.12,0.12
+Sword & Shield,,swsh7-139,Evolving Skies,Pokémon,Uncommon,139,Fletchinder,662,8/27/2021,0.03,,0.12,0.12
+Sword & Shield,,swsh7-140,Evolving Skies,Pokémon,Rare,140,Talonflame,663,8/27/2021,0.06,,0.41,0.41
+Sword & Shield,,swsh7-141,Evolving Skies,Trainer,Uncommon,141,Aroma Lady,,8/27/2021,0.04,,0.12,0.12
+Sword & Shield,,swsh7-142,Evolving Skies,Trainer,Uncommon,142,Boost Shake,,8/27/2021,0.08,,0.18,0.18
+Sword & Shield,,swsh7-143,Evolving Skies,Trainer,Uncommon,143,Copycat,,8/27/2021,0.08,,0.12,0.12
+Sword & Shield,,swsh7-144,Evolving Skies,Trainer,Uncommon,144,Crystal Cave,,8/27/2021,0.22,,0.27,0.27
+Sword & Shield,,swsh7-145,Evolving Skies,Trainer,Uncommon,145,Digging Gloves,,8/27/2021,0.02,,0.13,0.13
+Sword & Shield,,swsh7-146,Evolving Skies,Trainer,Uncommon,146,Dream Ball,,8/27/2021,0.06,,0.14,0.14
+Sword & Shield,,swsh7-147,Evolving Skies,Trainer,Uncommon,147,Elemental Badge,,8/27/2021,0.13,,0.23,0.23
+Sword & Shield,,swsh7-148,Evolving Skies,Trainer,Uncommon,148,Full Face Guard,,8/27/2021,0.1,,0.15,0.15
+Sword & Shield,,swsh7-149,Evolving Skies,Trainer,Uncommon,149,Gordie,,8/27/2021,0.06,,0.12,0.12
+Sword & Shield,,swsh7-150,Evolving Skies,Trainer,Uncommon,150,Lucky Ice Pop,,8/27/2021,0.11,,0.21,0.21
+Sword & Shield,,swsh7-151,Evolving Skies,Trainer,Uncommon,151,Moon & Sun Badge,,8/27/2021,0.05,,0.15,0.15
+Sword & Shield,,swsh7-152,Evolving Skies,Trainer,Uncommon,152,Raihan,,8/27/2021,0.26,,0.36,0.36
+Sword & Shield,,swsh7-153,Evolving Skies,Trainer,Uncommon,153,Rapid Strike Scroll of the Flying Dragon,,8/27/2021,0.05,,0.16,0.16
+Sword & Shield,,swsh7-154,Evolving Skies,Trainer,Uncommon,154,Rescue Carrier,,8/27/2021,0.14,,0.19,0.19
+Sword & Shield,,swsh7-155,Evolving Skies,Trainer,Uncommon,155,Ribbon Badge,,8/27/2021,0.06,,0.16,0.16
+Sword & Shield,,swsh7-156,Evolving Skies,Trainer,Uncommon,156,Rubber Gloves,,8/27/2021,0.04,,0.11,0.11
+Sword & Shield,,swsh7-157,Evolving Skies,Trainer,Uncommon,157,Shopping Center,,8/27/2021,0.06,,0.12,0.12
+Sword & Shield,,swsh7-158,Evolving Skies,Trainer,Uncommon,158,Single Strike Scroll of the Fanged Dragon,,8/27/2021,0.04,,0.17,0.17
+Sword & Shield,,swsh7-159,Evolving Skies,Trainer,Uncommon,159,Snow Leaf Badge,,8/27/2021,0.04,,0.15,0.15
+Sword & Shield,,swsh7-160,Evolving Skies,Trainer,Uncommon,160,Spirit Mask,,8/27/2021,0.07,,0.14,0.14
+Sword & Shield,,swsh7-161,Evolving Skies,Trainer,Uncommon,161,Stormy Mountains,,8/27/2021,0.16,,0.24,0.24
+Sword & Shield,,swsh7-162,Evolving Skies,Trainer,Uncommon,162,Switching Cups,,8/27/2021,0.04,,0.13,0.13
+Sword & Shield,,swsh7-163,Evolving Skies,Trainer,Uncommon,163,Toy Catcher,,8/27/2021,0.04,,0.13,0.13
+Sword & Shield,,swsh7-164,Evolving Skies,Trainer,Uncommon,164,Zinnia's Resolve,,8/27/2021,0.11,,0.25,0.25
+Sword & Shield,,swsh7-165,Evolving Skies,Energy,Uncommon,165,Treasure Energy,,8/27/2021,0.04,,0.11,0.11
+Sword & Shield,,swsh7-166,Evolving Skies,Pokémon,Rare Ultra,166,Leafeon V,470,8/27/2021,,12.67,,12.67
+Sword & Shield,,swsh7-167,Evolving Skies,Pokémon,Rare Ultra,167,Leafeon V,470,8/27/2021,,46.18,,46.18
+Sword & Shield,,swsh7-168,Evolving Skies,Pokémon,Rare Ultra,168,Trevenant V,709,8/27/2021,,4.25,,4.25
+Sword & Shield,,swsh7-169,Evolving Skies,Pokémon,Rare Ultra,169,Flareon V,136,8/27/2021,,12.27,,12.27
+Sword & Shield,,swsh7-170,Evolving Skies,Pokémon,Rare Ultra,170,Volcarona V,637,8/27/2021,,5.94,,5.94
+Sword & Shield,,swsh7-171,Evolving Skies,Pokémon,Rare Ultra,171,Gyarados V,130,8/27/2021,,9.16,,9.16
+Sword & Shield,,swsh7-172,Evolving Skies,Pokémon,Rare Ultra,172,Vaporeon V,134,8/27/2021,,14.09,,14.09
+Sword & Shield,,swsh7-173,Evolving Skies,Pokémon,Rare Ultra,173,Suicune V,245,8/27/2021,,17.17,,17.17
+Sword & Shield,,swsh7-174,Evolving Skies,Pokémon,Rare Ultra,174,Glaceon V,471,8/27/2021,,12.19,,12.19
+Sword & Shield,,swsh7-175,Evolving Skies,Pokémon,Rare Ultra,175,Glaceon V,471,8/27/2021,,52.21,,52.21
+Sword & Shield,,swsh7-176,Evolving Skies,Pokémon,Rare Ultra,176,Arctovish V,883,8/27/2021,,2.92,,2.92
+Sword & Shield,,swsh7-177,Evolving Skies,Pokémon,Rare Ultra,177,Jolteon V,135,8/27/2021,,17.49,,17.49
+Sword & Shield,,swsh7-178,Evolving Skies,Pokémon,Rare Ultra,178,Dracozolt V,880,8/27/2021,,4.67,,4.67
+Sword & Shield,,swsh7-179,Evolving Skies,Pokémon,Rare Ultra,179,Espeon V,196,8/27/2021,,13.74,,13.74
+Sword & Shield,,swsh7-180,Evolving Skies,Pokémon,Rare Ultra,180,Espeon V,196,8/27/2021,,52.69,,52.69
+Sword & Shield,,swsh7-181,Evolving Skies,Pokémon,Rare Ultra,181,Golurk V,623,8/27/2021,,4.49,,4.49
+Sword & Shield,,swsh7-182,Evolving Skies,Pokémon,Rare Ultra,182,Golurk V,623,8/27/2021,,19.9,,19.9
+Sword & Shield,,swsh7-183,Evolving Skies,Pokémon,Rare Ultra,183,Sylveon V,700,8/27/2021,,15.67,,15.67
+Sword & Shield,,swsh7-184,Evolving Skies,Pokémon,Rare Ultra,184,Sylveon V,700,8/27/2021,,50.92,,50.92
+Sword & Shield,,swsh7-185,Evolving Skies,Pokémon,Rare Ultra,185,Medicham V,308,8/27/2021,,4.2,,4.2
+Sword & Shield,,swsh7-186,Evolving Skies,Pokémon,Rare Ultra,186,Medicham V,308,8/27/2021,,15.3,,15.3
+Sword & Shield,,swsh7-187,Evolving Skies,Pokémon,Rare Ultra,187,Lycanroc V,745,8/27/2021,,5,,5
+Sword & Shield,,swsh7-188,Evolving Skies,Pokémon,Rare Ultra,188,Umbreon V,197,8/27/2021,,19.04,,19.04
+Sword & Shield,,swsh7-189,Evolving Skies,Pokémon,Rare Ultra,189,Umbreon V,197,8/27/2021,,81.59,,81.59
+Sword & Shield,,swsh7-190,Evolving Skies,Pokémon,Rare Ultra,190,Garbodor V,569,8/27/2021,,4,,4
+Sword & Shield,,swsh7-191,Evolving Skies,Pokémon,Rare Ultra,191,Dragonite V,149,8/27/2021,,16.12,,16.12
+Sword & Shield,,swsh7-192,Evolving Skies,Pokémon,Rare Ultra,192,Dragonite V,149,8/27/2021,,70.17,,70.17
+Sword & Shield,,swsh7-193,Evolving Skies,Pokémon,Rare Ultra,193,Rayquaza V,384,8/27/2021,,15.71,,15.71
+Sword & Shield,,swsh7-194,Evolving Skies,Pokémon,Rare Ultra,194,Rayquaza V,384,8/27/2021,,77.85,,77.85
+Sword & Shield,,swsh7-195,Evolving Skies,Pokémon,Rare Ultra,195,Noivern V,715,8/27/2021,,5.08,,5.08
+Sword & Shield,,swsh7-196,Evolving Skies,Pokémon,Rare Ultra,196,Noivern V,715,8/27/2021,,29.67,,29.67
+Sword & Shield,,swsh7-197,Evolving Skies,Pokémon,Rare Ultra,197,Duraludon V,884,8/27/2021,,4.74,,4.74
+Sword & Shield,,swsh7-198,Evolving Skies,Pokémon,Rare Ultra,198,Duraludon V,884,8/27/2021,,19.03,,19.03
+Sword & Shield,,swsh7-199,Evolving Skies,Trainer,Rare Ultra,199,Aroma Lady,,8/27/2021,,13.12,,13.12
+Sword & Shield,,swsh7-200,Evolving Skies,Trainer,Rare Ultra,200,Copycat,,8/27/2021,,3.72,,3.72
+Sword & Shield,,swsh7-201,Evolving Skies,Trainer,Rare Ultra,201,Gordie,,8/27/2021,,5.69,,5.69
+Sword & Shield,,swsh7-202,Evolving Skies,Trainer,Rare Ultra,202,Raihan,,8/27/2021,,18.57,,18.57
+Sword & Shield,,swsh7-203,Evolving Skies,Trainer,Rare Ultra,203,Zinnia's Resolve,,8/27/2021,,7.87,,7.87
+Sword & Shield,,swsh7-204,Evolving Skies,Pokémon,Rare Rainbow,204,Leafeon VMAX,470,8/27/2021,,19.13,,19.13
+Sword & Shield,,swsh7-205,Evolving Skies,Pokémon,Rare Rainbow,205,Leafeon VMAX,470,8/27/2021,,75.91,,75.91
+Sword & Shield,,swsh7-206,Evolving Skies,Pokémon,Rare Rainbow,206,Trevenant VMAX,709,8/27/2021,,6.46,,6.46
+Sword & Shield,,swsh7-207,Evolving Skies,Pokémon,Rare Rainbow,207,Gyarados VMAX,130,8/27/2021,,17.31,,17.31
+Sword & Shield,,swsh7-208,Evolving Skies,Pokémon,Rare Rainbow,208,Glaceon VMAX,471,8/27/2021,,16.66,,16.66
+Sword & Shield,,swsh7-209,Evolving Skies,Pokémon,Rare Rainbow,209,Glaceon VMAX,471,8/27/2021,,82.1,,82.1
+Sword & Shield,,swsh7-210,Evolving Skies,Pokémon,Rare Rainbow,210,Dracozolt VMAX,880,8/27/2021,,7.39,,7.39
+Sword & Shield,,swsh7-211,Evolving Skies,Pokémon,Rare Rainbow,211,Sylveon VMAX,700,8/27/2021,,25.51,,25.51
+Sword & Shield,,swsh7-212,Evolving Skies,Pokémon,Rare Rainbow,212,Sylveon VMAX,700,8/27/2021,,89.59,,89.59
+Sword & Shield,,swsh7-213,Evolving Skies,Pokémon,Rare Rainbow,213,Lycanroc VMAX,745,8/27/2021,,9.99,,9.99
+Sword & Shield,,swsh7-214,Evolving Skies,Pokémon,Rare Rainbow,214,Umbreon VMAX,197,8/27/2021,,27.94,,27.94
+Sword & Shield,,swsh7-215,Evolving Skies,Pokémon,Rare Rainbow,215,Umbreon VMAX,197,8/27/2021,,178.34,,178.34
+Sword & Shield,,swsh7-216,Evolving Skies,Pokémon,Rare Rainbow,216,Garbodor VMAX,569,8/27/2021,,6.71,,6.71
+Sword & Shield,,swsh7-217,Evolving Skies,Pokémon,Rare Rainbow,217,Rayquaza VMAX,384,8/27/2021,,40.61,,40.61
+Sword & Shield,,swsh7-218,Evolving Skies,Pokémon,Rare Rainbow,218,Rayquaza VMAX,384,8/27/2021,,156.93,,156.93
+Sword & Shield,,swsh7-219,Evolving Skies,Pokémon,Rare Rainbow,219,Duraludon VMAX,884,8/27/2021,,8.87,,8.87
+Sword & Shield,,swsh7-220,Evolving Skies,Pokémon,Rare Rainbow,220,Duraludon VMAX,884,8/27/2021,,26.63,,26.63
+Sword & Shield,,swsh7-221,Evolving Skies,Trainer,Rare Rainbow,221,Aroma Lady,,8/27/2021,,8.22,,8.22
+Sword & Shield,,swsh7-222,Evolving Skies,Trainer,Rare Rainbow,222,Copycat,,8/27/2021,,6.12,,6.12
+Sword & Shield,,swsh7-223,Evolving Skies,Trainer,Rare Rainbow,223,Gordie,,8/27/2021,,4.72,,4.72
+Sword & Shield,,swsh7-224,Evolving Skies,Trainer,Rare Rainbow,224,Raihan,,8/27/2021,,9.21,,9.21
+Sword & Shield,,swsh7-225,Evolving Skies,Trainer,Rare Rainbow,225,Zinnia's Resolve,,8/27/2021,,9.5,,9.5
+Sword & Shield,,swsh7-226,Evolving Skies,Pokémon,Rare Secret,226,Froslass,478,8/27/2021,,12.91,,12.91
+Sword & Shield,,swsh7-227,Evolving Skies,Pokémon,Rare Secret,227,Inteleon,818,8/27/2021,,25.02,,25.02
+Sword & Shield,,swsh7-228,Evolving Skies,Pokémon,Rare Secret,228,Cresselia,488,8/27/2021,,16.4,,16.4
+Sword & Shield,,swsh7-229,Evolving Skies,Trainer,Rare Secret,229,Boost Shake,,8/27/2021,,4.86,,4.86
+Sword & Shield,,swsh7-230,Evolving Skies,Trainer,Rare Secret,230,Crystal Cave,,8/27/2021,,14.86,,14.86
+Sword & Shield,,swsh7-231,Evolving Skies,Trainer,Rare Secret,231,Full Face Guard,,8/27/2021,,5.11,,5.11
+Sword & Shield,,swsh7-232,Evolving Skies,Trainer,Rare Secret,232,Stormy Mountains,,8/27/2021,,9.25,,9.25
+Sword & Shield,,swsh7-233,Evolving Skies,Trainer,Rare Secret,233,Toy Catcher,,8/27/2021,,4.07,,4.07
+Sword & Shield,,swsh7-234,Evolving Skies,Trainer,Rare Secret,234,Turffield Stadium,,8/27/2021,,7.01,,7.01
+Sword & Shield,,swsh7-235,Evolving Skies,Energy,Rare Secret,235,Lightning Energy,,8/27/2021,,15.82,,15.82
+Sword & Shield,,swsh7-236,Evolving Skies,Energy,Rare Secret,236,Darkness Energy,,8/27/2021,,16.9,,16.9
+Sword & Shield,,swsh7-237,Evolving Skies,Energy,Rare Secret,237,Metal Energy,,8/27/2021,,13.81,,13.81
+Sword & Shield,,,Celebrations,Pokémon,Rare,1,Ho-Oh,250,10/8/2021,,0.12,,0.12
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,2,Blastoise,9,10/8/2021,,6.5,,6.5
+Sword & Shield,,,Celebrations,Pokémon,Rare,2,Reshiram,643,10/8/2021,,0.1,,0.1
+Sword & Shield,,,Celebrations,Pokémon,Rare,3,Kyogre,382,10/8/2021,,0.12,,0.12
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,4,Charizard,6,10/8/2021,,85.71,,85.71
+Sword & Shield,,,Celebrations,Pokémon,Rare,4,Palkia,484,10/8/2021,,0.08,,0.08
+Sword & Shield,,,Celebrations,Pokémon,Rare Holo,5,Pikachu,25,10/8/2021,,0.37,,0.37
+Sword & Shield,,,Celebrations,Pokémon,V,6,Flying Pikachu V,25,10/8/2021,,0.83,,0.83
+Sword & Shield,,,Celebrations,Pokémon,VM,7,Flying Pikachu VMAX,25,10/8/2021,,1.99,,1.99
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,8,Dark Gyarados,130,10/8/2021,,1.2,,1.2
+Sword & Shield,,,Celebrations,Pokémon,V,8,Surfing Pikachu V,25,10/8/2021,,0.75,,0.75
+Sword & Shield,,,Celebrations,Pokémon,VM,9,Surfing Pikachu VMAX,25,10/8/2021,,2.12,,2.12
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,9,Team Magma’s Groudon,383,10/8/2021,,0.76,,0.76
+Sword & Shield,,,Celebrations,Pokémon,Rare,10,Zekrom,644,10/8/2021,,0.09,,0.09
+Sword & Shield,,,Celebrations,Pokémon,Rare Holo,11,Mew,151,10/8/2021,,0.23,,0.23
+Sword & Shield,,,Celebrations,Pokémon,Rare,12,Xerneas,716,10/8/2021,,0.07,,0.07
+Sword & Shield,,,Celebrations,Pokémon,Rare,13,Cosmog,789,10/8/2021,,0.07,,0.07
+Sword & Shield,,,Celebrations,Pokémon,Rare,14,Cosmoem,790,10/8/2021,,0.08,,0.08
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,15,Venusaur,3,10/8/2021,,5.32,,5.32
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,15,Rocket’s Zapdos,145,10/8/2021,,1.15,,1.15
+Sword & Shield,,,Celebrations: Classic Collection,Trainer,Classic Collection,15,Here Comes Team Rocket!,,10/8/2021,,0.43,,0.43
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,15,Claydol,344,10/8/2021,,0.38,,0.38
+Sword & Shield,,,Celebrations,Pokémon,Rare Holo,15,Lunala,792,10/8/2021,,0.13,,0.13
+Sword & Shield,,,Celebrations,Pokémon,V,16,Zacian V,888,10/8/2021,,0.78,,0.78
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,17,Umbreon ★,197,10/8/2021,,32.99,,32.99
+Sword & Shield,,,Celebrations,Pokémon,Rare,17,Groudon,383,10/8/2021,,0.1,,0.1
+Sword & Shield,,,Celebrations,Pokémon,V,18,Zamazenta V,889,10/8/2021,,0.75,,0.75
+Sword & Shield,,,Celebrations,Pokémon,Rare,19,Yveltal,717,10/8/2021,,0.08,,0.08
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,20,Cleffa,173,10/8/2021,,0.85,,0.85
+Sword & Shield,,,Celebrations,Pokémon,Rare,20,Dialga,483,10/8/2021,,0.11,,0.11
+Sword & Shield,,,Celebrations,Pokémon,Rare Holo,21,Solgaleo,791,10/8/2021,,0.14,,0.14
+Sword & Shield,,,Celebrations,Pokémon,Rare,22,Lugia,249,10/8/2021,,0.12,,0.12
+Sword & Shield,,,Celebrations,Trainer,Rare Holo,23,Professor’s Research (Professor Oak),,10/8/2021,,0.24,,0.24
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,24,_____’s Pikachu,25,10/8/2021,,6.05,,6.05
+Sword & Shield,,,Celebrations,Trainer,Rare Ultra,24,Professor’s Research (Professor Oak),,10/8/2021,,1.56,,1.56
+Sword & Shield,,,Celebrations,Pokémon,Rare Holo,25,Mew,151,10/8/2021,,48.17,,48.17
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,54,Mewtwo-EX,150,10/8/2021,,13.8,,13.8
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,60,Tapu Lele-GX,,10/8/2021,,9.88,,9.88
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,66,Shining Magikarp,129,10/8/2021,,23.68,,23.68
+Sword & Shield,,,Celebrations: Classic Collection,Trainer,Classic Collection,73,Imposter Professor Oak,,10/8/2021,,0.34,,0.34
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,76,M Rayquaza-EX,384,10/8/2021,,15.11,,15.11
+Sword & Shield,,,Celebrations: Classic Collection,Trainer,Classic Collection,86,Rocket’s Admin.,,10/8/2021,,0.47,,0.47
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,88,Mew ex,151,10/8/2021,,6.03,,6.03
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,93,Gardevoir ex,282,10/8/2021,,10.77,,10.77
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,97,Xerneas-EX,716,10/8/2021,,9,,9
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,107,Donphan,232,10/8/2021,,1.95,,1.95
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,109,Luxray GL LV.X,405,10/8/2021,,2.68,,2.68
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,113,Reshiram,643,10/8/2021,,5.02,,5.02
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,114,Zekrom,644,10/8/2021,,4.7,,4.7
+Sword & Shield,,,Celebrations: Classic Collection,Pokémon,Classic Collection,145,Garchomp C LV.X,445,10/8/2021,,3.02,,3.02
+Sword & Shield,,swsh8-1,Fusion Strike,Pokémon,Common,1,Caterpie,10,11/12/2021,0.08,,0.16,0.16
+Sword & Shield,,swsh8-2,Fusion Strike,Pokémon,Uncommon,2,Metapod,11,11/12/2021,0.04,,0.18,0.18
+Sword & Shield,,swsh8-3,Fusion Strike,Pokémon,Rare Holo,3,Butterfree,12,11/12/2021,,0.41,0.55,0.55
+Sword & Shield,,swsh8-4,Fusion Strike,Pokémon,Common,4,Shroomish,285,11/12/2021,0.06,,0.18,0.18
+Sword & Shield,,swsh8-5,Fusion Strike,Pokémon,Uncommon,5,Breloom,286,11/12/2021,0.08,,0.23,0.23
+Sword & Shield,,swsh8-6,Fusion Strike,Pokémon,Rare Holo V,6,Breloom V,286,11/12/2021,,1.34,,1.34
+Sword & Shield,,swsh8-7,Fusion Strike,Pokémon,Common,7,Pansage,511,11/12/2021,0.04,,0.2,0.2
+Sword & Shield,,swsh8-8,Fusion Strike,Pokémon,Uncommon,8,Simisage,512,11/12/2021,0.04,,0.18,0.18
+Sword & Shield,,swsh8-9,Fusion Strike,Pokémon,Common,9,Sewaddle,540,11/12/2021,0.05,,0.2,0.2
+Sword & Shield,,swsh8-10,Fusion Strike,Pokémon,Uncommon,10,Swadloon,541,11/12/2021,0.07,,0.24,0.24
+Sword & Shield,,swsh8-11,Fusion Strike,Pokémon,Rare,11,Leavanny,542,11/12/2021,0.36,,0.26,0.36
+Sword & Shield,,swsh8-12,Fusion Strike,Pokémon,Rare,12,Maractus,556,11/12/2021,0.14,,0.28,0.28
+Sword & Shield,,swsh8-13,Fusion Strike,Pokémon,Common,13,Shelmet,616,11/12/2021,0.04,,0.27,0.27
+Sword & Shield,,swsh8-14,Fusion Strike,Pokémon,Rare,14,Accelgor,617,11/12/2021,0.11,,0.29,0.29
+Sword & Shield,,swsh8-15,Fusion Strike,Pokémon,Rare,15,Virizion,640,11/12/2021,0.13,,0.25,0.25
+Sword & Shield,,swsh8-16,Fusion Strike,Pokémon,Common,16,Phantump,708,11/12/2021,0.06,,0.14,0.14
+Sword & Shield,,swsh8-17,Fusion Strike,Pokémon,Uncommon,17,Trevenant,709,11/12/2021,0.07,,0.25,0.25
+Sword & Shield,,swsh8-18,Fusion Strike,Pokémon,Common,18,Grubbin,736,11/12/2021,0.06,,0.15,0.15
+Sword & Shield,,swsh8-19,Fusion Strike,Pokémon,Common,19,Dewpider,751,11/12/2021,0.04,,0.12,0.12
+Sword & Shield,,swsh8-20,Fusion Strike,Pokémon,Rare,20,Araquanid,752,11/12/2021,0.17,,0.28,0.28
+Sword & Shield,,swsh8-21,Fusion Strike,Pokémon,Rare Holo V,21,Tsareena V,763,11/12/2021,,1.43,,1.43
+Sword & Shield,,swsh8-22,Fusion Strike,Pokémon,Rare Holo V,22,Rillaboom V,812,11/12/2021,,1.36,,1.36
+Sword & Shield,,swsh8-23,Fusion Strike,Pokémon,Rare Holo VMAX,23,Rillaboom VMAX,812,11/12/2021,,2.56,,2.56
+Sword & Shield,,swsh8-24,Fusion Strike,Pokémon,Common,24,Gossifleur,829,11/12/2021,0.03,,0.17,0.17
+Sword & Shield,,swsh8-25,Fusion Strike,Pokémon,Uncommon,25,Eldegoss,830,11/12/2021,0.04,,0.21,0.21
+Sword & Shield,,swsh8-26,Fusion Strike,Pokémon,Rare Holo V,26,Appletun V,842,11/12/2021,,1.14,,1.14
+Sword & Shield,,swsh8-27,Fusion Strike,Pokémon,Uncommon,27,Zarude,893,11/12/2021,0.06,,0.19,0.19
+Sword & Shield,,swsh8-28,Fusion Strike,Pokémon,Common,28,Vulpix,37,11/12/2021,0.06,,0.19,0.19
+Sword & Shield,,swsh8-29,Fusion Strike,Pokémon,Common,29,Vulpix,37,11/12/2021,0.1,,0.25,0.25
+Sword & Shield,,swsh8-30,Fusion Strike,Pokémon,Uncommon,30,Ninetales,38,11/12/2021,0.16,,0.41,0.41
+Sword & Shield,,swsh8-31,Fusion Strike,Pokémon,Uncommon,31,Ninetales,38,11/12/2021,0.23,,0.5,0.5
+Sword & Shield,,swsh8-32,Fusion Strike,Pokémon,Common,32,Growlithe,58,11/12/2021,0.05,,0.14,0.14
+Sword & Shield,,swsh8-33,Fusion Strike,Pokémon,Rare,33,Arcanine,59,11/12/2021,0.19,,0.35,0.35
+Sword & Shield,,swsh8-34,Fusion Strike,Pokémon,Common,34,Slugma,218,11/12/2021,0.04,,0.11,0.11
+Sword & Shield,,swsh8-35,Fusion Strike,Pokémon,Uncommon,35,Magcargo,219,11/12/2021,0.09,,0.15,0.15
+Sword & Shield,,swsh8-36,Fusion Strike,Pokémon,Uncommon,36,Victini,494,11/12/2021,0.07,,0.21,0.21
+Sword & Shield,,swsh8-37,Fusion Strike,Pokémon,Common,37,Pansear,513,11/12/2021,0.03,,0.23,0.23
+Sword & Shield,,swsh8-38,Fusion Strike,Pokémon,Uncommon,38,Simisear,514,11/12/2021,0.06,,0.26,0.26
+Sword & Shield,,swsh8-39,Fusion Strike,Pokémon,Rare Holo V,39,Chandelure V,609,11/12/2021,,1.31,,1.31
+Sword & Shield,,swsh8-40,Fusion Strike,Pokémon,Rare Holo VMAX,40,Chandelure VMAX,609,11/12/2021,,2.74,,2.74
+Sword & Shield,,swsh8-41,Fusion Strike,Pokémon,Uncommon,41,Heatmor,631,11/12/2021,0.06,,0.24,0.24
+Sword & Shield,,swsh8-42,Fusion Strike,Pokémon,Rare,42,Oricorio,741,11/12/2021,0.25,,0.52,0.52
+Sword & Shield,,swsh8-43,Fusion Strike,Pokémon,Rare Holo V,43,Cinderace V,815,11/12/2021,,0.88,,0.88
+Sword & Shield,,swsh8-44,Fusion Strike,Pokémon,Rare Holo V,44,Cinderace V,815,11/12/2021,,1.16,,1.16
+Sword & Shield,,swsh8-45,Fusion Strike,Pokémon,Rare Holo VMAX,45,Cinderace VMAX,815,11/12/2021,,3.56,,3.56
+Sword & Shield,,swsh8-46,Fusion Strike,Pokémon,Common,46,Sizzlipede,850,11/12/2021,0.07,,0.19,0.19
+Sword & Shield,,swsh8-47,Fusion Strike,Pokémon,Common,47,Sizzlipede,850,11/12/2021,0.05,,0.14,0.14
+Sword & Shield,,swsh8-48,Fusion Strike,Pokémon,Rare,48,Centiskorch,851,11/12/2021,0.12,,0.24,0.24
+Sword & Shield,,swsh8-49,Fusion Strike,Pokémon,Uncommon,49,Centiskorch,851,11/12/2021,0.09,,0.22,0.22
+Sword & Shield,,swsh8-50,Fusion Strike,Pokémon,Common,50,Shellder,90,11/12/2021,0.06,,0.22,0.22
+Sword & Shield,,swsh8-51,Fusion Strike,Pokémon,Rare,51,Cloyster,91,11/12/2021,0.23,,0.33,0.33
+Sword & Shield,,swsh8-52,Fusion Strike,Pokémon,Common,52,Staryu,120,11/12/2021,0.07,,0.23,0.23
+Sword & Shield,,swsh8-53,Fusion Strike,Pokémon,Rare Holo,53,Starmie,121,11/12/2021,,0.35,0.42,0.42
+Sword & Shield,,swsh8-54,Fusion Strike,Pokémon,Uncommon,54,Lapras,131,11/12/2021,0.09,,0.3,0.3
+Sword & Shield,,swsh8-55,Fusion Strike,Pokémon,Common,55,Totodile,158,11/12/2021,0.04,,0.17,0.17
+Sword & Shield,,swsh8-56,Fusion Strike,Pokémon,Uncommon,56,Croconaw,159,11/12/2021,0.1,,0.28,0.28
+Sword & Shield,,swsh8-57,Fusion Strike,Pokémon,Rare Holo,57,Feraligatr,160,11/12/2021,,0.3,0.42,0.42
+Sword & Shield,,swsh8-58,Fusion Strike,Pokémon,Common,58,Marill,183,11/12/2021,0.09,,0.28,0.28
+Sword & Shield,,swsh8-59,Fusion Strike,Pokémon,Rare,59,Azumarill,184,11/12/2021,0.15,,0.31,0.31
+Sword & Shield,,swsh8-60,Fusion Strike,Pokémon,Common,60,Qwilfish,211,11/12/2021,0.04,,0.18,0.18
+Sword & Shield,,swsh8-61,Fusion Strike,Pokémon,Common,61,Mantine,226,11/12/2021,0.05,,0.12,0.12
+Sword & Shield,,swsh8-62,Fusion Strike,Pokémon,Common,62,Mudkip,258,11/12/2021,0.09,,0.32,0.32
+Sword & Shield,,swsh8-63,Fusion Strike,Pokémon,Uncommon,63,Marshtomp,259,11/12/2021,0.12,,0.25,0.25
+Sword & Shield,,swsh8-64,Fusion Strike,Pokémon,Rare Holo,64,Swampert,260,11/12/2021,,0.33,0.36,0.36
+Sword & Shield,,swsh8-65,Fusion Strike,Pokémon,Common,65,Clamperl,366,11/12/2021,0.06,,0.28,0.28
+Sword & Shield,,swsh8-66,Fusion Strike,Pokémon,Rare,66,Huntail,367,11/12/2021,0.13,,0.41,0.41
+Sword & Shield,,swsh8-67,Fusion Strike,Pokémon,Rare,67,Gorebyss,368,11/12/2021,0.18,,0.45,0.45
+Sword & Shield,,swsh8-68,Fusion Strike,Pokémon,Common,68,Panpour,515,11/12/2021,0.02,,0.19,0.19
+Sword & Shield,,swsh8-69,Fusion Strike,Pokémon,Uncommon,69,Simipour,516,11/12/2021,0.03,,0.18,0.18
+Sword & Shield,,swsh8-70,Fusion Strike,Pokémon,Common,70,Basculin,550,11/12/2021,0.08,,0.31,0.31
+Sword & Shield,,swsh8-71,Fusion Strike,Pokémon,Common,71,Galarian Darumaka,554,11/12/2021,0.03,,0.19,0.19
+Sword & Shield,,swsh8-72,Fusion Strike,Pokémon,Uncommon,72,Galarian Darmanitan,555,11/12/2021,0.07,,0.22,0.22
+Sword & Shield,,swsh8-73,Fusion Strike,Pokémon,Rare Holo V,73,Greninja V,658,11/12/2021,,1.34,,1.34
+Sword & Shield,,swsh8-74,Fusion Strike,Pokémon,Common,74,Clauncher,692,11/12/2021,0.04,,0.21,0.21
+Sword & Shield,,swsh8-75,Fusion Strike,Pokémon,Uncommon,75,Clawitzer,693,11/12/2021,0.07,,0.17,0.17
+Sword & Shield,,swsh8-76,Fusion Strike,Pokémon,Rare Holo V,76,Crabominable V,740,11/12/2021,,1.06,,1.06
+Sword & Shield,,swsh8-77,Fusion Strike,Pokémon,Uncommon,77,Pyukumuku,771,11/12/2021,0.1,,0.4,0.4
+Sword & Shield,,swsh8-78,Fusion Strike,Pokémon,Rare Holo V,78,Inteleon V,818,11/12/2021,,2.6,,2.6
+Sword & Shield,,swsh8-79,Fusion Strike,Pokémon,Rare Holo VMAX,79,Inteleon VMAX,818,11/12/2021,,7.02,,7.02
+Sword & Shield,,swsh8-80,Fusion Strike,Pokémon,Common,80,Chewtle,833,11/12/2021,0.06,,0.24,0.24
+Sword & Shield,,swsh8-81,Fusion Strike,Pokémon,Uncommon,81,Drednaw,834,11/12/2021,0.07,,0.26,0.26
+Sword & Shield,,swsh8-82,Fusion Strike,Pokémon,Common,82,Arrokuda,846,11/12/2021,0.08,,0.16,0.16
+Sword & Shield,,swsh8-83,Fusion Strike,Pokémon,Uncommon,83,Barraskewda,847,11/12/2021,0.06,,0.19,0.19
+Sword & Shield,,swsh8-84,Fusion Strike,Pokémon,Common,84,Snom,872,11/12/2021,0.09,,0.2,0.2
+Sword & Shield,,swsh8-85,Fusion Strike,Pokémon,Uncommon,85,Frosmoth,873,11/12/2021,0.06,,0.21,0.21
+Sword & Shield,,swsh8-86,Fusion Strike,Pokémon,Rare Holo V,86,Pikachu V,25,11/12/2021,,1.59,,1.59
+Sword & Shield,,swsh8-87,Fusion Strike,Pokémon,Common,87,Voltorb,100,11/12/2021,0.05,,0.12,0.12
+Sword & Shield,,swsh8-88,Fusion Strike,Pokémon,Rare,88,Electrode,101,11/12/2021,0.1,,0.23,0.23
+Sword & Shield,,swsh8-89,Fusion Strike,Pokémon,Common,89,Plusle,311,11/12/2021,0.03,,0.24,0.24
+Sword & Shield,,swsh8-90,Fusion Strike,Pokémon,Common,90,Minun,312,11/12/2021,0.07,,0.21,0.21
+Sword & Shield,,swsh8-91,Fusion Strike,Pokémon,Common,91,Shinx,403,11/12/2021,0.06,,0.19,0.19
+Sword & Shield,,swsh8-92,Fusion Strike,Pokémon,Uncommon,92,Luxio,404,11/12/2021,0.09,,0.24,0.24
+Sword & Shield,,swsh8-93,Fusion Strike,Pokémon,Rare,93,Luxray,405,11/12/2021,0.14,,0.26,0.26
+Sword & Shield,,swsh8-94,Fusion Strike,Pokémon,Common,94,Rotom,479,11/12/2021,0.04,,0.21,0.21
+Sword & Shield,,swsh8-95,Fusion Strike,Pokémon,Common,95,Tynamo,602,11/12/2021,0.03,,0.15,0.15
+Sword & Shield,,swsh8-96,Fusion Strike,Pokémon,Uncommon,96,Eelektrik,603,11/12/2021,0.05,,0.23,0.23
+Sword & Shield,,swsh8-97,Fusion Strike,Pokémon,Rare,97,Eelektross,604,11/12/2021,0.12,,0.22,0.22
+Sword & Shield,,swsh8-98,Fusion Strike,Pokémon,Common,98,Helioptile,694,11/12/2021,0.05,,0.2,0.2
+Sword & Shield,,swsh8-99,Fusion Strike,Pokémon,Uncommon,99,Heliolisk,695,11/12/2021,0.08,,0.3,0.3
+Sword & Shield,,swsh8-100,Fusion Strike,Pokémon,Uncommon,100,Charjabug,737,11/12/2021,0.05,,0.21,0.21
+Sword & Shield,,swsh8-101,Fusion Strike,Pokémon,Rare,101,Vikavolt,738,11/12/2021,0.15,,0.24,0.24
+Sword & Shield,,swsh8-102,Fusion Strike,Pokémon,Rare,102,Zeraora,807,11/12/2021,0.13,,0.31,0.31
+Sword & Shield,,swsh8-103,Fusion Strike,Pokémon,Rare Holo V,103,Boltund V,836,11/12/2021,,1.16,,1.16
+Sword & Shield,,swsh8-104,Fusion Strike,Pokémon,Rare Holo VMAX,104,Boltund VMAX,836,11/12/2021,,3.47,,3.47
+Sword & Shield,,swsh8-105,Fusion Strike,Pokémon,Common,105,Toxel,848,11/12/2021,0.05,,0.15,0.15
+Sword & Shield,,swsh8-106,Fusion Strike,Pokémon,Common,106,Toxel,848,11/12/2021,0.11,,0.38,0.38
+Sword & Shield,,swsh8-107,Fusion Strike,Pokémon,Rare Holo,107,Toxtricity,849,11/12/2021,,0.27,0.27,0.27
+Sword & Shield,,swsh8-108,Fusion Strike,Pokémon,Rare Holo,108,Toxtricity,849,11/12/2021,,0.55,0.86,0.86
+Sword & Shield,,swsh8-109,Fusion Strike,Pokémon,Common,109,Morpeko,877,11/12/2021,0.05,,0.16,0.16
+Sword & Shield,,swsh8-110,Fusion Strike,Pokémon,Common,110,Jigglypuff,39,11/12/2021,0.11,,0.31,0.31
+Sword & Shield,,swsh8-111,Fusion Strike,Pokémon,Uncommon,111,Wigglytuff,40,11/12/2021,0.12,,0.29,0.29
+Sword & Shield,,swsh8-112,Fusion Strike,Pokémon,Common,112,Jynx,124,11/12/2021,0.04,,0.19,0.19
+Sword & Shield,,swsh8-113,Fusion Strike,Pokémon,Rare Holo V,113,Mew V,151,11/12/2021,,8.82,,8.82
+Sword & Shield,,swsh8-114,Fusion Strike,Pokémon,Rare Holo VMAX,114,Mew VMAX,151,11/12/2021,,36.29,,36.29
+Sword & Shield,,swsh8-115,Fusion Strike,Pokémon,Common,115,Snubbull,209,11/12/2021,0.05,,0.18,0.18
+Sword & Shield,,swsh8-116,Fusion Strike,Pokémon,Rare,116,Granbull,210,11/12/2021,0.11,,0.21,0.21
+Sword & Shield,,swsh8-117,Fusion Strike,Pokémon,Common,117,Galarian Corsola,222,11/12/2021,0.05,,0.19,0.19
+Sword & Shield,,swsh8-118,Fusion Strike,Pokémon,Rare,118,Galarian Cursola,864,11/12/2021,0.17,,0.27,0.27
+Sword & Shield,,swsh8-119,Fusion Strike,Pokémon,Common,119,Mawile,303,11/12/2021,0.05,,0.28,0.28
+Sword & Shield,,swsh8-120,Fusion Strike,Pokémon,Rare Holo,120,Deoxys,386,11/12/2021,,0.44,0.5,0.5
+Sword & Shield,,swsh8-121,Fusion Strike,Pokémon,Common,121,Munna,517,11/12/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh8-122,Fusion Strike,Pokémon,Uncommon,122,Musharna,518,11/12/2021,0.08,,0.18,0.18
+Sword & Shield,,swsh8-123,Fusion Strike,Pokémon,Common,123,Sigilyph,561,11/12/2021,0.06,,0.19,0.19
+Sword & Shield,,swsh8-124,Fusion Strike,Pokémon,Rare,124,Meloetta,648,11/12/2021,0.21,,0.67,0.67
+Sword & Shield,,swsh8-125,Fusion Strike,Pokémon,Common,125,Sandygast,769,11/12/2021,0.06,,0.22,0.22
+Sword & Shield,,swsh8-126,Fusion Strike,Pokémon,Rare,126,Palossand,770,11/12/2021,0.1,,0.25,0.25
+Sword & Shield,,swsh8-127,Fusion Strike,Pokémon,Common,127,Indeedee,876,11/12/2021,0.06,,0.19,0.19
+Sword & Shield,,swsh8-128,Fusion Strike,Pokémon,Common,128,Dreepy,885,11/12/2021,0.06,,0.22,0.22
+Sword & Shield,,swsh8-129,Fusion Strike,Pokémon,Uncommon,129,Drakloak,886,11/12/2021,0.07,,0.32,0.32
+Sword & Shield,,swsh8-130,Fusion Strike,Pokémon,Rare Holo,130,Dragapult,887,11/12/2021,,0.4,0.45,0.45
+Sword & Shield,,swsh8-131,Fusion Strike,Pokémon,Common,131,Sandshrew,27,11/12/2021,0.09,,0.27,0.27
+Sword & Shield,,swsh8-132,Fusion Strike,Pokémon,Uncommon,132,Sandslash,28,11/12/2021,0.1,,0.19,0.19
+Sword & Shield,,swsh8-133,Fusion Strike,Pokémon,Common,133,Mankey,56,11/12/2021,0.04,,0.26,0.26
+Sword & Shield,,swsh8-134,Fusion Strike,Pokémon,Uncommon,134,Primeape,57,11/12/2021,0.06,,0.24,0.24
+Sword & Shield,,swsh8-135,Fusion Strike,Pokémon,Common,135,Geodude,74,11/12/2021,0.07,,0.22,0.22
+Sword & Shield,,swsh8-136,Fusion Strike,Pokémon,Uncommon,136,Graveler,75,11/12/2021,0.07,,0.14,0.14
+Sword & Shield,,swsh8-137,Fusion Strike,Pokémon,Rare,137,Golem,76,11/12/2021,0.15,,0.25,0.25
+Sword & Shield,,swsh8-138,Fusion Strike,Pokémon,Common,138,Onix,95,11/12/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh8-139,Fusion Strike,Pokémon,Rare Holo,139,Steelix,208,11/12/2021,,0.23,0.25,0.25
+Sword & Shield,,swsh8-140,Fusion Strike,Pokémon,Common,140,Gligar,207,11/12/2021,0.06,,0.13,0.13
+Sword & Shield,,swsh8-141,Fusion Strike,Pokémon,Uncommon,141,Gliscor,472,11/12/2021,0.05,,0.24,0.24
+Sword & Shield,,swsh8-142,Fusion Strike,Pokémon,Common,142,Makuhita,296,11/12/2021,0.03,,0.23,0.23
+Sword & Shield,,swsh8-143,Fusion Strike,Pokémon,Uncommon,143,Hariyama,297,11/12/2021,0.08,,0.22,0.22
+Sword & Shield,,swsh8-144,Fusion Strike,Pokémon,Common,144,Baltoy,343,11/12/2021,0.05,,0.15,0.15
+Sword & Shield,,swsh8-145,Fusion Strike,Pokémon,Rare,145,Claydol,344,11/12/2021,0.12,,0.2,0.2
+Sword & Shield,,swsh8-146,Fusion Strike,Pokémon,Rare Holo V,146,Lucario V,448,11/12/2021,,1.46,,1.46
+Sword & Shield,,swsh8-147,Fusion Strike,Pokémon,Common,147,Drilbur,529,11/12/2021,0.03,,0.16,0.16
+Sword & Shield,,swsh8-148,Fusion Strike,Pokémon,Rare Holo,148,Landorus,645,11/12/2021,,0.25,0.28,0.28
+Sword & Shield,,swsh8-149,Fusion Strike,Pokémon,Common,149,Pancham,674,11/12/2021,0.05,,0.15,0.15
+Sword & Shield,,swsh8-150,Fusion Strike,Pokémon,Common,150,Stufful,759,11/12/2021,0.07,,0.2,0.2
+Sword & Shield,,swsh8-151,Fusion Strike,Pokémon,Uncommon,151,Bewear,760,11/12/2021,0.04,,0.22,0.22
+Sword & Shield,,swsh8-152,Fusion Strike,Pokémon,Common,152,Clobbopus,852,11/12/2021,0.04,,0.17,0.17
+Sword & Shield,,swsh8-153,Fusion Strike,Pokémon,Uncommon,153,Grapploct,853,11/12/2021,0.06,,0.2,0.2
+Sword & Shield,,swsh8-154,Fusion Strike,Pokémon,Uncommon,154,Falinks,870,11/12/2021,0.06,,0.22,0.22
+Sword & Shield,,swsh8-155,Fusion Strike,Pokémon,Common,155,Falinks,870,11/12/2021,0.04,,0.16,0.16
+Sword & Shield,,swsh8-156,Fusion Strike,Pokémon,Rare Holo V,156,Gengar V,94,11/12/2021,,5.93,,5.93
+Sword & Shield,,swsh8-157,Fusion Strike,Pokémon,Rare Holo VMAX,157,Gengar VMAX,94,11/12/2021,,16.44,,16.44
+Sword & Shield,,swsh8-158,Fusion Strike,Pokémon,Rare Holo V,158,Tyranitar V,248,11/12/2021,,1.24,,1.24
+Sword & Shield,,swsh8-159,Fusion Strike,Pokémon,Common,159,Galarian Zigzagoon,263,11/12/2021,0.06,,0.23,0.23
+Sword & Shield,,swsh8-160,Fusion Strike,Pokémon,Uncommon,160,Galarian Linoone,264,11/12/2021,0.15,,0.23,0.23
+Sword & Shield,,swsh8-161,Fusion Strike,Pokémon,Rare Holo,161,Galarian Obstagoon,862,11/12/2021,,0.95,0.93,0.95
+Sword & Shield,,swsh8-162,Fusion Strike,Pokémon,Common,162,Carvanha,318,11/12/2021,0.05,,0.24,0.24
+Sword & Shield,,swsh8-163,Fusion Strike,Pokémon,Uncommon,163,Sharpedo,319,11/12/2021,0.11,,0.26,0.26
+Sword & Shield,,swsh8-164,Fusion Strike,Pokémon,Rare,164,Absol,359,11/12/2021,0.11,,0.28,0.28
+Sword & Shield,,swsh8-165,Fusion Strike,Pokémon,Common,165,Croagunk,453,11/12/2021,0.09,,0.17,0.17
+Sword & Shield,,swsh8-166,Fusion Strike,Pokémon,Rare,166,Toxicroak,454,11/12/2021,0.17,,0.27,0.27
+Sword & Shield,,swsh8-167,Fusion Strike,Pokémon,Uncommon,167,Darkrai,491,11/12/2021,0.09,,0.24,0.24
+Sword & Shield,,swsh8-168,Fusion Strike,Pokémon,Common,168,Trubbish,568,11/12/2021,0.05,,0.19,0.19
+Sword & Shield,,swsh8-169,Fusion Strike,Pokémon,Uncommon,169,Garbodor,569,11/12/2021,0.06,,0.17,0.17
+Sword & Shield,,swsh8-170,Fusion Strike,Pokémon,Common,170,Zorua,570,11/12/2021,0.09,,0.17,0.17
+Sword & Shield,,swsh8-171,Fusion Strike,Pokémon,Uncommon,171,Zoroark,571,11/12/2021,0.11,,0.26,0.26
+Sword & Shield,,swsh8-172,Fusion Strike,Pokémon,Common,172,Vullaby,629,11/12/2021,0.05,,0.18,0.18
+Sword & Shield,,swsh8-173,Fusion Strike,Pokémon,Uncommon,173,Mandibuzz,630,11/12/2021,0.08,,0.22,0.22
+Sword & Shield,,swsh8-174,Fusion Strike,Pokémon,Uncommon,174,Pangoro,675,11/12/2021,0.07,,0.23,0.23
+Sword & Shield,,swsh8-175,Fusion Strike,Pokémon,Rare,175,Yveltal,717,11/12/2021,0.14,,0.35,0.35
+Sword & Shield,,swsh8-176,Fusion Strike,Pokémon,Common,176,Impidimp,859,11/12/2021,0.07,,0.2,0.2
+Sword & Shield,,swsh8-177,Fusion Strike,Pokémon,Uncommon,177,Morgrem,860,11/12/2021,0.11,,0.25,0.25
+Sword & Shield,,swsh8-178,Fusion Strike,Pokémon,Rare Holo,178,Grimmsnarl,861,11/12/2021,,0.27,0.39,0.39
+Sword & Shield,,swsh8-179,Fusion Strike,Pokémon,Common,179,Morpeko,877,11/12/2021,0.1,,0.36,0.36
+Sword & Shield,,swsh8-180,Fusion Strike,Pokémon,Common,180,Galarian Meowth,52,11/12/2021,0.08,,0.24,0.24
+Sword & Shield,,swsh8-181,Fusion Strike,Pokémon,Uncommon,181,Galarian Perrserker,863,11/12/2021,0.07,,0.23,0.23
+Sword & Shield,,swsh8-182,Fusion Strike,Pokémon,Common,182,Skarmory,227,11/12/2021,0.04,,0.23,0.23
+Sword & Shield,,swsh8-183,Fusion Strike,Pokémon,Uncommon,183,Excadrill,530,11/12/2021,0.06,,0.22,0.22
+Sword & Shield,,swsh8-184,Fusion Strike,Pokémon,Common,184,Durant,632,11/12/2021,0.04,,0.17,0.17
+Sword & Shield,,swsh8-185,Fusion Strike,Pokémon,Rare Holo V,185,Genesect V,649,11/12/2021,,8.25,,8.25
+Sword & Shield,,swsh8-186,Fusion Strike,Pokémon,Common,186,Klefki,707,11/12/2021,0.03,,0.16,0.16
+Sword & Shield,,swsh8-187,Fusion Strike,Pokémon,Uncommon,187,Togedemaru,777,11/12/2021,0.1,,0.22,0.22
+Sword & Shield,,swsh8-188,Fusion Strike,Pokémon,Common,188,Meltan,808,11/12/2021,0.04,,0.11,0.11
+Sword & Shield,,swsh8-189,Fusion Strike,Pokémon,Rare Holo,189,Melmetal,809,11/12/2021,,0.3,0.31,0.31
+Sword & Shield,,swsh8-190,Fusion Strike,Pokémon,Rare,190,Corviknight,823,11/12/2021,0.14,,0.33,0.33
+Sword & Shield,,swsh8-191,Fusion Strike,Pokémon,Common,191,Cufant,878,11/12/2021,0.05,,0.18,0.18
+Sword & Shield,,swsh8-192,Fusion Strike,Pokémon,Uncommon,192,Copperajah,879,11/12/2021,0.05,,0.23,0.23
+Sword & Shield,,swsh8-193,Fusion Strike,Pokémon,Rare,193,Latias,380,11/12/2021,0.27,,0.7,0.7
+Sword & Shield,,swsh8-194,Fusion Strike,Pokémon,Rare,194,Latios,381,11/12/2021,0.2,,0.44,0.44
+Sword & Shield,,swsh8-195,Fusion Strike,Pokémon,Common,195,Goomy,704,11/12/2021,0.07,,0.22,0.22
+Sword & Shield,,swsh8-196,Fusion Strike,Pokémon,Uncommon,196,Sliggoo,705,11/12/2021,0.06,,0.2,0.2
+Sword & Shield,,swsh8-197,Fusion Strike,Pokémon,Rare,197,Goodra,706,11/12/2021,0.19,,0.3,0.3
+Sword & Shield,,swsh8-198,Fusion Strike,Pokémon,Uncommon,198,Turtonator,776,11/12/2021,0.1,,0.18,0.18
+Sword & Shield,,swsh8-199,Fusion Strike,Pokémon,Common,199,Meowth,52,11/12/2021,0.08,,0.18,0.18
+Sword & Shield,,swsh8-200,Fusion Strike,Pokémon,Uncommon,200,Persian,53,11/12/2021,0.09,,0.24,0.24
+Sword & Shield,,swsh8-201,Fusion Strike,Pokémon,Rare Holo V,201,Dodrio V,85,11/12/2021,,1.17,,1.17
+Sword & Shield,,swsh8-202,Fusion Strike,Pokémon,Common,202,Chansey,113,11/12/2021,0.06,,0.16,0.16
+Sword & Shield,,swsh8-203,Fusion Strike,Pokémon,Rare,203,Blissey,242,11/12/2021,0.22,,0.38,0.38
+Sword & Shield,,swsh8-204,Fusion Strike,Pokémon,Rare,204,Kangaskhan,115,11/12/2021,0.12,,0.27,0.27
+Sword & Shield,,swsh8-205,Fusion Strike,Pokémon,Common,205,Eevee,133,11/12/2021,0.1,,0.28,0.28
+Sword & Shield,,swsh8-206,Fusion Strike,Pokémon,Common,206,Snorlax,143,11/12/2021,0.09,,0.22,0.22
+Sword & Shield,,swsh8-207,Fusion Strike,Pokémon,Uncommon,207,Dunsparce,206,11/12/2021,0.06,,0.32,0.32
+Sword & Shield,,swsh8-208,Fusion Strike,Pokémon,Uncommon,208,Stantler,234,11/12/2021,0.09,,0.24,0.24
+Sword & Shield,,swsh8-209,Fusion Strike,Pokémon,Common,209,Smeargle,235,11/12/2021,0.05,,0.28,0.28
+Sword & Shield,,swsh8-210,Fusion Strike,Pokémon,Common,210,Skitty,300,11/12/2021,0.06,,0.13,0.13
+Sword & Shield,,swsh8-211,Fusion Strike,Pokémon,Uncommon,211,Delcatty,301,11/12/2021,0.06,,0.24,0.24
+Sword & Shield,,swsh8-212,Fusion Strike,Pokémon,Common,212,Buneary,427,11/12/2021,0.05,,0.21,0.21
+Sword & Shield,,swsh8-213,Fusion Strike,Pokémon,Uncommon,213,Lopunny,428,11/12/2021,0.06,,0.23,0.23
+Sword & Shield,,swsh8-214,Fusion Strike,Pokémon,Common,214,Bunnelby,659,11/12/2021,0.06,,0.17,0.17
+Sword & Shield,,swsh8-215,Fusion Strike,Pokémon,Uncommon,215,Diggersby,660,11/12/2021,0.06,,0.2,0.2
+Sword & Shield,,swsh8-216,Fusion Strike,Pokémon,Uncommon,216,Hawlucha,701,11/12/2021,0.05,,0.18,0.18
+Sword & Shield,,swsh8-217,Fusion Strike,Pokémon,Rare Holo V,217,Greedent V,820,11/12/2021,,1.07,,1.07
+Sword & Shield,,swsh8-218,Fusion Strike,Pokémon,Rare Holo VMAX,218,Greedent VMAX,820,11/12/2021,,2.25,,2.25
+Sword & Shield,,swsh8-219,Fusion Strike,Pokémon,Common,219,Rookidee,821,11/12/2021,0.05,,0.22,0.22
+Sword & Shield,,swsh8-220,Fusion Strike,Pokémon,Uncommon,220,Corvisquire,822,11/12/2021,0.03,,0.22,0.22
+Sword & Shield,,swsh8-221,Fusion Strike,Pokémon,Common,221,Wooloo,831,11/12/2021,0.05,,0.27,0.27
+Sword & Shield,,swsh8-222,Fusion Strike,Pokémon,Common,222,Wooloo,831,11/12/2021,0.04,,0.18,0.18
+Sword & Shield,,swsh8-223,Fusion Strike,Pokémon,Uncommon,223,Dubwool,832,11/12/2021,0.07,,0.2,0.2
+Sword & Shield,,swsh8-224,Fusion Strike,Trainer,Uncommon,224,Adventurer's Discovery,,11/12/2021,1.46,,1.46,1.46
+Sword & Shield,,swsh8-225,Fusion Strike,Trainer,Uncommon,225,Battle VIP Pass,,11/12/2021,0.45,,,0.45
+Sword & Shield,,swsh8-226,Fusion Strike,Trainer,Uncommon,226,Bug Catcher,,11/12/2021,0.04,,0.18,0.18
+Sword & Shield,,swsh8-227,Fusion Strike,Trainer,Uncommon,227,Chili & Cilan & Cress,,11/12/2021,0.05,,0.26,0.26
+Sword & Shield,,swsh8-228,Fusion Strike,Trainer,Uncommon,228,Cook,,11/12/2021,0.08,,0.23,0.23
+Sword & Shield,,swsh8-229,Fusion Strike,Trainer,Uncommon,229,Cram-o-matic,,11/12/2021,0.33,,2.3,2.3
+Sword & Shield,,swsh8-230,Fusion Strike,Trainer,Uncommon,230,Cross Switcher,,11/12/2021,0.3,,1.5,1.5
+Sword & Shield,,swsh8-231,Fusion Strike,Trainer,Uncommon,231,Crossceiver,,11/12/2021,0.07,,0.33,0.33
+Sword & Shield,,swsh8-232,Fusion Strike,Trainer,Uncommon,232,Dancer,,11/12/2021,0.03,,0.18,0.18
+Sword & Shield,,swsh8-233,Fusion Strike,Trainer,Uncommon,233,Elesa's Sparkle,,11/12/2021,0.2,,0.8,0.8
+Sword & Shield,,swsh8-234,Fusion Strike,Trainer,Uncommon,234,Farewell Bell,,11/12/2021,0.04,,0.18,0.18
+Sword & Shield,,swsh8-235,Fusion Strike,Trainer,Uncommon,235,Judge,,11/12/2021,0.2,,0.31,0.31
+Sword & Shield,,swsh8-236,Fusion Strike,Trainer,Uncommon,236,Power Tablet,,11/12/2021,0.28,,1.61,1.61
+Sword & Shield,,swsh8-237,Fusion Strike,Trainer,Uncommon,237,Quick Ball,,11/12/2021,0.48,,1.18,1.18
+Sword & Shield,,swsh8-238,Fusion Strike,Trainer,Uncommon,238,Schoolboy,,11/12/2021,0.04,,0.19,0.19
+Sword & Shield,,swsh8-239,Fusion Strike,Trainer,Uncommon,239,Schoolgirl,,11/12/2021,0.04,,0.21,0.21
+Sword & Shield,,swsh8-240,Fusion Strike,Trainer,Uncommon,240,Shauna,,11/12/2021,0.08,,0.39,0.39
+Sword & Shield,,swsh8-241,Fusion Strike,Trainer,Uncommon,241,Sidney,,11/12/2021,0.08,,0.28,0.28
+Sword & Shield,,swsh8-242,Fusion Strike,Trainer,Uncommon,242,Skaters' Park,,11/12/2021,0.08,,0.29,0.29
+Sword & Shield,,swsh8-243,Fusion Strike,Trainer,Uncommon,243,Spongy Gloves,,11/12/2021,0.05,,0.22,0.22
+Sword & Shield,,swsh8-244,Fusion Strike,Energy,Uncommon,244,Fusion Strike Energy,,11/12/2021,0.22,,2.56,2.56
+Sword & Shield,,swsh8-245,Fusion Strike,Pokémon,Rare Ultra,245,Celebi V,251,11/12/2021,,29.61,,29.61
+Sword & Shield,,swsh8-246,Fusion Strike,Pokémon,Rare Ultra,246,Tsareena V,763,11/12/2021,,3.61,,3.61
+Sword & Shield,,swsh8-247,Fusion Strike,Pokémon,Rare Ultra,247,Chandelure V,609,11/12/2021,,3.28,,3.28
+Sword & Shield,,swsh8-248,Fusion Strike,Pokémon,Rare Ultra,248,Crabominable V,740,11/12/2021,,2.94,,2.94
+Sword & Shield,,swsh8-249,Fusion Strike,Pokémon,Rare Ultra,249,Boltund V,836,11/12/2021,,3.76,,3.76
+Sword & Shield,,swsh8-250,Fusion Strike,Pokémon,Rare Ultra,250,Mew V,151,11/12/2021,,23.29,,23.29
+Sword & Shield,,swsh8-251,Fusion Strike,Pokémon,Rare Ultra,251,Mew V,151,11/12/2021,,55.18,,55.18
+Sword & Shield,,swsh8-252,Fusion Strike,Pokémon,Rare Ultra,252,Sandaconda V,844,11/12/2021,,8.72,,8.72
+Sword & Shield,,swsh8-253,Fusion Strike,Pokémon,Rare Ultra,253,Hoopa V,720,11/12/2021,,5.8,,5.8
+Sword & Shield,,swsh8-254,Fusion Strike,Pokémon,Rare Ultra,254,Genesect V,649,11/12/2021,,14.99,,14.99
+Sword & Shield,,swsh8-255,Fusion Strike,Pokémon,Rare Ultra,255,Genesect V,649,11/12/2021,,38.04,,38.04
+Sword & Shield,,swsh8-256,Fusion Strike,Pokémon,Rare Ultra,256,Greedent V,820,11/12/2021,,3.95,,3.95
+Sword & Shield,,swsh8-257,Fusion Strike,Pokémon,Rare Ultra,257,Greedent V,820,11/12/2021,,16.62,,16.62
+Sword & Shield,,swsh8-258,Fusion Strike,Trainer,Rare Ultra,258,Chili & Cilan & Cress,,11/12/2021,,4.46,,4.46
+Sword & Shield,,swsh8-259,Fusion Strike,Trainer,Rare Ultra,259,Dancer,,11/12/2021,,4.25,,4.25
+Sword & Shield,,swsh8-260,Fusion Strike,Trainer,Rare Ultra,260,Elesa's Sparkle,,11/12/2021,,18.38,,18.38
+Sword & Shield,,swsh8-261,Fusion Strike,Trainer,Rare Ultra,261,Schoolboy,,11/12/2021,,4.24,,4.24
+Sword & Shield,,swsh8-262,Fusion Strike,Trainer,Rare Ultra,262,Schoolgirl,,11/12/2021,,7.2,,7.2
+Sword & Shield,,swsh8-263,Fusion Strike,Trainer,Rare Ultra,263,Shauna,,11/12/2021,,7.96,,7.96
+Sword & Shield,,swsh8-264,Fusion Strike,Trainer,Rare Ultra,264,Sidney,,11/12/2021,,3.18,,3.18
+Sword & Shield,,swsh8-265,Fusion Strike,Pokémon,Rare Rainbow,265,Chandelure VMAX,609,11/12/2021,,8.22,,8.22
+Sword & Shield,,swsh8-266,Fusion Strike,Pokémon,Rare Rainbow,266,Inteleon VMAX,818,11/12/2021,,35.18,,35.18
+Sword & Shield,,swsh8-267,Fusion Strike,Pokémon,Rare Rainbow,267,Boltund VMAX,836,11/12/2021,,12.24,,12.24
+Sword & Shield,,swsh8-268,Fusion Strike,Pokémon,Rare Rainbow,268,Mew VMAX,151,11/12/2021,,42.91,,42.91
+Sword & Shield,,swsh8-269,Fusion Strike,Pokémon,Rare Rainbow,269,Mew VMAX,151,11/12/2021,,94.37,,94.37
+Sword & Shield,,swsh8-270,Fusion Strike,Pokémon,Rare Rainbow,270,Espeon VMAX,196,11/12/2021,,98.12,,98.12
+Sword & Shield,,swsh8-271,Fusion Strike,Pokémon,Rare Rainbow,271,Gengar VMAX,94,11/12/2021,,103.9,,103.9
+Sword & Shield,,swsh8-272,Fusion Strike,Pokémon,Rare Rainbow,272,Greedent VMAX,820,11/12/2021,,8.02,,8.02
+Sword & Shield,,swsh8-273,Fusion Strike,Trainer,Rare Rainbow,273,Chili & Cilan & Cress,,11/12/2021,,6.99,,6.99
+Sword & Shield,,swsh8-274,Fusion Strike,Trainer,Rare Rainbow,274,Dancer,,11/12/2021,,7.34,,7.34
+Sword & Shield,,swsh8-275,Fusion Strike,Trainer,Rare Rainbow,275,Elesa's Sparkle,,11/12/2021,,10.88,,10.88
+Sword & Shield,,swsh8-276,Fusion Strike,Trainer,Rare Rainbow,276,Schoolboy,,11/12/2021,,5.28,,5.28
+Sword & Shield,,swsh8-277,Fusion Strike,Trainer,Rare Rainbow,277,Schoolgirl,,11/12/2021,,6.98,,6.98
+Sword & Shield,,swsh8-278,Fusion Strike,Trainer,Rare Rainbow,278,Shauna,,11/12/2021,,10.51,,10.51
+Sword & Shield,,swsh8-279,Fusion Strike,Trainer,Rare Rainbow,279,Sidney,,11/12/2021,,6.74,,6.74
+Sword & Shield,,swsh8-280,Fusion Strike,Pokémon,Rare Secret,280,Flaaffy,180,11/12/2021,,13.58,,13.58
+Sword & Shield,,swsh8-281,Fusion Strike,Trainer,Rare Secret,281,Power Tablet,,11/12/2021,,11.01,,11.01
+Sword & Shield,,swsh8-282,Fusion Strike,Trainer,Rare Secret,282,Training Court,,11/12/2021,,10.19,,10.19
+Sword & Shield,,swsh8-283,Fusion Strike,Energy,Rare Secret,283,Grass Energy,,11/12/2021,,12.21,,12.21
+Sword & Shield,,swsh8-284,Fusion Strike,Energy,Rare Secret,284,Fire Energy,,11/12/2021,,13.97,,13.97
